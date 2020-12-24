@@ -24,7 +24,7 @@ pd_bpip_date,pd_time,pd_currency,pd_news,pd_impact,pd_forecast,pd_previous,pd_im
 1/20/2021,1:00,GBP,Inflation Rate YoY,high,0.50%,0.30%,-1
 1/20/2021,17:50,JPY,Balance of Trade,high,200.0B,366.8B,1
 1/21/2021,17:30,JPY,Inflation Rate YoY,high,-0.30%,-0.90%,-1
-1/21/2021,18:01,GBP,Gfk Consumer Confidence,high,-27,1
+1/21/2021,18:01,GBP,Gfk Consumer Confidence,high,-27,,1
 1/25/2021,3:00,EUR,German Ifo Business Climate,high,94,92.1,1
 1/26/2021,1:00,GBP,Claimant Count Change,high,44.0k,64.3k,-1
 1/26/2021,9:00,USD,CB Consumer Confidence,high,,,1
