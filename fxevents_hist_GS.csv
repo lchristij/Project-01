@@ -455,7 +455,7 @@ Date,Time,Currency,News,Impact,Forecast,Previous,Direction
 2017-10-13,7:30,USD,Retail Sales (m/m),high,1.70%,-0.1%*,1
 2017-10-13,7:30,USD,Core CPI (m/m),high,0.20%,0.20%,1
 2017-10-13,7:30,USD,CPI (m/m),high,0.60%,0.40%,1
-2017-10-13,9:00,USD,UoM Consumer Sentiment Index,high,95,95.1
+2017-10-13,9:00,USD,UoM Consumer Sentiment Index,high,95,95.1,1
 2017-10-17,3:30,GBP,CPI (m/m),high,0.30%,0.60%,1
 2017-10-17,3:30,GBP,CPI (y/y),high,3.00%,2.90%,1
 2017-10-17,4:00,EUR,ZEW (Economic Sentiment),high,Unknown,31.7,1
