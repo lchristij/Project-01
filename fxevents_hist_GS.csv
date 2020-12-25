@@ -1299,7 +1299,7 @@ Date,Time,Currency,News,Impact,Forecast,Previous,Direction
 2019-09-06,7:30,USD,Average Hourly Earnings (m/m),high,0.30%,0.30%,1
 2019-09-06,7:30,USD,Nonfarm Payrolls,high,160.0k,159.0k*,1
 2019-09-06,7:30,USD,Private Payrolls,high,150.0k,131.0k*,1
-2019-09-06,7:30,USD,Unemployment Rate,high,3.70%,3.70%,-,h Economic Outlook and Monetary Policy Panel,high,Unknown,Unknown,1
+2019-09-06,7:30,USD,Unemployment Rate,high,3.70%,3.70%,-1
 2019-09-09,3:30,GBP,GDP (m/m),high,0.10%,0.00%,1
 2019-09-09,3:30,GBP,Manufacturing Production (m/m),high,-0.20%,-0.20%,1
 2019-09-09,3:30,GBP,Manufacturing Production (y/y),high,-1.10%,-1.40%,1
