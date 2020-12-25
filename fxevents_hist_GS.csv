@@ -1025,7 +1025,7 @@ Date,Time,Currency,News,Impact,Forecast,Previous,Direction
 2019-01-18,3:30,GBP,Retail Sales (y/y),high,3.60%,3.4%*,1
 2019-01-18,9:00,USD,UoM Consumer Sentiment Index,high,96.8,98.3,1
 2019-01-21,All Day,USD,Market Holiday - Martin L. King Day,high,Unknown,Unknown,1
-2019-01-22,4:00,EUR,ZEW (Economic Sentiment),high,Unknown,-21
+2019-01-22,4:00,EUR,ZEW (Economic Sentiment),high,Unknown,-21,1
 2019-01-22,20:30,JPY,BoJ's Kuroda Press Conference,high,Unknown,Unknown,1
 2019-01-23,All Day,JPY,BoJ Monetary Policy Meeting,high,Unknown,Unknown,1
 2019-01-24,All Day,EUR,ECB Monetary Policy Meeting in Frankfurt,high,Unknown,Unknown,1
