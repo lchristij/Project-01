@@ -24,9 +24,9 @@ Date,Time,Currency,News,Impact,Forecast,Previous,Direction
 1/31/2017,9:00,USD,Consumer Confidence,high,112.8,113.3*,1
 2/1/2017,7:15,USD,ADP National Employment Report,high,167.0k,151.0k*,1
 2/1/2017,9:00,USD,ISM Manufacturing,high,55,54.5,1
-2/1/2017,13:00,USD,Federal Funds Rate,high,0.75%,0.75%,-1
-2/2/2017,6:00,GBP,Official Bank Rate,high,0.25%,0.25%,-1
-2/2/2017,6:00,GBP,Asset Purchase Facility,high,435.0B,435.0B,-1
+2/1/2017,13:00,USD,Federal Funds Rate,high,0.75%,0.75%,1
+2/2/2017,6:00,GBP,Official Bank Rate,high,0.25%,0.25%,1
+2/2/2017,6:00,GBP,Asset Purchase Facility,high,435.0B,435.0B,1
 2/2/2017,6:00,GBP,BoE Releases Quarterly Inflation Report,high,Unknown,Unknown,0
 2/2/2017,6:00,GBP,BoE MPC minutes released,high,Unknown,Unknown,0
 2/2/2017,6:00,GBP,BoE Monetary Policy Committee Meeting and Rate Decision,high,Unknown,Unknown,0
