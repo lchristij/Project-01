@@ -1,0 +1,81 @@
+Date,Time,Currency,News,Impact,Forecast,Previous
+2021-01-05,23:00,JPY,Consumer Confidence,high,35.0,33.7
+2021-01-06,07:15,USD,ADP National Employment Report,high,170.0k,307.0k
+2021-01-07,07:30,USD,Balance of Trade,high,-67.6B,-63.1B
+2021-01-08,01:00,EUR,German Balance of Trade,high,17.6B,19.4B
+2021-01-08,04:00,EUR,Business Climate,high,0,0
+2021-01-08,07:30,USD,Nonfarm Payrolls,high,112.0k,245.0k
+2021-01-08,07:30,USD,Unemployment Rate,high,6.7%,6.7%
+2021-01-08,07:30,USD,Average Hourly Earnings MoM,high,0.1%,0.3%
+2021-01-13,07:30,USD,Inflation Rate YoY,high,1.2%,1.2%
+2021-01-13,07:30,USD,Core Inflation Rate YoY,high,1.6%,1.6%
+2021-01-14,03:00,EUR,German Government Budget,high,-7.0%,1.5%
+2021-01-15,01:00,GBP,Manufacturing Production MoM,high,0.2%,1.7%
+2021-01-15,01:00,GBP,Manufacturing Production YoY,high,-6.0%,-7.1%
+2021-01-15,01:00,GBP,Balance of Trade,high,-1.2B,-1.7B
+2021-01-15,07:30,USD,PPI MoM,high,0.2%,0.1%
+2021-01-15,07:30,USD,Retail Sales MoM,high,0.2%,-1.1%
+2021-01-20,01:00,GBP,Inflation Rate YoY,high,0.5%,0.3%
+2021-01-20,17:50,JPY,Balance of Trade,high,200.0B,366.8B
+2021-01-21,17:30,JPY,Inflation Rate YoY,high,-0.3%,-0.9%
+2021-01-21,18:01,GBP,Gfk Consumer Confidence,high,-27.0,-26.0
+2021-01-25,03:00,EUR,German Ifo Business Climate,high,94.0,92.1
+2021-01-26,01:00,GBP,Claimant Count Change,high,86.3k,64.3k
+2021-01-26,09:00,USD,CB Consumer Confidence,high,0,0
+2021-01-27,01:00,EUR,German GfK Consumer Confidence,high,-1.0,-7.3
+2021-01-27,07:30,USD,Durable Goods Orders,high,0.4%,0.9%
+2021-01-28,23:00,JPY,Consumer Confidence,high,34.0,0
+2021-01-29,04:00,EUR,Business Climate,high,0,0
+2021-01-29,07:30,USD,Personal Income,high,-0.6%,-1.1%
+2021-01-29,07:30,USD,Personal Spending MoM,high,-0.4%,-0.4%
+2021-01-29,09:00,USD,UoM Consumer Sentiment Index,high,0,0
+2021-02-03,07:15,USD,ADP National Employment Report,high,0,0
+2021-02-05,07:30,USD,Balance of Trade,high,-55.0B,0
+2021-02-05,07:30,USD,Unemployment Rate,high,0,0
+2021-02-05,07:30,USD,Nonfarm Payrolls,high,0,0
+2021-02-05,07:30,USD,Average Hourly Earnings MoM,high,0,0
+2021-02-09,01:00,EUR,German Balance of Trade,high,0,0
+2021-02-10,01:00,GBP,Manufacturing Production YoY,high,-7.2%,0
+2021-02-10,01:00,GBP,Manufacturing Production MoM,high,-1.6%,0
+2021-02-10,01:00,GBP,Balance of Trade,high,0,0
+2021-02-10,07:30,USD,Inflation Rate YoY,high,0,0
+2021-02-10,07:30,USD,Core Inflation Rate YoY,high,0,0
+2021-02-16,17:50,JPY,Balance of Trade,high,0,0
+2021-02-17,03:30,GBP,Inflation Rate YoY,high,0,0
+2021-02-17,07:30,USD,PPI MoM,high,0,0
+2021-02-17,07:30,USD,Retail Sales MoM,high,0,0
+2021-02-18,17:30,JPY,Inflation Rate YoY,high,0,0
+2021-02-18,18:01,GBP,Gfk Consumer Confidence,high,0,0
+2021-02-22,03:00,EUR,German Ifo Business Climate,high,0,0
+2021-02-23,01:00,GBP,Claimant Count Change,high,0,0
+2021-02-23,09:00,USD,CB Consumer Confidence,high,0,0
+2021-02-25,01:00,EUR,German GfK Consumer Confidence,high,0,0
+2021-02-25,07:30,USD,Durable Goods Orders,high,0,0
+2021-02-26,07:30,USD,Personal Income,high,0,0
+2021-02-26,07:30,USD,Personal Spending MoM,high,0,0
+2021-02-26,09:00,USD,UoM Consumer Sentiment Index,high,0,0
+2021-03-03,07:15,USD,ADP National Employment Report,high,0,0
+2021-03-03,23:00,JPY,Consumer Confidence,high,0,0
+2021-03-05,07:30,USD,Balance of Trade,high,0,0
+2021-03-05,07:30,USD,Average Hourly Earnings MoM,high,0,0
+2021-03-05,07:30,USD,Nonfarm Payrolls,high,0,0
+2021-03-05,07:30,USD,Unemployment Rate,high,0,0
+2021-03-09,01:00,EUR,German Balance of Trade,high,0,0
+2021-03-10,07:30,USD,Core Inflation Rate YoY,high,0,0
+2021-03-10,07:30,USD,Inflation Rate YoY,high,0,0
+2021-03-12,01:00,GBP,Manufacturing Production MoM,high,0,0
+2021-03-12,01:00,GBP,Manufacturing Production YoY,high,0,0
+2021-03-12,01:00,GBP,Balance of Trade,high,0,0
+2021-03-12,07:30,USD,PPI MoM,high,0,0
+2021-03-16,07:30,USD,Retail Sales MoM,high,0,0
+2021-03-16,18:50,JPY,Balance of Trade,high,0,0
+2021-03-18,18:30,JPY,Inflation Rate YoY,high,0,0
+2021-03-18,19:01,GBP,Gfk Consumer Confidence,high,0,0
+2021-03-23,02:00,GBP,Claimant Count Change,high,0,0
+2021-03-24,04:30,GBP,Inflation Rate YoY,high,0,0
+2021-03-24,07:30,USD,Durable Goods Orders,high,0,0
+2021-03-25,02:00,EUR,German GfK Consumer Confidence,high,0,0
+2021-03-26,04:00,EUR,German Ifo Business Climate,high,0,0
+2021-03-26,07:30,USD,Personal Income,high,0,0
+2021-03-26,07:30,USD,Personal Spending MoM,high,0,0
+2021-03-26,09:00,USD,UoM Consumer Sentiment Index,high,0,0
