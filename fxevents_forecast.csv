@@ -29,141 +29,149 @@
 24,2021,Jan,4,Monday,17:00,USD,Fed Mester Speech,med,,
 25,2021,Jan,4,Monday,18:30,AUD,ANZ Job Advertisements MoM,low,,13.5%*
 0,2021,Jan,5,Tuesday,01:00,EUR,German Retail Sales MoM,med,-2.0%,2.6%
-1,2021,Jan,5,Tuesday,01:00,EUR,German Retail Sales YoY,med,4.5%,8.2%
+1,2021,Jan,5,Tuesday,01:00,EUR,German Retail Sales YoY,med,4.5%,8.6%*
 2,2021,Jan,5,Tuesday,01:00,EUR,German Wholesale Price Index,med,4.5%,4.5%
 3,2021,Jan,5,Tuesday,01:30,CHF,Inflation Rate MoM,low,0.0%,-0.2%
 4,2021,Jan,5,Tuesday,01:30,CHF,Inflation Rate YoY,med,-0.7%,-0.7%
-5,2021,Jan,5,Tuesday,02:55,EUR,German Unemployment Change,med,15.0k,-39.0k
+5,2021,Jan,5,Tuesday,02:55,EUR,German Unemployment Change,med,15.0k,-40.0k*
 6,2021,Jan,5,Tuesday,02:55,EUR,German Unemployment Rate,med,6.1%,6.1%
-7,2021,Jan,5,Tuesday,03:00,EUR,Loans to Households YoY,low,3.0%,3.1%
+7,2021,Jan,5,Tuesday,03:00,EUR,Loans to Households YoY,low,3.0%,3.2%*
 8,2021,Jan,5,Tuesday,03:00,EUR,M3 Money Supply,low,10.6%,10.5%
-9,2021,Jan,5,Tuesday,03:00,GBP,New Car Sales YoY,low,-23.0%,-27.4%
-10,2021,Jan,5,Tuesday,03:00,EUR,Loans to Companies YoY,low,6.5%,6.8%
-11,2021,Jan,5,Tuesday,07:30,CAD,PPI MoM	Final,low,-0.6%,-0.4%
+9,2021,Jan,5,Tuesday,03:00,EUR,Loans to Companies YoY,low,6.5%,6.8%
+10,2021,Jan,5,Tuesday,04:40,EUR,German 2-Year Schatz Auction,low,,-0.78%
+11,2021,Jan,5,Tuesday,07:30,CAD,PPI MoM	Final,low,-0.6%,-0.3%*
 12,2021,Jan,5,Tuesday,07:30,CAD,PPI YoY Final,low,0.1%,0.7%
-13,2021,Jan,5,Tuesday,07:30,CAD,Raw Materials Prices YoY,low,,-0.3%
-14,2021,Jan,5,Tuesday,07:30,CAD,Raw Materials Prices MoM,low,,0.5%
+13,2021,Jan,5,Tuesday,07:30,CAD,Raw Materials Prices YoY,low,,-0.9%*
+14,2021,Jan,5,Tuesday,07:30,CAD,Raw Materials Prices MoM,low,,0.4%*
 15,2021,Jan,5,Tuesday,07:55,USD,Redbook MoM,low,,0.4%
 16,2021,Jan,5,Tuesday,07:55,USD,Redbook YoY,low,,8.9%
-17,2021,Jan,5,Tuesday,08:30,NZD,Global Dairy Trade Price Index,low,,1.3%
-18,2021,Jan,5,Tuesday,08:45,USD,ISM New York Index,low,48.5,44.2
-19,2021,Jan,5,Tuesday,09:00,USD,ISM Manufacturing New Orders,med,56.8,57.5
-20,2021,Jan,5,Tuesday,09:00,USD,ISM Manufacturing Prices,med,61.1,65.4
-21,2021,Jan,5,Tuesday,09:00,USD,ISM Manufacturing Employment,med,48.0,48.4
-22,2021,Jan,5,Tuesday,09:00,USD,ISM Manufacturing PMI,med,56.4,57.5
-23,2021,Jan,5,Tuesday,10:30,USD,8-Week Bill Auction,low,,0.09%*
-24,2021,Jan,5,Tuesday,10:30,USD,4-Week Bill Auction,low,,0.08%
+17,2021,Jan,5,Tuesday,08:45,USD,ISM New York Index,low,48.5,44.2
+18,2021,Jan,5,Tuesday,09:00,USD,ISM Manufacturing New Orders,med,56.8,65.1*
+19,2021,Jan,5,Tuesday,09:00,USD,ISM Manufacturing Prices,med,61.1,65.4
+20,2021,Jan,5,Tuesday,09:00,USD,ISM Manufacturing Employment,med,48.0,48.4
+21,2021,Jan,5,Tuesday,09:00,USD,ISM Manufacturing PMI,med,56.4,57.5
+22,2021,Jan,5,Tuesday,09:00,NZD,Global Dairy Trade Price Index,low,,1.3%
+23,2021,Jan,5,Tuesday,10:30,USD,119-Day Bill Auction,low,,0.1%*
+24,2021,Jan,5,Tuesday,10:30,USD,42-Day Bill Auction,low,,0.09%*
 25,2021,Jan,5,Tuesday,14:45,USD,Fed Williams Speech,med,,
 26,2021,Jan,5,Tuesday,14:45,USD,Fed Evans Speech,med,,
 27,2021,Jan,5,Tuesday,15:30,USD,API Crude Oil Stock Change,med,,-4.79M*
 28,2021,Jan,5,Tuesday,16:00,AUD,Markit Services PMI Final,med,57.4,55.1
 29,2021,Jan,5,Tuesday,16:00,AUD,Markit Composite PMI Final,low,57.0,54.9
-30,2021,Jan,5,Tuesday,18:00,USD,Total Vehicle Sales,med,,15.55M
-31,2021,Jan,5,Tuesday,18:30,JPY,Jibun Bank Services PMI Final,med,47.2,47.8
-32,2021,Jan,5,Tuesday,18:30,JPY,Jibun Bank Composite PMI Final,low,48.0,48.1
-33,2021,Jan,5,Tuesday,18:30,AUD,RBA Chart Pack,low,,
-34,2021,Jan,5,Tuesday,19:45,CNY,Chinese Caixin Composite PMI,low,56.4,57.5
-35,2021,Jan,5,Tuesday,19:45,CNY,Chinese Caixin Services PMI,med,56.9,57.8
-36,2021,Jan,5,Tuesday,21:45,JPY,10-Year JGB Auction,low,,0.02%*
-37,2021,Jan,5,Tuesday,23:00,JPY,Consumer Confidence,high,35.0,33.7
+30,2021,Jan,5,Tuesday,18:30,JPY,Jibun Bank Services PMI Final,med,47.2,47.8
+31,2021,Jan,5,Tuesday,18:30,JPY,Jibun Bank Composite PMI Final,low,48.0,48.1
+32,2021,Jan,5,Tuesday,18:30,AUD,RBA Chart Pack,low,,
+33,2021,Jan,5,Tuesday,19:45,CNY,Chinese Caixin Composite PMI,low,56.4,57.5
+34,2021,Jan,5,Tuesday,19:45,CNY,Chinese Caixin Services PMI,med,56.9,57.8
+35,2021,Jan,5,Tuesday,21:45,JPY,10-Year JGB Auction,low,,0.02%*
+36,2021,Jan,5,Tuesday,23:00,JPY,Consumer Confidence,high,35.0,33.7
 0,2021,Jan,6,Wednesday,01:00,EUR,German Retail Sales MoM,med,,
 1,2021,Jan,6,Wednesday,01:00,EUR,German Retail Sales YoY,med,,
 2,2021,Jan,6,Wednesday,01:45,EUR,French Inflation Rate MoM Prel,low,0.3%,0.2%
 3,2021,Jan,6,Wednesday,01:45,EUR,French Harmonised Inflation Rate MoM Prel,low,0.4%,0.2%
 4,2021,Jan,6,Wednesday,01:45,EUR,French Harmonised Inflation Rate YoY Prel,low,0.1%,0.2%
 5,2021,Jan,6,Wednesday,01:45,EUR,French Inflation Rate YoY Prel,med,0.1%,0.2%
-6,2021,Jan,6,Wednesday,01:45,EUR,French Consumer Confidence,low,91.0,90.0
+6,2021,Jan,6,Wednesday,01:45,EUR,French Consumer Confidence,low,91.0,89.0*
 7,2021,Jan,6,Wednesday,02:50,EUR,French Markit Composite PMI Final,low,49.6,40.6
 8,2021,Jan,6,Wednesday,02:50,EUR,French Markit Services PMI Final,low,49.2,38.8
 9,2021,Jan,6,Wednesday,02:55,EUR,German Markit Composite PMI Final,low,52.5,51.7
 10,2021,Jan,6,Wednesday,02:55,EUR,German Markit Services PMI Final,med,47.7,46.0
-11,2021,Jan,6,Wednesday,03:00,EUR,Markit Services PMI Final,med,47.3,41.7
-12,2021,Jan,6,Wednesday,03:00,EUR,Markit Composite PMI Final,low,49.8,45.3
-13,2021,Jan,6,Wednesday,03:30,GBP,Services PMI,med,49.9,47.6
-14,2021,Jan,6,Wednesday,03:30,GBP,Markit/CIPS Composite PMI Final,low,50.7,49.0
-15,2021,Jan,6,Wednesday,04:00,EUR,PPI MoM,low,0.3%,0.4%
-16,2021,Jan,6,Wednesday,04:00,EUR,PPI YoY,low,-2.0%,-2.0%
-17,2021,Jan,6,Wednesday,06:00,USD,MBA Mortgage Applications,low,,0.8%
-18,2021,Jan,6,Wednesday,06:00,USD,MBA 30-Year Mortgage Rate,low,,2.86%
-19,2021,Jan,6,Wednesday,06:00,USD,MBA Mortgage Applications,low,,
-20,2021,Jan,6,Wednesday,06:00,USD,MBA 30-Year Mortgage Rate,low,,
-21,2021,Jan,6,Wednesday,07:00,EUR,German Inflation Rate MoM Prel,low,0.4%,-0.8%
-22,2021,Jan,6,Wednesday,07:00,EUR,German Harmonised Inflation Rate MoM Prel,low,0.5%,-1.0%
-23,2021,Jan,6,Wednesday,07:00,EUR,German Harmonised Inflation Rate YoY Prel,low,-0.7%,-0.7%
-24,2021,Jan,6,Wednesday,07:00,EUR,German Inflation Rate YoY Prel,med,-0.3%,-0.3%
-25,2021,Jan,6,Wednesday,07:15,USD,ADP National Employment Report,high,170.0k,307.0k
-26,2021,Jan,6,Wednesday,08:00,GBP,BoE Gov Bailey Speech,med,,
-27,2021,Jan,6,Wednesday,08:45,USD,Markit Composite PMI Final,med,55.7,58.6
-28,2021,Jan,6,Wednesday,08:45,USD,Markit Services PMI Final,med,55.3,58.4
-29,2021,Jan,6,Wednesday,09:00,USD,Factory Orders ex Transportation,low,0.4%,1.0%
-30,2021,Jan,6,Wednesday,09:00,USD,Factory Orders MoM,med,0.6%,1.0%
-31,2021,Jan,6,Wednesday,09:30,USD,EIA Distillate Fuel Production Change,low,,0.05M*
-32,2021,Jan,6,Wednesday,09:30,USD,EIA Distillate Stocks Change,med,,3.1M*
-33,2021,Jan,6,Wednesday,09:30,USD,EIA Gasoline Production Change,low,,0.36M*
-34,2021,Jan,6,Wednesday,09:30,USD,EIA Crude Oil Imports Change,low,,-0.76M*
-35,2021,Jan,6,Wednesday,09:30,USD,EIA Cushing Crude Oil Stocks Change,med,,0.03M*
-36,2021,Jan,6,Wednesday,09:30,USD,EIA Crude Oil Stocks Change,med,,-6.07M*
-37,2021,Jan,6,Wednesday,09:30,USD,EIA Gasoline Stocks Change,med,,-1.19M*
-38,2021,Jan,6,Wednesday,09:30,USD,EIA Refinery Crude Runs Change,low,,0.27M*
-39,2021,Jan,6,Wednesday,09:30,USD,EIA Heating Oil Stocks Change,low,,0.58M*
-40,2021,Jan,6,Wednesday,13:00,USD,FOMC Minutes,med,,
-41,2021,Jan,6,Wednesday,17:30,JPY,Average Cash Earnings YoY,low,-0.6%,-0.8%
-42,2021,Jan,6,Wednesday,17:50,JPY,Stock Investment by Foreigners,low,,-504.3B
-43,2021,Jan,6,Wednesday,17:50,JPY,Foreign Bond Investment,low,,802.4B
-44,2021,Jan,6,Wednesday,17:50,JPY,Stock Investment by Foreigners,low,,
-45,2021,Jan,6,Wednesday,17:50,JPY,Foreign Bond Investment,low,,
-46,2021,Jan,6,Wednesday,18:30,AUD,Imports MoM,low,,1.0%
-47,2021,Jan,6,Wednesday,18:30,AUD,Exports MoM,low,,5.0%
-48,2021,Jan,6,Wednesday,18:30,AUD,Balance of Trade,high,,7.46B*
-49,2021,Jan,6,Wednesday,18:30,AUD,Building Permits MoM Prel,med,,3.8%
-0,2021,Jan,7,Thursday,01:00,EUR,German Factory Orders MoM,med,-1.2%,2.9%
-1,2021,Jan,7,Thursday,01:30,CHF,Retail Sales MoM,low,-2.0%,3.2%
-2,2021,Jan,7,Thursday,01:30,CHF,Retail Sales YoY,med,1.6%,3.1%
-3,2021,Jan,7,Thursday,02:00,CNY,Chinese Foreign Exchange Reserves,low,3.2,3.18*
-4,2021,Jan,7,Thursday,02:30,EUR,German Construction PMI,med,49.4,45.6
-5,2021,Jan,7,Thursday,02:30,EUR,French Construction PMI,low,48.9,42.8
-6,2021,Jan,7,Thursday,02:30,EUR,Construction PMI,low,47.8,45.6
-7,2021,Jan,7,Thursday,03:00,EUR,ECB Economic Bulletin,med,,
-8,2021,Jan,7,Thursday,03:30,GBP,Construction PMI,med,54.9,54.7
+11,2021,Jan,6,Wednesday,03:00,GBP,New Car Sales YoY,low,-23.0%,-27.4%
+12,2021,Jan,6,Wednesday,03:00,EUR,Markit Services PMI Final,med,47.3,41.7
+13,2021,Jan,6,Wednesday,03:00,EUR,Markit Composite PMI Final,low,49.8,45.3
+14,2021,Jan,6,Wednesday,03:30,GBP,Services PMI,med,49.9,47.6
+15,2021,Jan,6,Wednesday,03:30,GBP,Markit/CIPS Composite PMI Final,low,50.7,49.0
+16,2021,Jan,6,Wednesday,04:00,EUR,PPI MoM,low,0.3%,0.4%
+17,2021,Jan,6,Wednesday,04:00,EUR,PPI YoY,low,-2.0%,-2.0%
+18,2021,Jan,6,Wednesday,04:40,EUR,German 10-Year Bund Auction,low,,-0.57%
+19,2021,Jan,6,Wednesday,04:45,GBP,10-Year Treasury Gilt Auction,low,,0.43%*
+20,2021,Jan,6,Wednesday,06:00,USD,MBA Mortgage Applications,low,,0.8%
+21,2021,Jan,6,Wednesday,06:00,USD,MBA 30-Year Mortgage Rate,low,,2.86%
+22,2021,Jan,6,Wednesday,06:00,USD,MBA Mortgage Applications,low,,-5.9%
+23,2021,Jan,6,Wednesday,06:00,USD,MBA 30-Year Mortgage Rate,low,,2.9%*
+24,2021,Jan,6,Wednesday,07:00,EUR,German Inflation Rate MoM Prel,low,0.4%,-0.8%
+25,2021,Jan,6,Wednesday,07:00,EUR,German Harmonised Inflation Rate MoM Prel,low,0.5%,-1.0%
+26,2021,Jan,6,Wednesday,07:00,EUR,German Harmonised Inflation Rate YoY Prel,low,-0.7%,-0.7%
+27,2021,Jan,6,Wednesday,07:00,EUR,German Inflation Rate YoY Prel,med,-0.3%,-0.3%
+28,2021,Jan,6,Wednesday,07:15,USD,ADP National Employment Report,high,170.0k,304.0k*
+29,2021,Jan,6,Wednesday,08:00,GBP,BoE Gov Bailey Speech,med,,
+30,2021,Jan,6,Wednesday,08:45,USD,Markit Composite PMI Final,med,55.7,58.6
+31,2021,Jan,6,Wednesday,08:45,USD,Markit Services PMI Final,med,55.3,58.4
+32,2021,Jan,6,Wednesday,09:00,USD,Factory Orders ex Transportation,low,0.4%,1.3%*
+33,2021,Jan,6,Wednesday,09:00,USD,Factory Orders MoM,med,0.6%,1.3%*
+34,2021,Jan,6,Wednesday,09:30,USD,EIA Distillate Fuel Production Change,low,,0.05M*
+35,2021,Jan,6,Wednesday,09:30,USD,EIA Distillate Stocks Change,med,,3.1M*
+36,2021,Jan,6,Wednesday,09:30,USD,EIA Gasoline Production Change,low,,0.36M*
+37,2021,Jan,6,Wednesday,09:30,USD,EIA Crude Oil Imports Change,low,,-0.76M*
+38,2021,Jan,6,Wednesday,09:30,USD,EIA Cushing Crude Oil Stocks Change,med,,0.03M*
+39,2021,Jan,6,Wednesday,09:30,USD,EIA Crude Oil Stocks Change,med,,-6.07M*
+40,2021,Jan,6,Wednesday,09:30,USD,EIA Gasoline Stocks Change,med,,-1.19M*
+41,2021,Jan,6,Wednesday,09:30,USD,EIA Refinery Crude Runs Change,low,,0.27M*
+42,2021,Jan,6,Wednesday,09:30,USD,EIA Heating Oil Stocks Change,low,,0.58M*
+43,2021,Jan,6,Wednesday,10:30,USD,105-Day Bill Auction,low,,0.09%
+44,2021,Jan,6,Wednesday,10:30,USD,154-Day Bill Auction,low,,0.09%
+45,2021,Jan,6,Wednesday,13:00,USD,FOMC Minutes,med,,
+46,2021,Jan,6,Wednesday,17:30,JPY,Average Cash Earnings YoY,low,-0.6%,-0.7%*
+47,2021,Jan,6,Wednesday,17:50,JPY,Stock Investment by Foreigners,low,,-504.3B
+48,2021,Jan,6,Wednesday,17:50,JPY,Foreign Bond Investment,low,,802.4B
+49,2021,Jan,6,Wednesday,17:50,JPY,Stock Investment by Foreigners,low,,37.1B
+50,2021,Jan,6,Wednesday,17:50,JPY,Foreign Bond Investment,low,,-560.7B
+51,2021,Jan,6,Wednesday,18:00,USD,Total Vehicle Sales,med,,15.55M
+52,2021,Jan,6,Wednesday,18:30,AUD,Imports MoM,low,,2.0%*
+53,2021,Jan,6,Wednesday,18:30,AUD,Exports MoM,low,,4.4%*
+54,2021,Jan,6,Wednesday,18:30,AUD,Balance of Trade,high,6.5B,6.58B*
+55,2021,Jan,6,Wednesday,18:30,AUD,Building Permits MoM Prel,med,3.2%,3.3%*
+0,2021,Jan,7,Thursday,01:00,EUR,German Factory Orders MoM,med,-1.2%,3.3%*
+1,2021,Jan,7,Thursday,01:30,CHF,Retail Sales MoM,low,-2.0%,3.6%*
+2,2021,Jan,7,Thursday,01:30,CHF,Retail Sales YoY,med,1.6%,4.3%*
+3,2021,Jan,7,Thursday,02:30,EUR,German Construction PMI,med,49.4,45.6
+4,2021,Jan,7,Thursday,02:30,EUR,French Construction PMI,low,48.9,42.8
+5,2021,Jan,7,Thursday,02:30,EUR,Construction PMI,low,47.8,45.6
+6,2021,Jan,7,Thursday,03:00,EUR,ECB Economic Bulletin,med,,
+7,2021,Jan,7,Thursday,03:30,GBP,Construction PMI,med,54.9,54.7
+8,2021,Jan,7,Thursday,04:00,CNY,Chinese Foreign Exchange Reserves,low,3.2,3.18*
 9,2021,Jan,7,Thursday,04:00,EUR,Inflation Rate YoY Flash,med,-0.4%,-0.3%
 10,2021,Jan,7,Thursday,04:00,EUR,Core Inflation Rate YoY Flash,med,0.1%,0.2%
-11,2021,Jan,7,Thursday,04:00,EUR,Retail Sales MoM,low,-3.8%,1.5%
-12,2021,Jan,7,Thursday,04:00,EUR,Retail Sales YoY,med,0.6%,4.3%
-13,2021,Jan,7,Thursday,04:00,EUR,French Retail Sales MoM,low,-3.2%,2.8%
-14,2021,Jan,7,Thursday,04:00,EUR,French Retail Sales YoY,low,4.2%,5.9%
-15,2021,Jan,7,Thursday,04:00,EUR,Services Sentiment,low,-16.0,-17.3
-16,2021,Jan,7,Thursday,04:00,EUR,Economic Sentiment,med,89.5,87.6
+11,2021,Jan,7,Thursday,04:00,EUR,Retail Sales MoM,low,-3.8%,1.4%*
+12,2021,Jan,7,Thursday,04:00,EUR,Retail Sales YoY,med,0.6%,4.2%*
+13,2021,Jan,7,Thursday,04:00,EUR,French Retail Sales MoM,low,-3.2%,2.5%*
+14,2021,Jan,7,Thursday,04:00,EUR,French Retail Sales YoY,low,4.2%,5.2%*
+15,2021,Jan,7,Thursday,04:00,EUR,Services Sentiment,low,-16.0,-17.1*
+16,2021,Jan,7,Thursday,04:00,EUR,Economic Sentiment,med,89.5,87.7*
 17,2021,Jan,7,Thursday,04:00,EUR,Consumer Inflation Expectations,low,15.9,15.4
 18,2021,Jan,7,Thursday,04:00,EUR,Consumer Confidence,med,-13.9,-17.6
 19,2021,Jan,7,Thursday,04:00,EUR,Industrial Sentiment,low,-8.6,-10.1
 20,2021,Jan,7,Thursday,04:00,EUR,Inflation Rate MoM Flash,med,0.2%,-0.3%
-21,2021,Jan,7,Thursday,06:30,USD,Challenger Job Cuts,low,69.0k,64.8k*
-22,2021,Jan,7,Thursday,07:30,CAD,Balance of Trade,high,-3.2B,-3.76B
-23,2021,Jan,7,Thursday,07:30,CAD,Exports,low,,46.5B
-24,2021,Jan,7,Thursday,07:30,CAD,Imports,low,,50.23B
-25,2021,Jan,7,Thursday,07:30,USD,Exports,low,183.4B,182.0B
-26,2021,Jan,7,Thursday,07:30,USD,Imports,low,251.0B,245.1B
-27,2021,Jan,7,Thursday,07:30,USD,Balance of Trade,high,-67.6B,-63.1B
-28,2021,Jan,7,Thursday,07:30,USD,Continuing Jobless Claims,low,"4,980.0k","5,219.0k"
-29,2021,Jan,7,Thursday,07:30,USD,Jobless Claims 4-week Average,med,810.0k,836.75k
-30,2021,Jan,7,Thursday,07:30,USD,Initial Jobless Claims,med,755.0k,787.0k
-31,2021,Jan,7,Thursday,08:00,USD,Fed Harker Speech,med,,
-32,2021,Jan,7,Thursday,08:40,NZD,Global Dairy Trade Price Index,low,,1.3%
-33,2021,Jan,7,Thursday,09:00,CAD,Ivey PMI s.a,high,53.2,52.7
-34,2021,Jan,7,Thursday,09:00,USD,ISM Non-Manufacturing Business Activity,med,56.8,58.0
-35,2021,Jan,7,Thursday,09:00,USD,ISM Non-Manufacturing New Orders,med,55.1,57.2
-36,2021,Jan,7,Thursday,09:00,USD,ISM Non-Manufacturing Prices,med,62.2,66.1
-37,2021,Jan,7,Thursday,09:00,USD,ISM Non-Manufacturing Employment,med,49.5,51.5
-38,2021,Jan,7,Thursday,09:00,USD,ISM Non-Manufacturing PMI,med,54.5,55.9
-39,2021,Jan,7,Thursday,09:30,USD,EIA Natural Gas Stocks Change,low,,-114.0Bcf
-40,2021,Jan,7,Thursday,11:00,USD,Fed Bullard Speech,med,,
-41,2021,Jan,7,Thursday,12:00,USD,Fed Evans Speech,med,,
-42,2021,Jan,7,Thursday,17:30,JPY,Household Spending YoY,low,2.7%,1.9%
-43,2021,Jan,7,Thursday,17:30,JPY,Household Spending MoM,low,1.0%,2.1%
-44,2021,Jan,7,Thursday,17:50,JPY,Foreign Exchange Reserves,low,,"1,384.6B"
-45,2021,Jan,7,Thursday,21:45,JPY,30-Year JGB Auction,low,,0.65%*
-46,2021,Jan,7,Thursday,23:00,JPY,Coincident Index Prel,low,92.5,89.4
-47,2021,Jan,7,Thursday,23:00,JPY,Leading Economic Index Prel,low,93.2,94.3
+21,2021,Jan,7,Thursday,05:00,EUR,French 10-Year OAT Auction,low,,-0.38%
+22,2021,Jan,7,Thursday,06:30,USD,Challenger Job Cuts,low,69.0k,64.8k*
+23,2021,Jan,7,Thursday,07:30,CAD,Balance of Trade,high,-3.2B,-3.73B*
+24,2021,Jan,7,Thursday,07:30,CAD,Exports,low,,46.5B
+25,2021,Jan,7,Thursday,07:30,CAD,Imports,low,,50.23B
+26,2021,Jan,7,Thursday,07:30,USD,Exports,low,183.4B,182.0B
+27,2021,Jan,7,Thursday,07:30,USD,Imports,low,251.0B,245.1B
+28,2021,Jan,7,Thursday,07:30,USD,Balance of Trade,high,-67.6B,-63.1B
+29,2021,Jan,7,Thursday,07:30,USD,Continuing Jobless Claims,low,"4,980.0k","5,198.0k*"
+30,2021,Jan,7,Thursday,07:30,USD,Jobless Claims 4-week Average,med,810.0k,837.5k*
+31,2021,Jan,7,Thursday,07:30,USD,Initial Jobless Claims,med,755.0k,790.0k*
+32,2021,Jan,7,Thursday,08:00,USD,Fed Harker Speech,med,,
+33,2021,Jan,7,Thursday,08:40,NZD,Global Dairy Trade Price Index,low,,1.3%
+34,2021,Jan,7,Thursday,09:00,CAD,Ivey PMI s.a,high,53.2,52.7
+35,2021,Jan,7,Thursday,09:00,USD,ISM Non-Manufacturing Business Activity,med,56.8,58.0
+36,2021,Jan,7,Thursday,09:00,USD,ISM Non-Manufacturing New Orders,med,55.1,57.2
+37,2021,Jan,7,Thursday,09:00,USD,ISM Non-Manufacturing Prices,med,62.2,66.1
+38,2021,Jan,7,Thursday,09:00,USD,ISM Non-Manufacturing Employment,med,49.5,51.5
+39,2021,Jan,7,Thursday,09:00,USD,ISM Non-Manufacturing PMI,med,54.5,55.9
+40,2021,Jan,7,Thursday,09:30,USD,EIA Natural Gas Stocks Change,low,,-114.0Bcf
+41,2021,Jan,7,Thursday,10:30,USD,8-Week Bill Auction,low,,0.09%*
+42,2021,Jan,7,Thursday,10:30,USD,4-Week Bill Auction,low,,0.08%
+43,2021,Jan,7,Thursday,11:00,USD,Fed Bullard Speech,med,,
+44,2021,Jan,7,Thursday,12:00,USD,Fed Evans Speech,med,,
+45,2021,Jan,7,Thursday,17:30,JPY,Household Spending YoY,low,-1.2%,1.9%
+46,2021,Jan,7,Thursday,17:30,JPY,Household Spending MoM,low,-1.0%,2.1%
+47,2021,Jan,7,Thursday,17:50,JPY,Foreign Exchange Reserves,low,,"1,384.6B"
+48,2021,Jan,7,Thursday,21:45,JPY,30-Year JGB Auction,low,,0.65%*
+49,2021,Jan,7,Thursday,23:00,JPY,Coincident Index Prel,low,92.5,89.4
+50,2021,Jan,7,Thursday,23:00,JPY,Leading Economic Index Prel,low,93.2,94.3
 0,2021,Jan,8,Friday,00:45,CHF,Unemployment Rate,med,3.4%,3.3%
 1,2021,Jan,8,Friday,01:00,EUR,German Industrial Production MoM,med,1.1%,3.2%
 2,2021,Jan,8,Friday,01:00,EUR,German Balance of Trade,high,17.6B,19.4B
@@ -207,12 +215,12 @@
 1,2021,Jan,10,Sunday,19:30,CNY,Chinese Inflation Rate MoM,med,-0.3%,-0.6%
 2,2021,Jan,10,Sunday,19:30,CNY,Chinese PPI YoY,med,-1.3%,-1.5%
 3,2021,Jan,10,Sunday,19:30,CNY,Chinese Inflation Rate YoY,med,-0.7%,-0.5%
-0,2021,Jan,11,Monday,08:00,EUR,French 3-Month BTF Auction,low,,
-1,2021,Jan,11,Monday,08:00,EUR,French 6-Month BTF Auction,low,,
-2,2021,Jan,11,Monday,08:00,EUR,French 12-Month BTF Auction,low,,
+0,2021,Jan,11,Monday,08:00,EUR,French 3-Month BTF Auction,low,,-0.62%
+1,2021,Jan,11,Monday,08:00,EUR,French 6-Month BTF Auction,low,,-0.61%*
+2,2021,Jan,11,Monday,08:00,EUR,French 12-Month BTF Auction,low,,-0.6%*
 3,2021,Jan,11,Monday,10:00,USD,Consumer Inflation Expectations,low,,2.96%
-4,2021,Jan,11,Monday,10:30,USD,3-Month Bill Auction,low,,
-5,2021,Jan,11,Monday,10:30,USD,6-Month Bill Auction,low,,
+4,2021,Jan,11,Monday,10:30,USD,3-Month Bill Auction,low,,0.09%
+5,2021,Jan,11,Monday,10:30,USD,6-Month Bill Auction,low,,0.09%
 6,2021,Jan,11,Monday,12:00,USD,3-Year Note Auction,low,,0.21%*
 7,2021,Jan,11,Monday,17:30,AUD,Westpac Consumer Confidence Change,high,,4.1%*
 8,2021,Jan,11,Monday,17:30,AUD,Westpac Consumer Confidence Index,high,,112.0
@@ -222,45 +230,48 @@
 12,2021,Jan,11,Monday,23:00,JPY,Eco Watchers Survey Outlook,low,37.2,36.5
 0,2021,Jan,12,Tuesday,04:00,GBP,BoE Broadbent Speech,low,,
 1,2021,Jan,12,Tuesday,05:00,USD,NFIB Business Optimism Index,low,100.5,101.4
-2,2021,Jan,12,Tuesday,07:55,USD,Redbook YoY,low,,
-3,2021,Jan,12,Tuesday,07:55,USD,Redbook MoM,low,,
+2,2021,Jan,12,Tuesday,07:55,USD,Redbook YoY,low,,5.5%
+3,2021,Jan,12,Tuesday,07:55,USD,Redbook MoM,low,,0.5%
 4,2021,Jan,12,Tuesday,09:00,USD,IBD/TIPP Economic Optimism,med,54.5,49.0
 5,2021,Jan,12,Tuesday,09:00,USD,JOLTs Job Openings,med,6.3M,6.65M*
-6,2021,Jan,12,Tuesday,10:30,USD,8-Week Bill Auction,low,,
-7,2021,Jan,12,Tuesday,10:30,USD,4-Week Bill Auction,low,,
+6,2021,Jan,12,Tuesday,10:30,USD,119-Day Bill Auction,low,,0.09%*
+7,2021,Jan,12,Tuesday,10:30,USD,42-Day Bill Auction,low,,0.09%*
 8,2021,Jan,12,Tuesday,12:00,USD,10-Year Note Auction,low,,0.95%*
-9,2021,Jan,12,Tuesday,15:30,USD,API Crude Oil Stock Change,med,,
+9,2021,Jan,12,Tuesday,15:30,USD,API Crude Oil Stock Change,med,,-1.66M*
 10,2021,Jan,12,Tuesday,18:00,AUD,TD-MI Inflation Gauge MoM,med,,0.3%
 0,2021,Jan,13,Wednesday,00:00,JPY,Machine Tool Orders YoY,low,12.5%,8.0%
 1,2021,Jan,13,Wednesday,04:00,EUR,Industrial Production,med,0.6%,2.1%
 2,2021,Jan,13,Wednesday,04:00,EUR,Industrial Production,med,-3.2%,-3.8%
-3,2021,Jan,13,Wednesday,06:00,USD,MBA Mortgage Applications,low,,
-4,2021,Jan,13,Wednesday,06:00,USD,MBA 30-Year Mortgage Rate,low,,
-5,2021,Jan,13,Wednesday,07:30,USD,Inflation Rate MoM,med,0.3%,0.2%
-6,2021,Jan,13,Wednesday,07:30,USD,Core Inflation Rate MoM,med,0.1%,0.2%
-7,2021,Jan,13,Wednesday,07:30,USD,Inflation Rate YoY,high,1.2%,1.2%
-8,2021,Jan,13,Wednesday,07:30,USD,Core Inflation Rate YoY,high,1.6%,1.6%
-9,2021,Jan,13,Wednesday,09:30,USD,EIA Distillate Fuel Production Change,low,,
-10,2021,Jan,13,Wednesday,09:30,USD,EIA Distillate Stocks Change,med,,
-11,2021,Jan,13,Wednesday,09:30,USD,EIA Gasoline Production Change,low,,
-12,2021,Jan,13,Wednesday,09:30,USD,EIA Crude Oil Imports Change,low,,
-13,2021,Jan,13,Wednesday,09:30,USD,EIA Cushing Crude Oil Stocks Change,med,,
-14,2021,Jan,13,Wednesday,09:30,USD,EIA Crude Oil Stocks Change,med,,
-15,2021,Jan,13,Wednesday,09:30,USD,EIA Gasoline Stocks Change,med,,
-16,2021,Jan,13,Wednesday,09:30,USD,EIA Heating Oil Stocks Change,low,,
-17,2021,Jan,13,Wednesday,09:30,USD,EIA Refinery Crude Runs Change,low,,
-18,2021,Jan,13,Wednesday,12:00,USD,30-Year Bond Auction,med,,
-19,2021,Jan,13,Wednesday,13:00,USD,Monthly Budget Statement,med,,-145.0B
-20,2021,Jan,13,Wednesday,13:00,USD,Fed Beige Book,low,,
-21,2021,Jan,13,Wednesday,15:45,NZD,Building Permits MoM,low,,8.8%
-22,2021,Jan,13,Wednesday,17:50,JPY,PPI MoM,low,0.3%,0.0%
-23,2021,Jan,13,Wednesday,17:50,JPY,PPI YoY,low,-2.1%,-2.2%
-24,2021,Jan,13,Wednesday,17:50,JPY,Machinery Orders MoM,med,4.2%,17.1%
-25,2021,Jan,13,Wednesday,17:50,JPY,Machinery Orders YoY,med,3.8%,2.8%
-26,2021,Jan,13,Wednesday,18:30,AUD,Building Permits MoM Final,med,,3.8%
-27,2021,Jan,13,Wednesday,21:00,CNY,Chinese Exports YoY,med,,21.1%
-28,2021,Jan,13,Wednesday,21:00,CNY,Chinese Imports YoY,med,,4.5%
-29,2021,Jan,13,Wednesday,21:00,CNY,Chinese Balance of Trade,med,65.0B,75.4B*
+3,2021,Jan,13,Wednesday,04:40,EUR,German 5-Year Bobl Auction,low,,-0.72%
+4,2021,Jan,13,Wednesday,06:00,USD,MBA Mortgage Applications,low,,1.7%
+5,2021,Jan,13,Wednesday,06:00,USD,MBA 30-Year Mortgage Rate,low,,2.86%
+6,2021,Jan,13,Wednesday,07:30,USD,Inflation Rate MoM,med,0.3%,0.2%
+7,2021,Jan,13,Wednesday,07:30,USD,Core Inflation Rate MoM,med,0.1%,0.2%
+8,2021,Jan,13,Wednesday,07:30,USD,Inflation Rate YoY,high,1.2%,1.2%
+9,2021,Jan,13,Wednesday,07:30,USD,Core Inflation Rate YoY,high,1.6%,1.6%
+10,2021,Jan,13,Wednesday,09:30,USD,EIA Distillate Fuel Production Change,low,,0.15M*
+11,2021,Jan,13,Wednesday,09:30,USD,EIA Distillate Stocks Change,med,,6.39M
+12,2021,Jan,13,Wednesday,09:30,USD,EIA Gasoline Production Change,low,,-1.18M*
+13,2021,Jan,13,Wednesday,09:30,USD,EIA Crude Oil Imports Change,low,,0.04M*
+14,2021,Jan,13,Wednesday,09:30,USD,EIA Cushing Crude Oil Stocks Change,med,,0.79M*
+15,2021,Jan,13,Wednesday,09:30,USD,EIA Crude Oil Stocks Change,med,,-8.01M
+16,2021,Jan,13,Wednesday,09:30,USD,EIA Gasoline Stocks Change,med,,4.52M*
+17,2021,Jan,13,Wednesday,09:30,USD,EIA Heating Oil Stocks Change,low,,0.11M*
+18,2021,Jan,13,Wednesday,09:30,USD,EIA Refinery Crude Runs Change,low,,0.09M*
+19,2021,Jan,13,Wednesday,10:30,USD,105-Day Bill Auction,low,,0.09%
+20,2021,Jan,13,Wednesday,10:30,USD,154-Day Bill Auction,low,,0.09%
+21,2021,Jan,13,Wednesday,12:00,USD,30-Year Bond Auction,med,,1.67%*
+22,2021,Jan,13,Wednesday,13:00,USD,Monthly Budget Statement,med,,-145.0B
+23,2021,Jan,13,Wednesday,13:00,USD,Fed Beige Book,low,,
+24,2021,Jan,13,Wednesday,15:45,NZD,Building Permits MoM,low,,8.8%
+25,2021,Jan,13,Wednesday,17:50,JPY,PPI MoM,low,0.3%,0.0%
+26,2021,Jan,13,Wednesday,17:50,JPY,PPI YoY,low,-2.1%,-2.2%
+27,2021,Jan,13,Wednesday,17:50,JPY,Machinery Orders MoM,med,4.2%,17.1%
+28,2021,Jan,13,Wednesday,17:50,JPY,Machinery Orders YoY,med,3.8%,2.8%
+29,2021,Jan,13,Wednesday,18:30,AUD,Building Permits MoM Final,med,,3.8%
+30,2021,Jan,13,Wednesday,21:00,CNY,Chinese Exports YoY,med,,21.1%
+31,2021,Jan,13,Wednesday,21:00,CNY,Chinese Imports YoY,med,,4.5%
+32,2021,Jan,13,Wednesday,21:00,CNY,Chinese Balance of Trade,med,65.0B,75.4B*
 0,2021,Jan,14,Thursday,All Day,CNY,Chinese Vehicle Sales YoY,low,12.0%,12.6%
 1,2021,Jan,14,Thursday,All Day,CNY,Chinese FDI (YTD) YoY,med,6.0%,6.3%
 2,2021,Jan,14,Thursday,All Day,CNY,Chinese Total Social Financing,low,"2,210.0B","2,130.0B"
@@ -269,21 +280,23 @@
 5,2021,Jan,14,Thursday,All Day,CNY,Chinese M2 Money Supply,low,10.6%,10.7%
 6,2021,Jan,14,Thursday,03:00,EUR,German Government Budget,high,-7.0%,1.5%
 7,2021,Jan,14,Thursday,03:00,EUR,German Full Year GDP Growth,med,-5.8%,0.6%
-8,2021,Jan,14,Thursday,07:30,USD,Continuing Jobless Claims,low,"4,550.0k",
-9,2021,Jan,14,Thursday,07:30,USD,Jobless Claims 4-week Average,med,,
-10,2021,Jan,14,Thursday,07:30,USD,Initial Jobless Claims,med,790.0k,
+8,2021,Jan,14,Thursday,07:30,USD,Continuing Jobless Claims,low,"4,850.0k","5,072.0k"
+9,2021,Jan,14,Thursday,07:30,USD,Jobless Claims 4-week Average,med,793.25k,818.75k
+10,2021,Jan,14,Thursday,07:30,USD,Initial Jobless Claims,med,790.0k,787.0k
 11,2021,Jan,14,Thursday,07:30,USD,Export Prices YoY,med,-1.3%,-1.1%
 12,2021,Jan,14,Thursday,07:30,USD,Import Prices YoY,med,-0.8%,-1.0%
 13,2021,Jan,14,Thursday,07:30,USD,Import Prices MoM,med,0.5%,0.1%
 14,2021,Jan,14,Thursday,07:30,USD,Export Prices MoM,med,-0.3%,0.6%
 15,2021,Jan,14,Thursday,09:30,USD,EIA Natural Gas Stocks Change,low,,
-16,2021,Jan,14,Thursday,15:45,NZD,Food Price Index,low,,2.6%
-17,2021,Jan,14,Thursday,17:50,JPY,Stock Investment by Foreigners,low,,
-18,2021,Jan,14,Thursday,17:50,JPY,Foreign Bond Investment,low,,
-19,2021,Jan,14,Thursday,18:30,AUD,Home Loans MoM,med,,0.8%
-20,2021,Jan,14,Thursday,18:30,AUD,Investment Lending for Homes,med,,0.3%
-21,2021,Jan,14,Thursday,19:30,CNY,Chinese House Price Index YoY,med,3.8%,4.0%
-22,2021,Jan,14,Thursday,22:30,JPY,Tertiary Industry Activity Index,low,0.5%,1.0%
+16,2021,Jan,14,Thursday,10:30,USD,8-Week Bill Auction,low,,
+17,2021,Jan,14,Thursday,10:30,USD,4-Week Bill Auction,low,,
+18,2021,Jan,14,Thursday,15:45,NZD,Food Price Index,low,,2.6%
+19,2021,Jan,14,Thursday,17:50,JPY,Stock Investment by Foreigners,low,,-85.5B
+20,2021,Jan,14,Thursday,17:50,JPY,Foreign Bond Investment,low,,-291.6B
+21,2021,Jan,14,Thursday,18:30,AUD,Home Loans MoM,med,,0.8%
+22,2021,Jan,14,Thursday,18:30,AUD,Investment Lending for Homes,med,,0.3%
+23,2021,Jan,14,Thursday,19:30,CNY,Chinese House Price Index YoY,med,3.8%,4.0%
+24,2021,Jan,14,Thursday,22:30,JPY,Tertiary Industry Activity Index,low,0.5%,1.0%
 0,2021,Jan,15,Friday,01:00,GBP,Goods Trade Balance,low,-10.2B,-12.0B
 1,2021,Jan,15,Friday,01:00,GBP,GDP YoY,low,-16.0%,-8.2%
 2,2021,Jan,15,Friday,01:00,GBP,Industrial Production YoY,med,-4.7%,-5.5%
@@ -294,10 +307,10 @@
 7,2021,Jan,15,Friday,01:00,GBP,Balance of Trade,high,-1.2B,-1.7B
 8,2021,Jan,15,Friday,01:00,GBP,GDP MoM,low,-9.6%,0.4%
 9,2021,Jan,15,Friday,01:00,GBP,GDP 3-Month Avg,med,1.5%,10.2%
-10,2021,Jan,15,Friday,01:45,EUR,French Harmonised Inflation Rate MoM Final,low,,0.2%
-11,2021,Jan,15,Friday,01:45,EUR,French Harmonised Inflation Rate YoY Final,low,,0.2%
-12,2021,Jan,15,Friday,01:45,EUR,French Inflation Rate YoY Final,low,,0.2%
-13,2021,Jan,15,Friday,01:45,EUR,French Inflation Rate MoM Final,low,,0.2%
+10,2021,Jan,15,Friday,01:45,EUR,French Harmonised Inflation Rate MoM Final,low,0.2%,0.2%
+11,2021,Jan,15,Friday,01:45,EUR,French Harmonised Inflation Rate YoY Final,low,0.0%,0.2%
+12,2021,Jan,15,Friday,01:45,EUR,French Inflation Rate YoY Final,low,0.0%,0.2%
+13,2021,Jan,15,Friday,01:45,EUR,French Inflation Rate MoM Final,low,0.2%,0.2%
 14,2021,Jan,15,Friday,01:45,EUR,French Budget Balance,low,-166.0B,-159.9B
 15,2021,Jan,15,Friday,04:00,EUR,Trade Balance,med,25.0B,30.0B
 16,2021,Jan,15,Friday,07:30,USD,Core PPI,med,0.1%,0.1%
@@ -353,10 +366,10 @@
 0,2021,Jan,19,Tuesday,01:00,GBP,Labour Productivity QoQ Final,low,5.2%,-2.0%
 1,2021,Jan,19,Tuesday,01:00,EUR,German Wholesale Prices MoM,med,0.3%,0.1%
 2,2021,Jan,19,Tuesday,01:00,EUR,German Wholesale Prices YoY,med,-1.4%,-1.7%
-3,2021,Jan,19,Tuesday,01:00,EUR,German Inflation Rate MoM Final,med,,-0.8%
-4,2021,Jan,19,Tuesday,01:00,EUR,German Harmonised Inflation Rate YoY Final,low,,-0.7%
-5,2021,Jan,19,Tuesday,01:00,EUR,German Harmonised Inflation Rate MoM Final,low,,-1.0%
-6,2021,Jan,19,Tuesday,01:00,EUR,German Inflation Rate YoY Final,med,,-0.3%
+3,2021,Jan,19,Tuesday,01:00,EUR,German Inflation Rate MoM Final,med,0.5%,-0.8%
+4,2021,Jan,19,Tuesday,01:00,EUR,German Harmonised Inflation Rate YoY Final,low,-0.7%,-0.7%
+5,2021,Jan,19,Tuesday,01:00,EUR,German Harmonised Inflation Rate MoM Final,low,0.6%,-1.0%
+6,2021,Jan,19,Tuesday,01:00,EUR,German Inflation Rate YoY Final,med,-0.3%,-0.3%
 7,2021,Jan,19,Tuesday,01:30,CHF,Producer & Import Prices YoY,low,-2.5%,-2.7%
 8,2021,Jan,19,Tuesday,01:30,CHF,Producer & Import Prices MoM,low,0.3%,-0.1%
 9,2021,Jan,19,Tuesday,03:00,EUR,Current Account,low,29.0B,34.1B
@@ -370,13 +383,14 @@
 17,2021,Jan,19,Tuesday,07:55,USD,Redbook YoY,low,,
 18,2021,Jan,19,Tuesday,07:55,USD,Redbook MoM,low,,
 19,2021,Jan,19,Tuesday,08:30,NZD,Global Dairy Trade Price Index,low,,
-20,2021,Jan,19,Tuesday,10:30,USD,8-Week Bill Auction,low,,
-21,2021,Jan,19,Tuesday,10:30,USD,4-Week Bill Auction,low,,
-22,2021,Jan,19,Tuesday,15:00,USD,Foreign Bond Investment,med,,
-23,2021,Jan,19,Tuesday,15:00,USD,TIC Net Long-Term Transactions,med,,
-24,2021,Jan,19,Tuesday,15:00,USD,Overall Net Capital Flows,med,,-10.4B
-25,2021,Jan,19,Tuesday,19:30,CNY,Chinese Loan Prime Rate 1Y,high,,3.85%
-26,2021,Jan,19,Tuesday,19:30,CNY,Chinese Loan Prime Rate 5Y,med,,4.65%
+20,2021,Jan,19,Tuesday,10:30,USD,4-Week Bill Auction,low,,
+21,2021,Jan,19,Tuesday,10:30,USD,119-Day Bill Auction,low,,
+22,2021,Jan,19,Tuesday,10:30,USD,42-Day Bill Auction,low,,
+23,2021,Jan,19,Tuesday,15:00,USD,Foreign Bond Investment,med,,
+24,2021,Jan,19,Tuesday,15:00,USD,TIC Net Long-Term Transactions,med,,
+25,2021,Jan,19,Tuesday,15:00,USD,Overall Net Capital Flows,med,,-10.4B
+26,2021,Jan,19,Tuesday,19:30,CNY,Chinese Loan Prime Rate 1Y,high,,3.85%
+27,2021,Jan,19,Tuesday,19:30,CNY,Chinese Loan Prime Rate 5Y,med,,4.65%
 0,2021,Jan,20,Wednesday,01:00,GBP,Retail Price Index YoY,low,1.0%,0.9%
 1,2021,Jan,20,Wednesday,01:00,GBP,Retail Price Index MoM,low,0.1%,-0.3%
 2,2021,Jan,20,Wednesday,01:00,GBP,PPI Input YoY,low,,-0.5%
@@ -391,92 +405,101 @@
 11,2021,Jan,20,Wednesday,01:00,GBP,PPI Core Output MoM,low,0.1%,0.0%
 12,2021,Jan,20,Wednesday,01:00,EUR,German PPI YoY,low,-0.5%,-0.5%
 13,2021,Jan,20,Wednesday,01:00,EUR,German PPI MoM,med,0.1%,0.2%
-14,2021,Jan,20,Wednesday,04:00,EUR,Core Inflation Rate YoY Final,med,0.1%,
-15,2021,Jan,20,Wednesday,04:00,EUR,Inflation Rate YoY Final,med,-0.4%,
-16,2021,Jan,20,Wednesday,04:00,EUR,Inflation Rate MoM Final,low,0.2%,
-17,2021,Jan,20,Wednesday,05:00,GBP,CBI Business Optimism Index,med,-8.0,0.0
-18,2021,Jan,20,Wednesday,05:00,GBP,CBI Industrial Trends Orders,med,-30.0,-25.0
-19,2021,Jan,20,Wednesday,06:00,USD,MBA Mortgage Applications,low,,
-20,2021,Jan,20,Wednesday,06:00,USD,MBA 30-Year Mortgage Rate,low,,
-21,2021,Jan,20,Wednesday,07:30,CAD,Inflation Rate MoM,med,,0.1%
-22,2021,Jan,20,Wednesday,07:30,CAD,Core Inflation Rate YoY,med,,1.5%
-23,2021,Jan,20,Wednesday,07:30,CAD,Inflation Rate YoY,high,,1.0%
-24,2021,Jan,20,Wednesday,09:00,USD,NAHB Housing Market Index,med,84.0,86.0
-25,2021,Jan,20,Wednesday,09:00,CAD,BoC Interest Rate Decision,med,0.25%,0.25%
-26,2021,Jan,20,Wednesday,09:00,CAD,BoC Monetary Policy Report,med,,
-27,2021,Jan,20,Wednesday,12:00,USD,20-Year Bond Auction,low,,
-28,2021,Jan,20,Wednesday,15:30,USD,API Crude Oil Stock Change,med,,
-29,2021,Jan,20,Wednesday,15:45,NZD,Visitor Arrivals YoY,low,,-96.8%
-30,2021,Jan,20,Wednesday,16:30,NZD,Services NZ PSI,low,,
-31,2021,Jan,20,Wednesday,17:50,JPY,Stock Investment by Foreigners,low,,
-32,2021,Jan,20,Wednesday,17:50,JPY,Foreign Bond Investment,low,,
-33,2021,Jan,20,Wednesday,17:50,JPY,Imports YoY,low,,-11.1%
-34,2021,Jan,20,Wednesday,17:50,JPY,Exports YoY,med,,-4.2%
-35,2021,Jan,20,Wednesday,17:50,JPY,Balance of Trade,high,200.0B,366.8B
-36,2021,Jan,20,Wednesday,18:00,AUD,Consumer Inflation Expectations,low,,3.5%
-37,2021,Jan,20,Wednesday,18:30,AUD,Part Time Employment Chg,med,,5.8k
-38,2021,Jan,20,Wednesday,18:30,AUD,Participation Rate,low,,66.1%
-39,2021,Jan,20,Wednesday,18:30,AUD,Full Time Employment Chg,med,,
-40,2021,Jan,20,Wednesday,18:30,AUD,Unemployment Rate,med,7.0%,6.8%
-41,2021,Jan,20,Wednesday,18:30,AUD,Employment Change,med,,90.0k
-42,2021,Jan,20,Wednesday,21:00,JPY,BoJ Interest Rate Decision,med,-0.1%,-0.1%
-43,2021,Jan,20,Wednesday,21:00,JPY,BoJ Quarterly Outlook Report,med,,
+14,2021,Jan,20,Wednesday,04:00,EUR,Core Inflation Rate YoY Final,med,0.2%,0.2%
+15,2021,Jan,20,Wednesday,04:00,EUR,Inflation Rate YoY Final,med,-0.3%,-0.3%
+16,2021,Jan,20,Wednesday,04:00,EUR,Inflation Rate MoM Final,low,0.3%,-0.3%
+17,2021,Jan,20,Wednesday,04:40,EUR,German 30-Year Bund Auction,low,,-0.06%
+18,2021,Jan,20,Wednesday,05:00,GBP,CBI Business Optimism Index,med,-8.0,0.0
+19,2021,Jan,20,Wednesday,05:00,GBP,CBI Industrial Trends Orders,med,-30.0,-25.0
+20,2021,Jan,20,Wednesday,06:00,USD,MBA Mortgage Applications,low,,
+21,2021,Jan,20,Wednesday,06:00,USD,MBA 30-Year Mortgage Rate,low,,
+22,2021,Jan,20,Wednesday,07:30,CAD,Inflation Rate MoM,med,,0.1%
+23,2021,Jan,20,Wednesday,07:30,CAD,Core Inflation Rate YoY,med,,1.5%
+24,2021,Jan,20,Wednesday,07:30,CAD,Inflation Rate YoY,high,,1.0%
+25,2021,Jan,20,Wednesday,09:00,USD,NAHB Housing Market Index,med,84.0,86.0
+26,2021,Jan,20,Wednesday,09:00,CAD,BoC Interest Rate Decision,med,0.25%,0.25%
+27,2021,Jan,20,Wednesday,09:00,CAD,BoC Monetary Policy Report,med,,
+28,2021,Jan,20,Wednesday,10:30,USD,105-Day Bill Auction,low,,
+29,2021,Jan,20,Wednesday,10:30,USD,154-Day Bill Auction,low,,
+30,2021,Jan,20,Wednesday,12:00,USD,20-Year Bond Auction,low,,
+31,2021,Jan,20,Wednesday,12:00,USD,20-Year Bond Auction,low,,1.47%
+32,2021,Jan,20,Wednesday,15:30,USD,API Crude Oil Stock Change,med,,
+33,2021,Jan,20,Wednesday,15:45,NZD,Visitor Arrivals YoY,low,,-96.8%
+34,2021,Jan,20,Wednesday,16:30,NZD,Services NZ PSI,low,,
+35,2021,Jan,20,Wednesday,17:50,JPY,Stock Investment by Foreigners,low,,
+36,2021,Jan,20,Wednesday,17:50,JPY,Foreign Bond Investment,low,,
+37,2021,Jan,20,Wednesday,17:50,JPY,Imports YoY,low,,-11.1%
+38,2021,Jan,20,Wednesday,17:50,JPY,Exports YoY,med,,-4.2%
+39,2021,Jan,20,Wednesday,17:50,JPY,Balance of Trade,high,200.0B,366.8B
+40,2021,Jan,20,Wednesday,18:00,AUD,Consumer Inflation Expectations,low,,3.5%
+41,2021,Jan,20,Wednesday,18:30,AUD,Part Time Employment Chg,med,,5.8k
+42,2021,Jan,20,Wednesday,18:30,AUD,Participation Rate,low,,66.1%
+43,2021,Jan,20,Wednesday,18:30,AUD,Full Time Employment Chg,med,,
+44,2021,Jan,20,Wednesday,18:30,AUD,Unemployment Rate,med,7.0%,6.8%
+45,2021,Jan,20,Wednesday,18:30,AUD,Employment Change,med,,90.0k
+46,2021,Jan,20,Wednesday,21:00,JPY,BoJ Interest Rate Decision,med,-0.1%,-0.1%
+47,2021,Jan,20,Wednesday,21:00,JPY,BoJ Quarterly Outlook Report,med,,
 0,2021,Jan,21,Thursday,01:45,EUR,French Business Confidence,med,95.0,93.0
 1,2021,Jan,21,Thursday,01:45,EUR,French Business Climate Indicator,low,88.0,91.5
-2,2021,Jan,21,Thursday,06:45,EUR,Marginal Lending Rate,med,0.25%,0.25%
-3,2021,Jan,21,Thursday,06:45,EUR,Deposit Facility Rate,med,-0.5%,-0.5%
-4,2021,Jan,21,Thursday,06:45,EUR,ECB Interest Rate Decision,med,0.0%,0.0%
-5,2021,Jan,21,Thursday,07:30,CAD,ADP Employment Change,med,,40.8k
-6,2021,Jan,21,Thursday,07:30,USD,Philadelphia Fed Manufacturing Index,med,28.0,11.1
-7,2021,Jan,21,Thursday,07:30,USD,Building Permits MoM,med,0.1%,5.9%*
-8,2021,Jan,21,Thursday,07:30,USD,Housing Starts MoM,med,0.2%,1.2%
-9,2021,Jan,21,Thursday,07:30,USD,Housing Starts,med,1.55M,1.55M*
-10,2021,Jan,21,Thursday,07:30,USD,Building Permits,med,1.64M,1.64M*
-11,2021,Jan,21,Thursday,07:30,USD,Continuing Jobless Claims,low,"3,840.0k",
-12,2021,Jan,21,Thursday,07:30,USD,Jobless Claims 4-week Average,med,,
-13,2021,Jan,21,Thursday,07:30,USD,Initial Jobless Claims,med,750.0k,
-14,2021,Jan,21,Thursday,07:30,CAD,New Housing Price Index YoY,med,,4.6%*
-15,2021,Jan,21,Thursday,07:30,CAD,New Housing Price Index MoM,med,,0.6%*
-16,2021,Jan,21,Thursday,07:30,EUR,ECB Press Conference,med,,
-17,2021,Jan,21,Thursday,08:40,NZD,Global Dairy Trade Price Index,low,,
-18,2021,Jan,21,Thursday,09:00,EUR,Consumer Confidence Flash,med,-16.0,
-19,2021,Jan,21,Thursday,12:00,USD,10-Year TIPS Auction,low,,
-20,2021,Jan,21,Thursday,15:30,NZD,Business NZ PM,med,53.7,55.3
-21,2021,Jan,21,Thursday,15:45,NZD,Inflation Rate QoQ,med,,0.7%
-22,2021,Jan,21,Thursday,15:45,NZD,Inflation Rate YoY,low,1.1%,1.4%
-23,2021,Jan,21,Thursday,16:00,AUD,Markit Services PMI Flash,med,56.5,
-24,2021,Jan,21,Thursday,16:00,AUD,AIG Manufacturing Index,med,55.1,55.7
-25,2021,Jan,21,Thursday,16:00,AUD,Markit Composite PMI Flash,low,56.2,
-26,2021,Jan,21,Thursday,17:30,JPY,Core Inflation Rate YoY,med,-0.7%,-0.9%
-27,2021,Jan,21,Thursday,17:30,JPY,Inflation Rate Ex-Food and Energy YoY,low,-0.1%,-0.3%
-28,2021,Jan,21,Thursday,17:30,JPY,Inflation Rate MoM,low,0.1%,-0.4%
-29,2021,Jan,21,Thursday,17:30,JPY,Inflation Rate YoY,high,-0.3%,-0.9%
-30,2021,Jan,21,Thursday,18:01,GBP,Gfk Consumer Confidence,high,-27.0,-26.0
-31,2021,Jan,21,Thursday,18:30,JPY,Jibun Bank Manufacturing PMI Flash,med,50.9,50.0
-32,2021,Jan,21,Thursday,18:30,JPY,Jibun Bank Services PMI Flash,med,49.5,
-33,2021,Jan,21,Thursday,18:30,JPY,Jibun Bank Composite PMI Flash,low,50.2,
+2,2021,Jan,21,Thursday,04:00,EUR,French 5-Year BTAN Auction,low,,-0.62%
+3,2021,Jan,21,Thursday,04:00,EUR,French 3-Year BTAN Auction,low,,-0.71%
+4,2021,Jan,21,Thursday,06:45,EUR,Marginal Lending Rate,med,0.25%,0.25%
+5,2021,Jan,21,Thursday,06:45,EUR,Deposit Facility Rate,med,-0.5%,-0.5%
+6,2021,Jan,21,Thursday,06:45,EUR,ECB Interest Rate Decision,med,0.0%,0.0%
+7,2021,Jan,21,Thursday,07:30,CAD,ADP Employment Change,med,,40.8k
+8,2021,Jan,21,Thursday,07:30,USD,Philadelphia Fed Manufacturing Index,med,28.0,11.1
+9,2021,Jan,21,Thursday,07:30,USD,Building Permits MoM,med,0.1%,5.9%*
+10,2021,Jan,21,Thursday,07:30,USD,Housing Starts MoM,med,0.2%,1.2%
+11,2021,Jan,21,Thursday,07:30,USD,Housing Starts,med,1.55M,1.55M*
+12,2021,Jan,21,Thursday,07:30,USD,Building Permits,med,1.64M,1.64M*
+13,2021,Jan,21,Thursday,07:30,USD,Continuing Jobless Claims,low,"4,640.0k",
+14,2021,Jan,21,Thursday,07:30,USD,Jobless Claims 4-week Average,med,,
+15,2021,Jan,21,Thursday,07:30,USD,Initial Jobless Claims,med,750.0k,
+16,2021,Jan,21,Thursday,07:30,CAD,New Housing Price Index YoY,med,,4.6%*
+17,2021,Jan,21,Thursday,07:30,CAD,New Housing Price Index MoM,med,,0.6%*
+18,2021,Jan,21,Thursday,07:30,EUR,ECB Press Conference,med,,
+19,2021,Jan,21,Thursday,08:40,NZD,Global Dairy Trade Price Index,low,,
+20,2021,Jan,21,Thursday,09:00,EUR,Consumer Confidence Flash,med,-16.0,-13.9
+21,2021,Jan,21,Thursday,10:30,USD,8-Week Bill Auction,low,,
+22,2021,Jan,21,Thursday,10:30,USD,4-Week Bill Auction,low,,
+23,2021,Jan,21,Thursday,12:00,USD,10-Year TIPS Auction,low,,
+24,2021,Jan,21,Thursday,12:00,USD,10-Year TIPS Auction,low,,
+25,2021,Jan,21,Thursday,15:30,NZD,Business NZ PM,med,53.7,55.3
+26,2021,Jan,21,Thursday,15:45,NZD,Inflation Rate QoQ,med,,0.7%
+27,2021,Jan,21,Thursday,15:45,NZD,Inflation Rate YoY,low,1.1%,1.4%
+28,2021,Jan,21,Thursday,16:00,AUD,Markit Services PMI Flash,med,56.5,57.0
+29,2021,Jan,21,Thursday,16:00,AUD,AIG Manufacturing Index,med,55.1,55.7
+30,2021,Jan,21,Thursday,16:00,AUD,Markit Composite PMI Flash,low,56.2,55.6
+31,2021,Jan,21,Thursday,17:30,JPY,Core Inflation Rate YoY,med,-0.7%,-0.9%
+32,2021,Jan,21,Thursday,17:30,JPY,Inflation Rate Ex-Food and Energy YoY,low,-0.1%,-0.3%
+33,2021,Jan,21,Thursday,17:30,JPY,Inflation Rate MoM,low,0.1%,-0.4%
+34,2021,Jan,21,Thursday,17:30,JPY,Inflation Rate YoY,high,-0.3%,-0.9%
+35,2021,Jan,21,Thursday,18:01,GBP,Gfk Consumer Confidence,high,-27.0,-26.0
+36,2021,Jan,21,Thursday,18:30,JPY,Jibun Bank Manufacturing PMI Flash,med,50.9,50.0
+37,2021,Jan,21,Thursday,18:30,JPY,Jibun Bank Services PMI Flash,med,49.5,47.7
+38,2021,Jan,21,Thursday,18:30,JPY,Jibun Bank Composite PMI Flash,low,50.2,48.5
 0,2021,Jan,22,Friday,01:00,GBP,Retail Sales MoM,med,1.5%,-3.8%
 1,2021,Jan,22,Friday,01:00,GBP,Retail Sales YoY,med,3.6%,2.4%
 2,2021,Jan,22,Friday,01:00,GBP,Core Retail Sales,low,1.0%,-2.6%
 3,2021,Jan,22,Friday,01:00,GBP,Core Retail Sales,low,4.8%,5.6%
 4,2021,Jan,22,Friday,01:00,GBP,GBP Public Sector Net Borrowing,low,-28.8B,
-5,2021,Jan,22,Friday,02:15,EUR,French Markit Composite PMI Flash,low,50.8,
+5,2021,Jan,22,Friday,02:15,EUR,French Markit Composite PMI Flash,low,50.8,49.5
 6,2021,Jan,22,Friday,02:15,EUR,French Markit Manufacturing PMI Flash,low,52.0,51.1
-7,2021,Jan,22,Friday,02:15,EUR,French Markit Services PMI Flash,low,50.5,
-8,2021,Jan,22,Friday,02:30,EUR,German Markit Composite PMI Flash,low,51.5,
-9,2021,Jan,22,Friday,02:30,EUR,German Markit Services PMI Flash,med,51.2,
+7,2021,Jan,22,Friday,02:15,EUR,French Markit Services PMI Flash,low,50.5,49.1
+8,2021,Jan,22,Friday,02:30,EUR,German Markit Composite PMI Flash,low,51.5,52.0
+9,2021,Jan,22,Friday,02:30,EUR,German Markit Services PMI Flash,med,48.0,47.0
 10,2021,Jan,22,Friday,02:30,EUR,German Markit Manufacturing PMI Flash,med,58.0,58.3
-11,2021,Jan,22,Friday,03:00,EUR,Markit Composite PMI Flash,low,52.0,
+11,2021,Jan,22,Friday,03:00,EUR,Markit Composite PMI Flash,low,52.0,49.1
 12,2021,Jan,22,Friday,03:00,EUR,Markit Manufacturing PMI Flash,med,55.0,55.2
-13,2021,Jan,22,Friday,03:00,EUR,Markit Services PMI Flash,med,51.0,
-14,2021,Jan,22,Friday,03:30,GBP,Markit/CIPS Composite PMI Flash,low,52.6,
+13,2021,Jan,22,Friday,03:00,EUR,Markit Services PMI Flash,med,51.0,46.4
+14,2021,Jan,22,Friday,03:30,GBP,Markit/CIPS Composite PMI Flash,low,52.6,50.4
 15,2021,Jan,22,Friday,03:30,GBP,Markit/CIPS Manufacturing PMI Flash,med,56.4,57.5
-16,2021,Jan,22,Friday,03:30,GBP,Markit/CIPS UK Services PMI Flash,med,52.5,
+16,2021,Jan,22,Friday,03:30,GBP,Markit/CIPS UK Services PMI Flash,med,52.5,49.4
 17,2021,Jan,22,Friday,07:30,CAD,Retail Sales MoM,med,0.1%,0.4%
 18,2021,Jan,22,Friday,07:30,CAD,Retail Sales YoY,low,,7.5%
 19,2021,Jan,22,Friday,07:30,CAD,Retail Sales Ex Autos MoM,low,0.0%,0.0%
-20,2021,Jan,22,Friday,08:45,USD,Markit Services PMI Flash,med,54.3,
-21,2021,Jan,22,Friday,08:45,USD,Markit Composite PMI Flash,med,55.9,
+20,2021,Jan,22,Friday,08:45,USD,Markit Services PMI Flash,med,54.3,54.8
+21,2021,Jan,22,Friday,08:45,USD,Markit Composite PMI Flash,med,55.9,55.3
 22,2021,Jan,22,Friday,08:45,USD,Manufacturing PMI,med,54.2,57.1
 23,2021,Jan,22,Friday,09:00,USD,Existing Home Sales MoM,med,-1.0%,-2.5%
 24,2021,Jan,22,Friday,09:00,USD,Existing Home Sales,med,6.62M,6.69M
@@ -496,90 +519,97 @@
 0,2021,Jan,25,Monday,03:00,EUR,German Ifo Current Conditions,low,93.6,91.3
 1,2021,Jan,25,Monday,03:00,EUR,German Ifo Expectations,low,94.7,92.8
 2,2021,Jan,25,Monday,03:00,EUR,German Ifo Business Climate,high,94.0,92.1
-3,2021,Jan,25,Monday,05:00,GBP,CBI Distributive Trades,med,-30.0,-3.0
-4,2021,Jan,25,Monday,07:30,USD,Chicago Fed National Activity Index,med,0.1,0.27
-5,2021,Jan,25,Monday,08:00,EUR,French 3-Month BTF Auction,low,,
-6,2021,Jan,25,Monday,08:00,EUR,French 6-Month BTF Auction,low,,
-7,2021,Jan,25,Monday,08:00,EUR,French 12-Month BTF Auction,low,,
-8,2021,Jan,25,Monday,09:30,USD,Dallas Fed Manufacturing Index,med,14.0,9.7
-9,2021,Jan,25,Monday,10:30,USD,3-Month Bill Auction,low,,
-10,2021,Jan,25,Monday,10:30,USD,6-Month Bill Auction,low,,
-11,2021,Jan,25,Monday,12:00,USD,2-Year Note Auction,low,,
-12,2021,Jan,25,Monday,15:30,NZD,Services NZ PSI,low,50.5,46.7
-13,2021,Jan,25,Monday,17:50,JPY,BoJ Monetary Policy Meeting Minutes,med,,
-14,2021,Jan,25,Monday,20:00,NZD,Credit Card Spending YoY,low,,
+3,2021,Jan,25,Monday,04:40,EUR,German 12-Month Bubill Auction,low,,-0.64%*
+4,2021,Jan,25,Monday,05:00,GBP,CBI Distributive Trades,med,-30.0,-3.0
+5,2021,Jan,25,Monday,07:30,USD,Chicago Fed National Activity Index,med,0.1,0.27
+6,2021,Jan,25,Monday,08:00,EUR,French 3-Month BTF Auction,low,,
+7,2021,Jan,25,Monday,08:00,EUR,French 6-Month BTF Auction,low,,
+8,2021,Jan,25,Monday,08:00,EUR,French 12-Month BTF Auction,low,,
+9,2021,Jan,25,Monday,09:30,USD,Dallas Fed Manufacturing Index,med,14.0,9.7
+10,2021,Jan,25,Monday,10:30,USD,3-Month Bill Auction,low,,
+11,2021,Jan,25,Monday,10:30,USD,6-Month Bill Auction,low,,
+12,2021,Jan,25,Monday,12:00,USD,2-Year Note Auction,low,,0.14%*
+13,2021,Jan,25,Monday,15:30,NZD,Services NZ PSI,low,50.5,46.7
+14,2021,Jan,25,Monday,17:50,JPY,BoJ Monetary Policy Meeting Minutes,med,,
+15,2021,Jan,25,Monday,20:00,NZD,Credit Card Spending YoY,low,,
 0,2021,Jan,26,Tuesday,01:00,GBP,Employment Change,med,-160.0k,-144.0k
 1,2021,Jan,26,Tuesday,01:00,GBP,Average Earnings excl. Bonus,med,2.0%,2.8%
 2,2021,Jan,26,Tuesday,01:00,GBP,Average Earnings Index,med,1.2%,2.7%
 3,2021,Jan,26,Tuesday,01:00,GBP,Claimant Count Change,high,86.3k,64.3k
 4,2021,Jan,26,Tuesday,01:00,GBP,Unemployment Rate,med,5.1%,4.9%
-5,2021,Jan,26,Tuesday,07:55,USD,Redbook YoY,low,,
-6,2021,Jan,26,Tuesday,07:55,USD,Redbook MoM,low,,
-7,2021,Jan,26,Tuesday,08:00,USD,House Price Index MoM,low,1.4%,1.5%
-8,2021,Jan,26,Tuesday,08:00,USD,S&P/Case-Shiller Home Price YoY,med,7.6%,7.9%
-9,2021,Jan,26,Tuesday,08:00,USD,S&P/Case-Shiller Home Price MoM,med,0.4%,1.3%
-10,2021,Jan,26,Tuesday,08:00,USD,House Price Index YoY,low,9.6%,10.2%
-11,2021,Jan,26,Tuesday,09:00,USD,Richmond Fed Manufacturing Index,low,19.0,19.0
-12,2021,Jan,26,Tuesday,09:00,USD,CB Consumer Confidence,high,,
-13,2021,Jan,26,Tuesday,10:30,USD,8-Week Bill Auction,low,,
+5,2021,Jan,26,Tuesday,04:45,GBP,30-Year Treasury Gilt Auction,low,,0.84%*
+6,2021,Jan,26,Tuesday,07:55,USD,Redbook YoY,low,,
+7,2021,Jan,26,Tuesday,07:55,USD,Redbook MoM,low,,
+8,2021,Jan,26,Tuesday,08:00,USD,House Price Index MoM,low,1.4%,1.5%
+9,2021,Jan,26,Tuesday,08:00,USD,S&P/Case-Shiller Home Price YoY,med,7.6%,7.9%
+10,2021,Jan,26,Tuesday,08:00,USD,S&P/Case-Shiller Home Price MoM,med,0.4%,1.3%
+11,2021,Jan,26,Tuesday,08:00,USD,House Price Index YoY,low,9.6%,10.2%
+12,2021,Jan,26,Tuesday,09:00,USD,Richmond Fed Manufacturing Index,low,19.0,19.0
+13,2021,Jan,26,Tuesday,09:00,USD,CB Consumer Confidence,high,,
 14,2021,Jan,26,Tuesday,10:30,USD,4-Week Bill Auction,low,,
-15,2021,Jan,26,Tuesday,12:00,USD,5-Year Note Auction,low,,
-16,2021,Jan,26,Tuesday,12:00,USD,52-Week Bill Auction,low,,
-17,2021,Jan,26,Tuesday,15:30,USD,API Crude Oil Stock Change,med,,
-18,2021,Jan,26,Tuesday,18:30,AUD,NAB Business Confidence,high,,12.0
-19,2021,Jan,26,Tuesday,18:30,AUD,RBA Weighted Mean CPI YoY,med,,
-20,2021,Jan,26,Tuesday,18:30,AUD,RBA Weighted Mean CPI QoQ,med,,
-21,2021,Jan,26,Tuesday,18:30,AUD,RBA Trimmed Mean CPI YoY,low,,1.2%
-22,2021,Jan,26,Tuesday,18:30,AUD,Inflation Rate YoY,med,0.8%,0.7%
-23,2021,Jan,26,Tuesday,18:30,AUD,Inflation Rate QoQ,med,0.8%,1.6%
-24,2021,Jan,26,Tuesday,18:30,AUD,RBA Trimmed Mean CPI QoQ,med,,
-25,2021,Jan,26,Tuesday,19:30,CNY,Chinese Industrial Profits (YTD) YoY,low,3.2%,2.4%
-26,2021,Jan,26,Tuesday,23:00,JPY,Leading Indicators Index,low,93.2,94.3
-27,2021,Jan,26,Tuesday,23:00,JPY,Coincident Index Final,low,92.5,89.4
+15,2021,Jan,26,Tuesday,10:30,USD,119-Day Bill Auction,low,,
+16,2021,Jan,26,Tuesday,10:30,USD,42-Day Bill Auction,low,,
+17,2021,Jan,26,Tuesday,12:00,USD,5-Year Note Auction,low,,0.39%*
+18,2021,Jan,26,Tuesday,12:00,USD,52-Week Bill Auction,low,,0.11%
+19,2021,Jan,26,Tuesday,15:30,USD,API Crude Oil Stock Change,med,,
+20,2021,Jan,26,Tuesday,18:30,AUD,NAB Business Confidence,high,,12.0
+21,2021,Jan,26,Tuesday,18:30,AUD,RBA Weighted Mean CPI YoY,med,,
+22,2021,Jan,26,Tuesday,18:30,AUD,RBA Weighted Mean CPI QoQ,med,,
+23,2021,Jan,26,Tuesday,18:30,AUD,RBA Trimmed Mean CPI YoY,low,,1.2%
+24,2021,Jan,26,Tuesday,18:30,AUD,Inflation Rate YoY,med,0.8%,0.7%
+25,2021,Jan,26,Tuesday,18:30,AUD,Inflation Rate QoQ,med,0.8%,1.6%
+26,2021,Jan,26,Tuesday,18:30,AUD,RBA Trimmed Mean CPI QoQ,med,,
+27,2021,Jan,26,Tuesday,19:30,CNY,Chinese Industrial Profits (YTD) YoY,low,3.2%,2.4%
+28,2021,Jan,26,Tuesday,23:00,JPY,Leading Indicators Index,low,93.2,94.3
+29,2021,Jan,26,Tuesday,23:00,JPY,Coincident Index Final,low,92.5,89.4
 0,2021,Jan,27,Wednesday,01:00,EUR,German GfK Consumer Confidence,high,-1.0,-7.3
-1,2021,Jan,27,Wednesday,01:45,EUR,French Consumer Confidence,low,95.0,
+1,2021,Jan,27,Wednesday,01:45,EUR,French Consumer Confidence,low,95.0,95.0
 2,2021,Jan,27,Wednesday,03:30,GBP,UK Finance Mortgage Approvals,med,,
-3,2021,Jan,27,Wednesday,05:00,EUR,French Jobseekers Total,low,"3,611.3k","3,586.3k"
-4,2021,Jan,27,Wednesday,05:00,EUR,French Unemployment Benefit Claims,med,25.0k,36.6k
-5,2021,Jan,27,Wednesday,06:00,USD,MBA Mortgage Applications,low,,
-6,2021,Jan,27,Wednesday,06:00,USD,MBA 30-Year Mortgage Rate,low,,
-7,2021,Jan,27,Wednesday,07:30,USD,Durable Goods Orders ex Defense MoM,low,0.3%,0.7%
-8,2021,Jan,27,Wednesday,07:30,USD,Core Durable Goods Orders,med,0.6%,0.4%
-9,2021,Jan,27,Wednesday,07:30,USD,Durable Goods Orders,high,0.4%,0.9%
-10,2021,Jan,27,Wednesday,09:30,USD,EIA Distillate Fuel Production Change,low,,
-11,2021,Jan,27,Wednesday,09:30,USD,EIA Distillate Stocks Change,med,,
-12,2021,Jan,27,Wednesday,09:30,USD,EIA Gasoline Production Change,low,,
-13,2021,Jan,27,Wednesday,09:30,USD,EIA Crude Oil Imports Change,low,,
-14,2021,Jan,27,Wednesday,09:30,USD,EIA Cushing Crude Oil Stocks Change,med,,
-15,2021,Jan,27,Wednesday,09:30,USD,EIA Crude Oil Stocks Change,med,,
-16,2021,Jan,27,Wednesday,09:30,USD,EIA Gasoline Stocks Change,med,,
-17,2021,Jan,27,Wednesday,09:30,USD,EIA Heating Oil Stocks Change,low,,
-18,2021,Jan,27,Wednesday,09:30,USD,EIA Refinery Crude Runs Change,low,,
-19,2021,Jan,27,Wednesday,12:00,USD,2-Year FRN Auction,low,,
-20,2021,Jan,27,Wednesday,13:00,USD,Federal Funds Rate,med,0.25%,0.25%
-21,2021,Jan,27,Wednesday,13:30,USD,Fed Press Conference,med,,
-22,2021,Jan,27,Wednesday,15:45,NZD,Exports,low,,5.2B
-23,2021,Jan,27,Wednesday,15:45,NZD,Imports,low,,4.95B
-24,2021,Jan,27,Wednesday,15:45,NZD,Balance of Trade,med,150.0M,252.0M
-25,2021,Jan,27,Wednesday,17:50,JPY,Stock Investment by Foreigners,low,,
-26,2021,Jan,27,Wednesday,17:50,JPY,Foreign Bond Investment,low,,
-27,2021,Jan,27,Wednesday,17:50,JPY,Retail Sales MoM,low,0.6%,-2.0%
-28,2021,Jan,27,Wednesday,17:50,JPY,Retail Sales YoY,med,7.6%,
-29,2021,Jan,27,Wednesday,18:30,AUD,Export Prices QoQ,low,,
-30,2021,Jan,27,Wednesday,18:30,AUD,Import Prices QoQ,low,,
+3,2021,Jan,27,Wednesday,04:40,EUR,German 10-Year Bund Auction,low,,-0.52%
+4,2021,Jan,27,Wednesday,05:00,EUR,French Jobseekers Total,low,"3,611.3k","3,586.3k"
+5,2021,Jan,27,Wednesday,05:00,EUR,French Unemployment Benefit Claims,med,25.0k,36.6k
+6,2021,Jan,27,Wednesday,06:00,USD,MBA Mortgage Applications,low,,
+7,2021,Jan,27,Wednesday,06:00,USD,MBA 30-Year Mortgage Rate,low,,
+8,2021,Jan,27,Wednesday,07:30,USD,Durable Goods Orders ex Defense MoM,low,0.3%,0.7%
+9,2021,Jan,27,Wednesday,07:30,USD,Core Durable Goods Orders,med,0.6%,0.4%
+10,2021,Jan,27,Wednesday,07:30,USD,Durable Goods Orders,high,0.4%,0.9%
+11,2021,Jan,27,Wednesday,09:30,USD,EIA Distillate Fuel Production Change,low,,
+12,2021,Jan,27,Wednesday,09:30,USD,EIA Distillate Stocks Change,med,,
+13,2021,Jan,27,Wednesday,09:30,USD,EIA Gasoline Production Change,low,,
+14,2021,Jan,27,Wednesday,09:30,USD,EIA Crude Oil Imports Change,low,,
+15,2021,Jan,27,Wednesday,09:30,USD,EIA Cushing Crude Oil Stocks Change,med,,
+16,2021,Jan,27,Wednesday,09:30,USD,EIA Crude Oil Stocks Change,med,,
+17,2021,Jan,27,Wednesday,09:30,USD,EIA Gasoline Stocks Change,med,,
+18,2021,Jan,27,Wednesday,09:30,USD,EIA Heating Oil Stocks Change,low,,
+19,2021,Jan,27,Wednesday,09:30,USD,EIA Refinery Crude Runs Change,low,,
+20,2021,Jan,27,Wednesday,10:30,USD,105-Day Bill Auction,low,,
+21,2021,Jan,27,Wednesday,10:30,USD,154-Day Bill Auction,low,,
+22,2021,Jan,27,Wednesday,12:00,USD,2-Year FRN Auction,low,,
+23,2021,Jan,27,Wednesday,12:00,USD,2-Year FRN Auction,low,,
+24,2021,Jan,27,Wednesday,13:00,USD,Federal Funds Rate,med,0.25%,0.25%
+25,2021,Jan,27,Wednesday,13:30,USD,Fed Press Conference,med,,
+26,2021,Jan,27,Wednesday,15:45,NZD,Exports,low,,5.2B
+27,2021,Jan,27,Wednesday,15:45,NZD,Imports,low,,4.95B
+28,2021,Jan,27,Wednesday,15:45,NZD,Balance of Trade,med,150.0M,252.0M
+29,2021,Jan,27,Wednesday,17:50,JPY,Stock Investment by Foreigners,low,,
+30,2021,Jan,27,Wednesday,17:50,JPY,Foreign Bond Investment,low,,
+31,2021,Jan,27,Wednesday,17:50,JPY,Retail Sales MoM,low,0.6%,-2.0%
+32,2021,Jan,27,Wednesday,17:50,JPY,Retail Sales YoY,med,7.6%,
+33,2021,Jan,27,Wednesday,18:30,AUD,Export Prices QoQ,low,,
+34,2021,Jan,27,Wednesday,18:30,AUD,Import Prices QoQ,low,,
 0,2021,Jan,28,Thursday,01:00,CHF,Balance of Trade,med,2.7B,3.1B
 1,2021,Jan,28,Thursday,03:00,GBP,Car Production YoY,low,-36.0%,-1.4%
-2,2021,Jan,28,Thursday,04:00,EUR,Economic Sentiment,med,86.2,
+2,2021,Jan,28,Thursday,04:00,EUR,Economic Sentiment,med,86.2,90.4
 3,2021,Jan,28,Thursday,04:00,EUR,Consumer Inflation Expectations,low,16.6,
-4,2021,Jan,28,Thursday,04:00,EUR,Consumer Confidence,med,-16.0,
-5,2021,Jan,28,Thursday,04:00,EUR,Industrial Sentiment,low,-9.0,
-6,2021,Jan,28,Thursday,04:00,EUR,Services Sentiment,low,-18.0,
+4,2021,Jan,28,Thursday,04:00,EUR,Consumer Confidence,med,-16.0,-13.9
+5,2021,Jan,28,Thursday,04:00,EUR,Industrial Sentiment,low,-8.0,-7.2
+6,2021,Jan,28,Thursday,04:00,EUR,Services Sentiment,low,-18.6,-17.4
 7,2021,Jan,28,Thursday,07:00,EUR,German Inflation Rate MoM Prel,low,0.2%,
-8,2021,Jan,28,Thursday,07:00,EUR,German Harmonised Inflation Rate MoM Prel,low,0.2%,
+8,2021,Jan,28,Thursday,07:00,EUR,German Harmonised Inflation Rate MoM Prel,low,,
 9,2021,Jan,28,Thursday,07:00,EUR,German Harmonised Inflation Rate YoY Prel,low,,
 10,2021,Jan,28,Thursday,07:00,EUR,German Inflation Rate YoY Prel,med,,
 11,2021,Jan,28,Thursday,07:30,CAD,Building Permits MoM,low,,
-12,2021,Jan,28,Thursday,07:30,USD,Continuing Jobless Claims,low,"3,410.0k",
+12,2021,Jan,28,Thursday,07:30,USD,Continuing Jobless Claims,low,"4,110.0k",
 13,2021,Jan,28,Thursday,07:30,USD,Jobless Claims 4-week Average,med,,
 14,2021,Jan,28,Thursday,07:30,USD,Initial Jobless Claims,med,715.0k,
 15,2021,Jan,28,Thursday,07:30,CAD,Average Weekly Earnings YoY,low,,5.9%
@@ -594,27 +624,29 @@
 24,2021,Jan,28,Thursday,09:00,USD,CB Leading Index MoM,low,,
 25,2021,Jan,28,Thursday,09:30,USD,EIA Natural Gas Stocks Change,low,,
 26,2021,Jan,28,Thursday,10:00,USD,Kansas Fed Manufacturing Index,low,15.0,12.0
-27,2021,Jan,28,Thursday,12:00,USD,7-Year Note Auction,low,,
-28,2021,Jan,28,Thursday,15:00,NZD,ANZ Roy Morgan Consumer Confidence,low,,112.0
-29,2021,Jan,28,Thursday,17:30,JPY,Unemployment Rate,med,3.2%,2.9%
-30,2021,Jan,28,Thursday,17:30,JPY,Jobs/applications ratio,low,1.02,1.06
-31,2021,Jan,28,Thursday,17:30,JPY,Core CPI,low,-0.4%,
-32,2021,Jan,28,Thursday,17:30,JPY,Tokyo CPI YoY,low,-0.4%,-1.3%
-33,2021,Jan,28,Thursday,17:50,JPY,Industrial Production MoM Prel,med,-1.1%,
-34,2021,Jan,28,Thursday,17:50,JPY,Industrial Production YoY Prel,low,1.0%,
-35,2021,Jan,28,Thursday,17:50,JPY,BoJ Summary of Opinions,med,,
-36,2021,Jan,28,Thursday,18:30,AUD,Westpac Leading Index MoM,low,,0.5%
-37,2021,Jan,28,Thursday,18:30,AUD,Private Sector Credit YoY,low,,1.7%
-38,2021,Jan,28,Thursday,18:30,AUD,Private Sector Credit MoM,low,,0.1%
-39,2021,Jan,28,Thursday,18:30,AUD,PPI QoQ,med,,0.4%
-40,2021,Jan,28,Thursday,18:30,AUD,PPI YoY,low,,-0.4%
-41,2021,Jan,28,Thursday,23:00,JPY,Consumer Confidence,high,34.0,
-42,2021,Jan,28,Thursday,23:00,JPY,Housing Starts YoY,med,-2.0%,-3.7%
-43,2021,Jan,28,Thursday,23:00,JPY,Construction Orders YoY,low,-7.6%,-4.7%
+27,2021,Jan,28,Thursday,10:30,USD,8-Week Bill Auction,low,,
+28,2021,Jan,28,Thursday,10:30,USD,4-Week Bill Auction,low,,
+29,2021,Jan,28,Thursday,12:00,USD,7-Year Note Auction,low,,0.66%*
+30,2021,Jan,28,Thursday,15:00,NZD,ANZ Roy Morgan Consumer Confidence,low,,112.0
+31,2021,Jan,28,Thursday,17:30,JPY,Unemployment Rate,med,3.2%,2.9%
+32,2021,Jan,28,Thursday,17:30,JPY,Jobs/applications ratio,low,1.02,1.06
+33,2021,Jan,28,Thursday,17:30,JPY,Core CPI,low,-0.4%,
+34,2021,Jan,28,Thursday,17:30,JPY,Tokyo CPI YoY,low,-0.4%,-1.3%
+35,2021,Jan,28,Thursday,17:50,JPY,Industrial Production MoM Prel,med,-1.1%,
+36,2021,Jan,28,Thursday,17:50,JPY,Industrial Production YoY Prel,low,1.0%,
+37,2021,Jan,28,Thursday,17:50,JPY,BoJ Summary of Opinions,med,,
+38,2021,Jan,28,Thursday,18:30,AUD,Westpac Leading Index MoM,low,,0.5%
+39,2021,Jan,28,Thursday,18:30,AUD,Private Sector Credit YoY,low,,1.7%
+40,2021,Jan,28,Thursday,18:30,AUD,Private Sector Credit MoM,low,,0.1%
+41,2021,Jan,28,Thursday,18:30,AUD,PPI QoQ,med,,0.4%
+42,2021,Jan,28,Thursday,18:30,AUD,PPI YoY,low,,-0.4%
+43,2021,Jan,28,Thursday,23:00,JPY,Consumer Confidence,high,34.0,31.8
+44,2021,Jan,28,Thursday,23:00,JPY,Housing Starts YoY,med,-2.0%,-3.7%
+45,2021,Jan,28,Thursday,23:00,JPY,Construction Orders YoY,low,-7.6%,-4.7%
 0,2021,Jan,29,Friday,00:30,EUR,French GDP Growth Rate QoQ Prel,med,-3.2%,18.7%
 1,2021,Jan,29,Friday,01:00,EUR,German Import Prices MoM,low,0.3%,0.5%
 2,2021,Jan,29,Friday,01:00,EUR,German Germany Import Price Index,low,-3.7%,-3.8%
-3,2021,Jan,29,Friday,01:00,EUR,German Wholesale Price Index,med,4.6%,
+3,2021,Jan,29,Friday,01:00,EUR,German Wholesale Price Index,med,4.6%,4.5%
 4,2021,Jan,29,Friday,01:00,GBP,Nationwide Housing Prices YoY,med,7.8%,7.3%
 5,2021,Jan,29,Friday,01:00,GBP,Nationwide Housing Prices MoM,med,0.6%,0.8%
 6,2021,Jan,29,Friday,01:00,EUR,German GDP Growth Rate QoQ Flash,med,-1.2%,8.5%
@@ -622,18 +654,18 @@
 8,2021,Jan,29,Friday,01:45,EUR,French Household Consumption MoM,low,0.5%,
 9,2021,Jan,29,Friday,01:45,EUR,French PPI MoM,low,0.2%,1.7%
 10,2021,Jan,29,Friday,02:00,CHF,KOF Leading Indicators,high,104.8,104.3
-11,2021,Jan,29,Friday,02:55,EUR,German Unemployment Rate,med,6.2%,
-12,2021,Jan,29,Friday,02:55,EUR,German Unemployment Change,med,-12.0k,
-13,2021,Jan,29,Friday,03:00,EUR,Loans to Companies YoY,low,6.1%,
-14,2021,Jan,29,Friday,03:00,EUR,Loans to Households YoY,low,2.9%,
-15,2021,Jan,29,Friday,03:00,EUR,M3 Money Supply,low,10.1%,
+11,2021,Jan,29,Friday,02:55,EUR,German Unemployment Rate,med,6.2%,6.1%
+12,2021,Jan,29,Friday,02:55,EUR,German Unemployment Change,med,-12.0k,-37.0k
+13,2021,Jan,29,Friday,03:00,EUR,Loans to Companies YoY,low,7.0%,6.9%
+14,2021,Jan,29,Friday,03:00,EUR,Loans to Households YoY,low,3.2%,3.1%
+15,2021,Jan,29,Friday,03:00,EUR,M3 Money Supply,low,11.2%,11.0%
 16,2021,Jan,29,Friday,03:00,CHF,Economic Sentiment Index,low,36.0,46.8
 17,2021,Jan,29,Friday,04:00,EUR,Business Climate,high,,
-18,2021,Jan,29,Friday,07:30,CAD,PPI MoM,low,,
-19,2021,Jan,29,Friday,07:30,CAD,PPI YoY,low,,
+18,2021,Jan,29,Friday,07:30,CAD,PPI MoM,low,,-0.6%
+19,2021,Jan,29,Friday,07:30,CAD,PPI YoY,low,,0.0%
 20,2021,Jan,29,Friday,07:30,CAD,GDP MoM,med,0.4%,0.4%
-21,2021,Jan,29,Friday,07:30,CAD,Raw Materials Prices MoM,low,,
-22,2021,Jan,29,Friday,07:30,CAD,Raw Materials Prices YoY,low,,
+21,2021,Jan,29,Friday,07:30,CAD,Raw Materials Prices MoM,low,,0.6%
+22,2021,Jan,29,Friday,07:30,CAD,Raw Materials Prices YoY,low,,-1.7%
 23,2021,Jan,29,Friday,07:30,USD,Employment Cost Index QoQ,med,0.6%,0.5%
 24,2021,Jan,29,Friday,07:30,USD,Core PCE Price Index MoM,low,0.2%,0.0%
 25,2021,Jan,29,Friday,07:30,USD,Core PCE Price Index YoY,low,1.4%,1.4%
@@ -658,10 +690,10 @@
 1,2021,Jan,31,Sunday,18:30,JPY,Jibun Bank Manufacturing PMI Final,med,,50.0
 2,2021,Jan,31,Sunday,18:30,AUD,Home Loans MoM,med,,
 3,2021,Jan,31,Sunday,19:45,CNY,Chinese Caixin Manufacturing PMI,high,,53.0
-0,2021,Feb,1,Monday,01:00,EUR,German Retail Sales MoM,med,,
-1,2021,Feb,1,Monday,01:00,EUR,German Retail Sales YoY,med,,
-2,2021,Feb,1,Monday,01:30,CHF,Retail Sales MoM,low,,
-3,2021,Feb,1,Monday,01:30,CHF,Retail Sales YoY,med,,
+0,2021,Feb,1,Monday,01:00,EUR,German Retail Sales MoM,med,,1.9%
+1,2021,Feb,1,Monday,01:00,EUR,German Retail Sales YoY,med,,5.6%
+2,2021,Feb,1,Monday,01:30,CHF,Retail Sales MoM,low,,-2.0%
+3,2021,Feb,1,Monday,01:30,CHF,Retail Sales YoY,med,,1.7%
 4,2021,Feb,1,Monday,02:50,EUR,French Markit Manufacturing PMI Final,low,,51.1
 5,2021,Feb,1,Monday,02:55,EUR,German Markit Manufacturing PMI Final,med,,58.3
 6,2021,Feb,1,Monday,03:00,EUR,Markit Manufacturing PMI Final,med,,55.2
@@ -677,132 +709,143 @@
 16,2021,Feb,1,Monday,08:00,EUR,French 3-Month BTF Auction,low,,
 17,2021,Feb,1,Monday,08:30,CAD,Markit Manufacturing PMI,med,,57.9
 18,2021,Feb,1,Monday,08:45,USD,Manufacturing PMI,med,,57.1
-19,2021,Feb,1,Monday,09:00,USD,ISM Manufacturing New Orders,med,,
-20,2021,Feb,1,Monday,09:00,USD,ISM Manufacturing Prices,med,,
-21,2021,Feb,1,Monday,09:00,USD,ISM Manufacturing Employment,med,,
-22,2021,Feb,1,Monday,09:00,USD,ISM Manufacturing PMI,med,,
+19,2021,Feb,1,Monday,09:00,USD,ISM Manufacturing New Orders,med,,67.9
+20,2021,Feb,1,Monday,09:00,USD,ISM Manufacturing Prices,med,,77.6
+21,2021,Feb,1,Monday,09:00,USD,ISM Manufacturing Employment,med,,51.5
+22,2021,Feb,1,Monday,09:00,USD,ISM Manufacturing PMI,med,58.0,60.7
 23,2021,Feb,1,Monday,09:00,USD,Construction Spending MoM,med,,0.9%
 24,2021,Feb,1,Monday,10:30,USD,3-Month Bill Auction,low,,
 25,2021,Feb,1,Monday,10:30,USD,6-Month Bill Auction,low,,
 26,2021,Feb,1,Monday,15:30,AUD,AIG Manufacturing Index,med,,52.1
 27,2021,Feb,1,Monday,15:30,AUD,AIG Manufacturing Index,med,,
-28,2021,Feb,1,Monday,18:00,USD,Total Vehicle Sales,med,,
+28,2021,Feb,1,Monday,18:00,USD,Total Vehicle Sales,med,,16.3M
 29,2021,Feb,1,Monday,21:30,AUD,RBA Interest Rate Decision,med,0.1%,0.1%
+30,2021,Feb,1,Monday,21:45,JPY,10-Year JGB Auction,low,,0.02%*
 0,2021,Feb,2,Tuesday,01:45,EUR,French Inflation Rate MoM Prel,low,,
 1,2021,Feb,2,Tuesday,01:45,EUR,French Harmonised Inflation Rate MoM Prel,low,,
 2,2021,Feb,2,Tuesday,01:45,EUR,French Harmonised Inflation Rate YoY Prel,low,,
 3,2021,Feb,2,Tuesday,01:45,EUR,French Inflation Rate YoY Prel,med,,
 4,2021,Feb,2,Tuesday,04:00,EUR,GDP Growth Rate QoQ Flash,med,-2.2%,12.5%
 5,2021,Feb,2,Tuesday,04:00,EUR,GDP Growth Rate YoY Flash,med,-4.8%,-4.3%
-6,2021,Feb,2,Tuesday,07:55,USD,Redbook YoY,low,,
-7,2021,Feb,2,Tuesday,07:55,USD,Redbook MoM,low,,
-8,2021,Feb,2,Tuesday,08:30,NZD,Global Dairy Trade Price Index,low,,
-9,2021,Feb,2,Tuesday,09:00,USD,IBD/TIPP Economic Optimism,med,,
-10,2021,Feb,2,Tuesday,10:30,USD,8-Week Bill Auction,low,,
-11,2021,Feb,2,Tuesday,10:30,USD,4-Week Bill Auction,low,,
-12,2021,Feb,2,Tuesday,15:30,USD,API Crude Oil Stock Change,med,,
-13,2021,Feb,2,Tuesday,15:45,NZD,Labour Costs Index QoQ,low,,0.6%
-14,2021,Feb,2,Tuesday,15:45,NZD,Labour Costs Index YoY,low,,1.9%
-15,2021,Feb,2,Tuesday,15:45,NZD,Participation Rate,low,,70.1%
-16,2021,Feb,2,Tuesday,15:45,NZD,Unemployment Rate,med,5.8%,5.3%
-17,2021,Feb,2,Tuesday,15:45,NZD,Employment Change QoQ,med,,-0.8%
-18,2021,Feb,2,Tuesday,16:00,AUD,Markit Services PMI Final,med,,
-19,2021,Feb,2,Tuesday,16:00,AUD,Markit Composite PMI Final,low,,
-20,2021,Feb,2,Tuesday,18:00,AUD,TD-MI Inflation Gauge MoM,med,,
-21,2021,Feb,2,Tuesday,18:30,AUD,ANZ Job Advertisements MoM,low,,
-22,2021,Feb,2,Tuesday,18:30,AUD,Building Permits MoM Prel,med,,
-23,2021,Feb,2,Tuesday,18:30,JPY,Jibun Bank Services PMI Final,med,,
-24,2021,Feb,2,Tuesday,18:30,JPY,Jibun Bank Composite PMI Final,low,,
-25,2021,Feb,2,Tuesday,18:30,AUD,RBA Chart Pack,low,,
-26,2021,Feb,2,Tuesday,19:45,CNY,Chinese Caixin Composite PMI,low,,
-27,2021,Feb,2,Tuesday,19:45,CNY,Chinese Caixin Services PMI,med,,
+6,2021,Feb,2,Tuesday,04:40,EUR,German 2-Year Schatz Auction,low,,-0.73%
+7,2021,Feb,2,Tuesday,04:45,GBP,5-Year Treasury Gilt Auction,low,,0.07%*
+8,2021,Feb,2,Tuesday,07:55,USD,Redbook YoY,low,,
+9,2021,Feb,2,Tuesday,07:55,USD,Redbook MoM,low,,
+10,2021,Feb,2,Tuesday,08:30,NZD,Global Dairy Trade Price Index,low,,
+11,2021,Feb,2,Tuesday,09:00,USD,IBD/TIPP Economic Optimism,med,,
+12,2021,Feb,2,Tuesday,10:30,USD,4-Week Bill Auction,low,,
+13,2021,Feb,2,Tuesday,10:30,USD,119-Day Bill Auction,low,,
+14,2021,Feb,2,Tuesday,10:30,USD,42-Day Bill Auction,low,,
+15,2021,Feb,2,Tuesday,15:30,USD,API Crude Oil Stock Change,med,,
+16,2021,Feb,2,Tuesday,15:45,NZD,Labour Costs Index QoQ,low,,0.6%
+17,2021,Feb,2,Tuesday,15:45,NZD,Labour Costs Index YoY,low,,1.9%
+18,2021,Feb,2,Tuesday,15:45,NZD,Participation Rate,low,,70.1%
+19,2021,Feb,2,Tuesday,15:45,NZD,Unemployment Rate,med,5.8%,5.3%
+20,2021,Feb,2,Tuesday,15:45,NZD,Employment Change QoQ,med,,-0.8%
+21,2021,Feb,2,Tuesday,16:00,AUD,Markit Services PMI Final,med,,57.0
+22,2021,Feb,2,Tuesday,16:00,AUD,Markit Composite PMI Final,low,,55.6
+23,2021,Feb,2,Tuesday,18:00,AUD,TD-MI Inflation Gauge MoM,med,,
+24,2021,Feb,2,Tuesday,18:30,AUD,ANZ Job Advertisements MoM,low,,9.2%
+25,2021,Feb,2,Tuesday,18:30,AUD,Building Permits MoM Prel,med,,
+26,2021,Feb,2,Tuesday,18:30,JPY,Jibun Bank Services PMI Final,med,,47.7
+27,2021,Feb,2,Tuesday,18:30,JPY,Jibun Bank Composite PMI Final,low,,48.5
+28,2021,Feb,2,Tuesday,18:30,AUD,RBA Chart Pack,low,,
+29,2021,Feb,2,Tuesday,19:45,CNY,Chinese Caixin Composite PMI,low,,55.8
+30,2021,Feb,2,Tuesday,19:45,CNY,Chinese Caixin Services PMI,med,,56.3
 0,2021,Feb,3,Wednesday,02:00,EUR,ECB Non-Monetary Policy Meeting,med,,
 1,2021,Feb,3,Wednesday,02:30,CHF,procure.ch Manufacturing PMI,low,,58.0
-2,2021,Feb,3,Wednesday,02:50,EUR,French Markit Services PMI Final,low,,
-3,2021,Feb,3,Wednesday,02:50,EUR,French Markit Composite PMI Final,low,,
-4,2021,Feb,3,Wednesday,02:55,EUR,German Markit Services PMI Final,med,,
-5,2021,Feb,3,Wednesday,02:55,EUR,German Markit Composite PMI Final,low,,
-6,2021,Feb,3,Wednesday,03:00,EUR,Markit Services PMI Final,med,,
-7,2021,Feb,3,Wednesday,03:00,EUR,Markit Composite PMI Final,low,,
-8,2021,Feb,3,Wednesday,03:30,GBP,Services PMI,med,,
-9,2021,Feb,3,Wednesday,03:30,GBP,Markit/CIPS Composite PMI Final,low,,
+2,2021,Feb,3,Wednesday,02:50,EUR,French Markit Services PMI Final,low,,49.1
+3,2021,Feb,3,Wednesday,02:50,EUR,French Markit Composite PMI Final,low,,49.5
+4,2021,Feb,3,Wednesday,02:55,EUR,German Markit Services PMI Final,med,,47.0
+5,2021,Feb,3,Wednesday,02:55,EUR,German Markit Composite PMI Final,low,,52.0
+6,2021,Feb,3,Wednesday,03:00,EUR,Markit Services PMI Final,med,,46.4
+7,2021,Feb,3,Wednesday,03:00,EUR,Markit Composite PMI Final,low,,49.1
+8,2021,Feb,3,Wednesday,03:30,GBP,Services PMI,med,,49.4
+9,2021,Feb,3,Wednesday,03:30,GBP,Markit/CIPS Composite PMI Final,low,,50.4
 10,2021,Feb,3,Wednesday,04:00,EUR,Core Inflation Rate YoY Flash,med,,
 11,2021,Feb,3,Wednesday,04:00,EUR,Inflation Rate YoY Flash,med,,
-12,2021,Feb,3,Wednesday,04:00,EUR,PPI MoM,low,,
-13,2021,Feb,3,Wednesday,04:00,EUR,PPI YoY,low,-1.7%,
+12,2021,Feb,3,Wednesday,04:00,EUR,PPI MoM,low,0.2%,0.4%
+13,2021,Feb,3,Wednesday,04:00,EUR,PPI YoY,low,-1.7%,-1.9%
 14,2021,Feb,3,Wednesday,04:00,EUR,Inflation Rate MoM Flash,med,,
-15,2021,Feb,3,Wednesday,06:00,USD,MBA Mortgage Applications,low,,
-16,2021,Feb,3,Wednesday,06:00,USD,MBA 30-Year Mortgage Rate,low,,
-17,2021,Feb,3,Wednesday,07:15,USD,ADP National Employment Report,high,,
-18,2021,Feb,3,Wednesday,07:30,USD,Treasury Refunding Announcement,low,,
-19,2021,Feb,3,Wednesday,08:45,USD,Markit Services PMI Final,med,,
-20,2021,Feb,3,Wednesday,08:45,USD,Markit Composite PMI Final,med,,
-21,2021,Feb,3,Wednesday,09:00,USD,ISM Non-Manufacturing Business Activity,med,,
-22,2021,Feb,3,Wednesday,09:00,USD,ISM Non-Manufacturing Prices,med,,
-23,2021,Feb,3,Wednesday,09:00,USD,ISM Non-Manufacturing Employment,med,,
-24,2021,Feb,3,Wednesday,09:00,USD,ISM Non-Manufacturing PMI,med,,
-25,2021,Feb,3,Wednesday,09:00,USD,ISM Non-Manufacturing New Orders,med,,
-26,2021,Feb,3,Wednesday,09:30,USD,EIA Distillate Fuel Production Change,low,,
-27,2021,Feb,3,Wednesday,09:30,USD,EIA Distillate Stocks Change,med,,
-28,2021,Feb,3,Wednesday,09:30,USD,EIA Gasoline Production Change,low,,
-29,2021,Feb,3,Wednesday,09:30,USD,EIA Crude Oil Imports Change,low,,
-30,2021,Feb,3,Wednesday,09:30,USD,EIA Cushing Crude Oil Stocks Change,med,,
-31,2021,Feb,3,Wednesday,09:30,USD,EIA Crude Oil Stocks Change,med,,
-32,2021,Feb,3,Wednesday,09:30,USD,EIA Gasoline Stocks Change,med,,
-33,2021,Feb,3,Wednesday,09:30,USD,EIA Refinery Crude Runs Change,low,,
-34,2021,Feb,3,Wednesday,09:30,USD,EIA Heating Oil Stocks Change,low,,
-35,2021,Feb,3,Wednesday,15:30,AUD,Ai Group Construction Index,low,,55.3
-36,2021,Feb,3,Wednesday,15:30,AUD,Ai Group Construction Index,low,,
-37,2021,Feb,3,Wednesday,15:45,NZD,Building Permits MoM,low,,
-38,2021,Feb,3,Wednesday,17:50,JPY,Stock Investment by Foreigners,low,,
-39,2021,Feb,3,Wednesday,17:50,JPY,Foreign Bond Investment,low,,
-40,2021,Feb,3,Wednesday,18:30,AUD,Balance of Trade,high,4.4B,
-41,2021,Feb,3,Wednesday,18:30,AUD,Imports MoM,low,,
-42,2021,Feb,3,Wednesday,18:30,AUD,Exports MoM,low,,
+15,2021,Feb,3,Wednesday,04:45,GBP,10-Year Treasury Gilt Auction,low,,0.33%*
+16,2021,Feb,3,Wednesday,06:00,USD,MBA Mortgage Applications,low,,
+17,2021,Feb,3,Wednesday,06:00,USD,MBA 30-Year Mortgage Rate,low,,
+18,2021,Feb,3,Wednesday,07:15,USD,ADP National Employment Report,high,,
+19,2021,Feb,3,Wednesday,07:30,USD,Treasury Refunding Announcement,low,,
+20,2021,Feb,3,Wednesday,08:45,USD,Markit Services PMI Final,med,,54.8
+21,2021,Feb,3,Wednesday,08:45,USD,Markit Composite PMI Final,med,,55.3
+22,2021,Feb,3,Wednesday,09:00,USD,ISM Non-Manufacturing Business Activity,med,,59.4
+23,2021,Feb,3,Wednesday,09:00,USD,ISM Non-Manufacturing Prices,med,,64.8
+24,2021,Feb,3,Wednesday,09:00,USD,ISM Non-Manufacturing Employment,med,,48.2
+25,2021,Feb,3,Wednesday,09:00,USD,ISM Non-Manufacturing PMI,med,57.0,57.2
+26,2021,Feb,3,Wednesday,09:00,USD,ISM Non-Manufacturing New Orders,med,,
+27,2021,Feb,3,Wednesday,09:30,USD,EIA Distillate Fuel Production Change,low,,
+28,2021,Feb,3,Wednesday,09:30,USD,EIA Distillate Stocks Change,med,,
+29,2021,Feb,3,Wednesday,09:30,USD,EIA Gasoline Production Change,low,,
+30,2021,Feb,3,Wednesday,09:30,USD,EIA Crude Oil Imports Change,low,,
+31,2021,Feb,3,Wednesday,09:30,USD,EIA Cushing Crude Oil Stocks Change,med,,
+32,2021,Feb,3,Wednesday,09:30,USD,EIA Crude Oil Stocks Change,med,,
+33,2021,Feb,3,Wednesday,09:30,USD,EIA Gasoline Stocks Change,med,,
+34,2021,Feb,3,Wednesday,09:30,USD,EIA Refinery Crude Runs Change,low,,
+35,2021,Feb,3,Wednesday,09:30,USD,EIA Heating Oil Stocks Change,low,,
+36,2021,Feb,3,Wednesday,10:30,USD,105-Day Bill Auction,low,,
+37,2021,Feb,3,Wednesday,10:30,USD,154-Day Bill Auction,low,,
+38,2021,Feb,3,Wednesday,15:30,AUD,Ai Group Construction Index,low,,55.3
+39,2021,Feb,3,Wednesday,15:30,AUD,Ai Group Construction Index,low,,
+40,2021,Feb,3,Wednesday,15:45,NZD,Building Permits MoM,low,,
+41,2021,Feb,3,Wednesday,17:50,JPY,Stock Investment by Foreigners,low,,
+42,2021,Feb,3,Wednesday,17:50,JPY,Foreign Bond Investment,low,,
+43,2021,Feb,3,Wednesday,18:30,AUD,Balance of Trade,high,4.4B,5.02B
+44,2021,Feb,3,Wednesday,18:30,AUD,Imports MoM,low,,10.0%
+45,2021,Feb,3,Wednesday,18:30,AUD,Exports MoM,low,,3.0%
+46,2021,Feb,3,Wednesday,21:45,JPY,30-Year JGB Auction,low,,
 0,2021,Feb,4,Thursday,01:45,EUR,French Budget Balance,low,,
-1,2021,Feb,4,Thursday,02:30,EUR,German Construction PMI,med,,
-2,2021,Feb,4,Thursday,02:30,EUR,French Construction PMI,low,,
-3,2021,Feb,4,Thursday,02:30,EUR,Construction PMI,low,,
-4,2021,Feb,4,Thursday,03:00,GBP,New Car Sales YoY,low,,
-5,2021,Feb,4,Thursday,03:30,GBP,Construction PMI,med,,
-6,2021,Feb,4,Thursday,04:00,EUR,Retail Sales MoM,low,,
-7,2021,Feb,4,Thursday,04:00,EUR,Retail Sales YoY,med,1.5%,
-8,2021,Feb,4,Thursday,04:00,EUR,French Retail Sales MoM,low,,
-9,2021,Feb,4,Thursday,04:00,EUR,French Retail Sales YoY,low,,
-10,2021,Feb,4,Thursday,06:00,GBP,Official Bank Rate,med,,
-11,2021,Feb,4,Thursday,06:00,GBP,BoE Quantitative Easing,med,,
-12,2021,Feb,4,Thursday,06:00,GBP,Monetary Policy Report,med,,
-13,2021,Feb,4,Thursday,06:00,GBP,MPC Meeting Minutes,med,,
-14,2021,Feb,4,Thursday,06:00,GBP,BoE MPC Vote Hike,med,,
-15,2021,Feb,4,Thursday,06:00,GBP,BoE MPC Vote Unchanged,med,,
-16,2021,Feb,4,Thursday,06:00,GBP,BoE MPC Vote Cut,med,,
-17,2021,Feb,4,Thursday,06:30,USD,Challenger Job Cuts,low,,
-18,2021,Feb,4,Thursday,07:30,USD,Continuing Jobless Claims,low,,
-19,2021,Feb,4,Thursday,07:30,USD,Jobless Claims 4-week Average,med,,
-20,2021,Feb,4,Thursday,07:30,USD,Initial Jobless Claims,med,,
-21,2021,Feb,4,Thursday,07:30,USD,Unit Labour Costs QoQ Prel,med,,-6.6%
-22,2021,Feb,4,Thursday,07:30,USD,Nonfarm Productivity QoQ Prel,med,,4.6%
-23,2021,Feb,4,Thursday,08:30,NZD,Global Dairy Trade Price Index,low,,
-24,2021,Feb,4,Thursday,08:45,USD,ISM New York Index,low,,
-25,2021,Feb,4,Thursday,09:00,USD,Factory Orders ex Transportation,low,,
-26,2021,Feb,4,Thursday,09:00,USD,Factory Orders MoM,med,,
-27,2021,Feb,4,Thursday,09:30,USD,EIA Natural Gas Stocks Change,low,,
-28,2021,Feb,4,Thursday,17:30,JPY,Household Spending MoM,low,,
-29,2021,Feb,4,Thursday,17:30,JPY,Household Spending YoY,low,,
-30,2021,Feb,4,Thursday,18:30,AUD,Retail Sales MoM,med,,
-31,2021,Feb,4,Thursday,18:30,AUD,RBA Statement on Monetary Policy,med,,
-32,2021,Feb,4,Thursday,23:00,JPY,Leading Economic Index Prel,low,,
-33,2021,Feb,4,Thursday,23:00,JPY,Coincident Index Prel,low,,
+1,2021,Feb,4,Thursday,02:30,EUR,German Construction PMI,med,,47.1
+2,2021,Feb,4,Thursday,02:30,EUR,French Construction PMI,low,,40.5
+3,2021,Feb,4,Thursday,02:30,EUR,Construction PMI,low,,45.5
+4,2021,Feb,4,Thursday,03:00,GBP,New Car Sales YoY,low,,-10.9%
+5,2021,Feb,4,Thursday,03:30,GBP,Construction PMI,med,,54.6
+6,2021,Feb,4,Thursday,04:00,EUR,Retail Sales MoM,low,,-6.1%
+7,2021,Feb,4,Thursday,04:00,EUR,Retail Sales YoY,med,1.5%,-2.9%
+8,2021,Feb,4,Thursday,04:00,EUR,French Retail Sales MoM,low,,-18.0%
+9,2021,Feb,4,Thursday,04:00,EUR,French Retail Sales YoY,low,,-15.7%
+10,2021,Feb,4,Thursday,04:00,EUR,French 10-Year OAT Auction,low,,-0.33%
+11,2021,Feb,4,Thursday,06:00,GBP,Official Bank Rate,med,,
+12,2021,Feb,4,Thursday,06:00,GBP,BoE Quantitative Easing,med,,
+13,2021,Feb,4,Thursday,06:00,GBP,Monetary Policy Report,med,,
+14,2021,Feb,4,Thursday,06:00,GBP,MPC Meeting Minutes,med,,
+15,2021,Feb,4,Thursday,06:00,GBP,BoE MPC Vote Hike,med,,
+16,2021,Feb,4,Thursday,06:00,GBP,BoE MPC Vote Unchanged,med,,
+17,2021,Feb,4,Thursday,06:00,GBP,BoE MPC Vote Cut,med,,
+18,2021,Feb,4,Thursday,06:30,USD,Challenger Job Cuts,low,,
+19,2021,Feb,4,Thursday,07:30,USD,Continuing Jobless Claims,low,,
+20,2021,Feb,4,Thursday,07:30,USD,Jobless Claims 4-week Average,med,,
+21,2021,Feb,4,Thursday,07:30,USD,Initial Jobless Claims,med,,
+22,2021,Feb,4,Thursday,07:30,USD,Unit Labour Costs QoQ Prel,med,,-6.6%
+23,2021,Feb,4,Thursday,07:30,USD,Nonfarm Productivity QoQ Prel,med,,4.6%
+24,2021,Feb,4,Thursday,08:30,NZD,Global Dairy Trade Price Index,low,,
+25,2021,Feb,4,Thursday,08:45,USD,ISM New York Index,low,58.0,61.3
+26,2021,Feb,4,Thursday,09:00,USD,Factory Orders ex Transportation,low,,0.8%
+27,2021,Feb,4,Thursday,09:00,USD,Factory Orders MoM,med,0.7%,1.0%
+28,2021,Feb,4,Thursday,09:30,USD,EIA Natural Gas Stocks Change,low,,
+29,2021,Feb,4,Thursday,10:30,USD,8-Week Bill Auction,low,,
+30,2021,Feb,4,Thursday,10:30,USD,4-Week Bill Auction,low,,
+31,2021,Feb,4,Thursday,17:30,JPY,Household Spending MoM,low,,
+32,2021,Feb,4,Thursday,17:30,JPY,Household Spending YoY,low,,
+33,2021,Feb,4,Thursday,18:30,AUD,Retail Sales MoM,med,,
+34,2021,Feb,4,Thursday,18:30,AUD,RBA Statement on Monetary Policy,med,,
+35,2021,Feb,4,Thursday,23:00,JPY,Leading Economic Index Prel,low,,
+36,2021,Feb,4,Thursday,23:00,JPY,Coincident Index Prel,low,,
 0,2021,Feb,5,Friday,00:45,CHF,Consumer Confidence,high,,
-1,2021,Feb,5,Friday,01:00,EUR,German Factory Orders MoM,med,,
+1,2021,Feb,5,Friday,01:00,EUR,German Factory Orders MoM,med,,2.3%
 2,2021,Feb,5,Friday,01:45,EUR,French Private Non Farm Payrolls QoQ Prel,low,,1.6%
 3,2021,Feb,5,Friday,02:30,GBP,Halifax House Price Index,med,,
 4,2021,Feb,5,Friday,02:30,GBP,Halifax House Price Index MoM,med,,
-5,2021,Feb,5,Friday,07:30,CAD,Exports,low,,
-6,2021,Feb,5,Friday,07:30,CAD,Imports,low,,
-7,2021,Feb,5,Friday,07:30,CAD,Balance of Trade,high,-2.0B,
-8,2021,Feb,5,Friday,07:30,USD,Exports,low,,
-9,2021,Feb,5,Friday,07:30,USD,Imports,low,,
+5,2021,Feb,5,Friday,07:30,CAD,Exports,low,,46.8B
+6,2021,Feb,5,Friday,07:30,CAD,Imports,low,,50.1B
+7,2021,Feb,5,Friday,07:30,CAD,Balance of Trade,high,-2.0B,-3.34B
+8,2021,Feb,5,Friday,07:30,USD,Exports,low,,184.2B
+9,2021,Feb,5,Friday,07:30,USD,Imports,low,,252.3B
 10,2021,Feb,5,Friday,07:30,USD,Balance of Trade,high,-55.0B,
 11,2021,Feb,5,Friday,07:30,USD,Manufacturing Payrolls,low,,
 12,2021,Feb,5,Friday,07:30,USD,Participation Rate,low,,
@@ -819,14 +862,14 @@
 23,2021,Feb,5,Friday,07:30,CAD,Employment Change,med,,
 24,2021,Feb,5,Friday,07:30,CAD,Average Hourly Wages YoY,low,,
 25,2021,Feb,5,Friday,07:30,USD,Average Hourly Earnings MoM,high,,
-26,2021,Feb,5,Friday,09:00,CAD,Ivey PMI s.a,high,,
+26,2021,Feb,5,Friday,09:00,CAD,Ivey PMI s.a,high,,46.7
 27,2021,Feb,5,Friday,12:00,USD,Baker Hughes Oil Rig Count,low,,
 28,2021,Feb,5,Friday,12:00,USD,Baker Hughes Total Rig Count,low,,
 29,2021,Feb,5,Friday,14:00,USD,Consumer Credit Change,low,23.1B,
 30,2021,Feb,5,Friday,15:30,AUD,Ai Group Services Index,med,,52.9
 31,2021,Feb,5,Friday,15:30,AUD,Ai Group Services Index,med,,
 0,2021,Feb,6,Saturday,17:50,JPY,Foreign Exchange Reserves,low,,
-0,2021,Feb,7,Sunday,02:00,CNY,Chinese Foreign Exchange Reserves,low,,
+0,2021,Feb,7,Sunday,02:00,CNY,Chinese Foreign Exchange Reserves,low,3.2,3.22
 1,2021,Feb,7,Sunday,17:50,JPY,Bank Lending YoY,low,,
 2,2021,Feb,7,Sunday,17:50,JPY,Current Account,med,,
 3,2021,Feb,7,Sunday,23:00,JPY,Eco Watchers Survey Current,low,,
@@ -841,7 +884,7 @@
 7,2021,Feb,8,Monday,10:00,USD,Consumer Inflation Expectations,low,,
 8,2021,Feb,8,Monday,10:30,USD,3-Month Bill Auction,low,,
 9,2021,Feb,8,Monday,10:30,USD,6-Month Bill Auction,low,,
-10,2021,Feb,8,Monday,17:30,JPY,Average Cash Earnings YoY,low,,
+10,2021,Feb,8,Monday,17:30,JPY,Average Cash Earnings YoY,low,,-2.2%
 11,2021,Feb,8,Monday,20:00,NZD,Business Inflation Expectations,low,,1.6%
 0,2021,Feb,9,Tuesday,01:00,EUR,German Imports MoM s.a,low,,
 1,2021,Feb,9,Tuesday,01:00,EUR,German Exports MoM s.a,low,,
@@ -852,16 +895,18 @@
 6,2021,Feb,9,Tuesday,07:55,USD,Redbook YoY,low,,
 7,2021,Feb,9,Tuesday,07:55,USD,Redbook MoM,low,,
 8,2021,Feb,9,Tuesday,09:00,USD,JOLTs Job Openings,med,6.1M,
-9,2021,Feb,9,Tuesday,10:30,USD,8-Week Bill Auction,low,,
-10,2021,Feb,9,Tuesday,10:30,USD,4-Week Bill Auction,low,,
-11,2021,Feb,9,Tuesday,15:30,USD,API Crude Oil Stock Change,med,,
-12,2021,Feb,9,Tuesday,17:50,JPY,PPI MoM,low,,
-13,2021,Feb,9,Tuesday,17:50,JPY,PPI YoY,low,,
-14,2021,Feb,9,Tuesday,18:00,AUD,HIA New Home Sales MoM,med,,
-15,2021,Feb,9,Tuesday,18:30,AUD,Building Permits MoM Final,med,,
-16,2021,Feb,9,Tuesday,19:30,CNY,Chinese Inflation Rate MoM,med,,
-17,2021,Feb,9,Tuesday,19:30,CNY,Chinese PPI YoY,med,,
-18,2021,Feb,9,Tuesday,19:30,CNY,Chinese Inflation Rate YoY,med,,
+9,2021,Feb,9,Tuesday,10:30,USD,4-Week Bill Auction,low,,
+10,2021,Feb,9,Tuesday,10:30,USD,119-Day Bill Auction,low,,
+11,2021,Feb,9,Tuesday,10:30,USD,42-Day Bill Auction,low,,
+12,2021,Feb,9,Tuesday,12:00,USD,3-Year Note Auction,low,,
+13,2021,Feb,9,Tuesday,15:30,USD,API Crude Oil Stock Change,med,,
+14,2021,Feb,9,Tuesday,17:50,JPY,PPI MoM,low,,
+15,2021,Feb,9,Tuesday,17:50,JPY,PPI YoY,low,,
+16,2021,Feb,9,Tuesday,18:00,AUD,HIA New Home Sales MoM,med,,
+17,2021,Feb,9,Tuesday,18:30,AUD,Building Permits MoM Final,med,,
+18,2021,Feb,9,Tuesday,19:30,CNY,Chinese Inflation Rate MoM,med,,
+19,2021,Feb,9,Tuesday,19:30,CNY,Chinese PPI YoY,med,,
+20,2021,Feb,9,Tuesday,19:30,CNY,Chinese Inflation Rate YoY,med,,
 0,2021,Feb,10,Wednesday,00:45,CHF,Unemployment Rate,med,,
 1,2021,Feb,10,Wednesday,01:00,GBP,Goods Trade Balance,low,,
 2,2021,Feb,10,Wednesday,01:00,GBP,GDP YoY,low,-8.4%,
@@ -882,42 +927,49 @@
 17,2021,Feb,10,Wednesday,01:00,EUR,German Harmonised Inflation Rate YoY Final,low,,
 18,2021,Feb,10,Wednesday,01:00,EUR,German Harmonised Inflation Rate MoM Final,low,,
 19,2021,Feb,10,Wednesday,01:00,EUR,German Inflation Rate YoY Final,med,,
-20,2021,Feb,10,Wednesday,01:30,CHF,Inflation Rate MoM,low,,
-21,2021,Feb,10,Wednesday,01:30,CHF,Inflation Rate YoY,med,,
+20,2021,Feb,10,Wednesday,01:30,CHF,Inflation Rate MoM,low,,-0.1%
+21,2021,Feb,10,Wednesday,01:30,CHF,Inflation Rate YoY,med,,-0.8%
 22,2021,Feb,10,Wednesday,01:45,EUR,French Industrial Production MoM,med,,
-23,2021,Feb,10,Wednesday,06:00,USD,MBA Mortgage Applications,low,,
-24,2021,Feb,10,Wednesday,06:00,USD,MBA 30-Year Mortgage Rate,low,,
-25,2021,Feb,10,Wednesday,07:30,CAD,Building Permits MoM,low,,
-26,2021,Feb,10,Wednesday,07:30,USD,Core Inflation Rate MoM,med,,
-27,2021,Feb,10,Wednesday,07:30,USD,Inflation Rate MoM,med,,
-28,2021,Feb,10,Wednesday,07:30,USD,Inflation Rate YoY,high,,
-29,2021,Feb,10,Wednesday,07:30,USD,Core Inflation Rate YoY,high,,
-30,2021,Feb,10,Wednesday,08:00,GBP,NIESR Monthly GDP Tracker,low,,
-31,2021,Feb,10,Wednesday,09:00,USD,Wholesale Inventories MoM,med,,
-32,2021,Feb,10,Wednesday,09:30,USD,EIA Distillate Fuel Production Change,low,,
-33,2021,Feb,10,Wednesday,09:30,USD,EIA Distillate Stocks Change,med,,
-34,2021,Feb,10,Wednesday,09:30,USD,EIA Gasoline Production Change,low,,
-35,2021,Feb,10,Wednesday,09:30,USD,EIA Crude Oil Imports Change,low,,
-36,2021,Feb,10,Wednesday,09:30,USD,EIA Cushing Crude Oil Stocks Change,med,,
-37,2021,Feb,10,Wednesday,09:30,USD,EIA Crude Oil Stocks Change,med,,
-38,2021,Feb,10,Wednesday,09:30,USD,EIA Gasoline Stocks Change,med,,
-39,2021,Feb,10,Wednesday,09:30,USD,EIA Refinery Crude Runs Change,low,,
-40,2021,Feb,10,Wednesday,09:30,USD,EIA Heating Oil Stocks Change,low,,
-41,2021,Feb,10,Wednesday,11:30,USD,US Budget  Plan FY 2021,med,,-430.0B
-42,2021,Feb,10,Wednesday,13:00,USD,Monthly Budget Statement,med,,
-43,2021,Feb,10,Wednesday,15:45,NZD,Electronic Card Retail Sales,low,,
-44,2021,Feb,10,Wednesday,15:45,NZD,Electronic Retail Card Spending YoY,low,,
-45,2021,Feb,10,Wednesday,18:30,AUD,Investment Lending for Homes,med,,
-46,2021,Feb,10,Wednesday,18:30,AUD,NAB Business Confidence,high,,
+23,2021,Feb,10,Wednesday,04:40,EUR,German 5-Year Bobl Auction,low,,
+24,2021,Feb,10,Wednesday,06:00,USD,MBA Mortgage Applications,low,,
+25,2021,Feb,10,Wednesday,06:00,USD,MBA 30-Year Mortgage Rate,low,,
+26,2021,Feb,10,Wednesday,07:30,CAD,Building Permits MoM,low,,
+27,2021,Feb,10,Wednesday,07:30,USD,Core Inflation Rate MoM,med,,
+28,2021,Feb,10,Wednesday,07:30,USD,Inflation Rate MoM,med,,
+29,2021,Feb,10,Wednesday,07:30,USD,Inflation Rate YoY,high,,
+30,2021,Feb,10,Wednesday,07:30,USD,Core Inflation Rate YoY,high,,
+31,2021,Feb,10,Wednesday,08:00,GBP,NIESR Monthly GDP Tracker,low,,
+32,2021,Feb,10,Wednesday,09:00,USD,Wholesale Inventories MoM,med,,
+33,2021,Feb,10,Wednesday,09:30,USD,EIA Distillate Fuel Production Change,low,,
+34,2021,Feb,10,Wednesday,09:30,USD,EIA Distillate Stocks Change,med,,
+35,2021,Feb,10,Wednesday,09:30,USD,EIA Gasoline Production Change,low,,
+36,2021,Feb,10,Wednesday,09:30,USD,EIA Crude Oil Imports Change,low,,
+37,2021,Feb,10,Wednesday,09:30,USD,EIA Cushing Crude Oil Stocks Change,med,,
+38,2021,Feb,10,Wednesday,09:30,USD,EIA Crude Oil Stocks Change,med,,
+39,2021,Feb,10,Wednesday,09:30,USD,EIA Gasoline Stocks Change,med,,
+40,2021,Feb,10,Wednesday,09:30,USD,EIA Refinery Crude Runs Change,low,,
+41,2021,Feb,10,Wednesday,09:30,USD,EIA Heating Oil Stocks Change,low,,
+42,2021,Feb,10,Wednesday,10:30,USD,105-Day Bill Auction,low,,
+43,2021,Feb,10,Wednesday,10:30,USD,154-Day Bill Auction,low,,
+44,2021,Feb,10,Wednesday,11:30,USD,US Budget  Plan FY 2021,med,,-430.0B
+45,2021,Feb,10,Wednesday,12:00,USD,10-Year Note Auction,low,,
+46,2021,Feb,10,Wednesday,13:00,USD,Monthly Budget Statement,med,,
+47,2021,Feb,10,Wednesday,15:45,NZD,Electronic Card Retail Sales,low,,
+48,2021,Feb,10,Wednesday,15:45,NZD,Electronic Retail Card Spending YoY,low,,
+49,2021,Feb,10,Wednesday,18:30,AUD,Investment Lending for Homes,med,,
+50,2021,Feb,10,Wednesday,18:30,AUD,NAB Business Confidence,high,,
 0,2021,Feb,11,Thursday,07:30,USD,Continuing Jobless Claims,low,,
 1,2021,Feb,11,Thursday,07:30,USD,Jobless Claims 4-week Average,med,,
 2,2021,Feb,11,Thursday,07:30,USD,Initial Jobless Claims,med,,
 3,2021,Feb,11,Thursday,09:30,USD,EIA Natural Gas Stocks Change,low,,
-4,2021,Feb,11,Thursday,15:45,NZD,Food Price Index,low,,
-5,2021,Feb,11,Thursday,17:30,AUD,Westpac Consumer Confidence Change,high,,
-6,2021,Feb,11,Thursday,17:30,AUD,Westpac Consumer Confidence Index,high,,
-7,2021,Feb,11,Thursday,17:50,JPY,Stock Investment by Foreigners,low,,
-8,2021,Feb,11,Thursday,17:50,JPY,Foreign Bond Investment,low,,
+4,2021,Feb,11,Thursday,10:30,USD,8-Week Bill Auction,low,,
+5,2021,Feb,11,Thursday,10:30,USD,4-Week Bill Auction,low,,
+6,2021,Feb,11,Thursday,12:00,USD,30-Year Bond Auction,med,,
+7,2021,Feb,11,Thursday,15:45,NZD,Food Price Index,low,,
+8,2021,Feb,11,Thursday,17:30,AUD,Westpac Consumer Confidence Change,high,,
+9,2021,Feb,11,Thursday,17:30,AUD,Westpac Consumer Confidence Index,high,,
+10,2021,Feb,11,Thursday,17:50,JPY,Stock Investment by Foreigners,low,,
+11,2021,Feb,11,Thursday,17:50,JPY,Foreign Bond Investment,low,,
 0,2021,Feb,12,Friday,00:00,JPY,Machine Tool Orders YoY,low,,
 1,2021,Feb,12,Friday,04:00,EUR,Industrial Production,med,,
 2,2021,Feb,12,Friday,04:00,EUR,Industrial Production,med,,
@@ -969,18 +1021,19 @@
 11,2021,Feb,16,Tuesday,07:55,USD,Redbook YoY,low,,
 12,2021,Feb,16,Tuesday,07:55,USD,Redbook MoM,low,,
 13,2021,Feb,16,Tuesday,08:30,NZD,Global Dairy Trade Price Index,low,,
-14,2021,Feb,16,Tuesday,10:30,USD,8-Week Bill Auction,low,,
-15,2021,Feb,16,Tuesday,10:30,USD,4-Week Bill Auction,low,,
-16,2021,Feb,16,Tuesday,15:00,USD,Overall Net Capital Flows,med,,
-17,2021,Feb,16,Tuesday,15:00,USD,TIC Net Long-Term Transactions,med,,
-18,2021,Feb,16,Tuesday,15:00,USD,Foreign Bond Investment,med,,
-19,2021,Feb,16,Tuesday,15:30,NZD,Services NZ PSI,low,,
-20,2021,Feb,16,Tuesday,17:00,JPY,Reuters Tankan Index,low,,
-21,2021,Feb,16,Tuesday,17:50,JPY,Machinery Orders MoM,med,,
-22,2021,Feb,16,Tuesday,17:50,JPY,Machinery Orders YoY,med,,
-23,2021,Feb,16,Tuesday,17:50,JPY,Imports YoY,low,,
-24,2021,Feb,16,Tuesday,17:50,JPY,Exports YoY,med,,
-25,2021,Feb,16,Tuesday,17:50,JPY,Balance of Trade,high,,
+14,2021,Feb,16,Tuesday,10:30,USD,4-Week Bill Auction,low,,
+15,2021,Feb,16,Tuesday,10:30,USD,119-Day Bill Auction,low,,
+16,2021,Feb,16,Tuesday,10:30,USD,42-Day Bill Auction,low,,
+17,2021,Feb,16,Tuesday,15:00,USD,Overall Net Capital Flows,med,,
+18,2021,Feb,16,Tuesday,15:00,USD,TIC Net Long-Term Transactions,med,,
+19,2021,Feb,16,Tuesday,15:00,USD,Foreign Bond Investment,med,,
+20,2021,Feb,16,Tuesday,15:30,NZD,Services NZ PSI,low,,
+21,2021,Feb,16,Tuesday,17:00,JPY,Reuters Tankan Index,low,,
+22,2021,Feb,16,Tuesday,17:50,JPY,Machinery Orders MoM,med,,
+23,2021,Feb,16,Tuesday,17:50,JPY,Machinery Orders YoY,med,,
+24,2021,Feb,16,Tuesday,17:50,JPY,Imports YoY,low,,
+25,2021,Feb,16,Tuesday,17:50,JPY,Exports YoY,med,,
+26,2021,Feb,16,Tuesday,17:50,JPY,Balance of Trade,high,,
 0,2021,Feb,17,Wednesday,All Day,CNY,Chinese FDI (YTD) YoY,med,,
 1,2021,Feb,17,Wednesday,01:00,EUR,German Wholesale Prices MoM,med,,
 2,2021,Feb,17,Wednesday,01:00,EUR,German Wholesale Prices YoY,med,,
@@ -998,78 +1051,87 @@
 14,2021,Feb,17,Wednesday,03:30,GBP,Core Inflation Rate YoY,med,,
 15,2021,Feb,17,Wednesday,03:30,GBP,Inflation Rate YoY,high,,
 16,2021,Feb,17,Wednesday,04:00,EUR,Construction Output YoY,med,,
-17,2021,Feb,17,Wednesday,06:00,USD,MBA Mortgage Applications,low,,
-18,2021,Feb,17,Wednesday,06:00,USD,MBA 30-Year Mortgage Rate,low,,
-19,2021,Feb,17,Wednesday,07:30,USD,PPI YoY,low,,
-20,2021,Feb,17,Wednesday,07:30,USD,PPI MoM,high,,
-21,2021,Feb,17,Wednesday,07:30,USD,Core PPI,med,,
-22,2021,Feb,17,Wednesday,07:30,USD,Core PPI YoY,low,,
-23,2021,Feb,17,Wednesday,07:30,USD,Retail Sales YoY,low,,
-24,2021,Feb,17,Wednesday,07:30,USD,Retail Sales Ex Autos MoM,med,,
-25,2021,Feb,17,Wednesday,07:30,USD,Retail Sales MoM,high,,
-26,2021,Feb,17,Wednesday,07:30,CAD,Inflation Rate MoM,med,,
-27,2021,Feb,17,Wednesday,07:30,CAD,Core Inflation Rate YoY,med,,
-28,2021,Feb,17,Wednesday,07:30,CAD,Inflation Rate YoY,high,,
-29,2021,Feb,17,Wednesday,08:15,USD,Capacity Utilization Rate,low,,
-30,2021,Feb,17,Wednesday,08:15,USD,Manufacturing Production YoY,low,,
-31,2021,Feb,17,Wednesday,08:15,USD,Industrial Production YoY,med,,
-32,2021,Feb,17,Wednesday,08:15,USD,Industrial Production,med,,
-33,2021,Feb,17,Wednesday,08:15,USD,Manufacturing Production MoM,low,,
-34,2021,Feb,17,Wednesday,09:00,USD,Business Inventories MoM,med,,
-35,2021,Feb,17,Wednesday,09:00,USD,NAHB Housing Market Index,med,,
-36,2021,Feb,17,Wednesday,13:00,USD,FOMC Minutes,med,,
-37,2021,Feb,17,Wednesday,15:30,USD,API Crude Oil Stock Change,med,,
-38,2021,Feb,17,Wednesday,17:50,JPY,Stock Investment by Foreigners,low,,
-39,2021,Feb,17,Wednesday,17:50,JPY,Foreign Bond Investment,low,,
-40,2021,Feb,17,Wednesday,18:30,AUD,Part Time Employment Chg,med,,
-41,2021,Feb,17,Wednesday,18:30,AUD,Participation Rate,low,,
-42,2021,Feb,17,Wednesday,18:30,AUD,Full Time Employment Chg,med,,
-43,2021,Feb,17,Wednesday,18:30,AUD,Unemployment Rate,med,,
-44,2021,Feb,17,Wednesday,18:30,AUD,Employment Change,med,,
-0,2021,Feb,18,Thursday,07:30,USD,Housing Starts MoM,med,,
-1,2021,Feb,18,Thursday,07:30,USD,Building Permits MoM,med,,
-2,2021,Feb,18,Thursday,07:30,USD,Building Permits,med,,
-3,2021,Feb,18,Thursday,07:30,USD,Housing Starts,med,,
-4,2021,Feb,18,Thursday,07:30,USD,Continuing Jobless Claims,low,,
-5,2021,Feb,18,Thursday,07:30,USD,Jobless Claims 4-week Average,med,,
-6,2021,Feb,18,Thursday,07:30,USD,Initial Jobless Claims,med,,
-7,2021,Feb,18,Thursday,07:30,USD,Import Prices YoY,med,,
-8,2021,Feb,18,Thursday,07:30,USD,Export Prices YoY,med,,
-9,2021,Feb,18,Thursday,07:30,USD,Export Prices MoM,med,,
-10,2021,Feb,18,Thursday,07:30,USD,Import Prices MoM,med,,
-11,2021,Feb,18,Thursday,07:30,CAD,ADP Employment Change,med,,
-12,2021,Feb,18,Thursday,07:30,CAD,New Housing Price Index MoM,med,,
-13,2021,Feb,18,Thursday,07:30,CAD,New Housing Price Index YoY,med,,
-14,2021,Feb,18,Thursday,07:30,USD,Philadelphia Fed Manufacturing Index,med,,
-15,2021,Feb,18,Thursday,09:00,NZD,Global Dairy Trade Price Index,low,,
-16,2021,Feb,18,Thursday,09:00,EUR,Consumer Confidence Flash,med,,
-17,2021,Feb,18,Thursday,09:30,USD,EIA Natural Gas Stocks Change,low,,
-18,2021,Feb,18,Thursday,10:00,USD,EIA Heating Oil Stocks Change,low,,
-19,2021,Feb,18,Thursday,10:00,USD,EIA Refinery Crude Runs Change,low,,
-20,2021,Feb,18,Thursday,10:00,USD,EIA Gasoline Stocks Change,med,,
-21,2021,Feb,18,Thursday,10:00,USD,EIA Crude Oil Imports Change,low,,
-22,2021,Feb,18,Thursday,10:00,USD,EIA Cushing Crude Oil Stocks Change,med,,
-23,2021,Feb,18,Thursday,10:00,USD,EIA Crude Oil Stocks Change,med,,
-24,2021,Feb,18,Thursday,10:00,USD,EIA Distillate Stocks Change,med,,
-25,2021,Feb,18,Thursday,10:00,USD,EIA Gasoline Production Change,low,,
-26,2021,Feb,18,Thursday,10:00,USD,EIA Distillate Fuel Production Change,low,,
-27,2021,Feb,18,Thursday,15:45,NZD,PPI Input QoQ,low,,0.6%
-28,2021,Feb,18,Thursday,15:45,NZD,PPI Output QoQ,low,,-0.3%
-29,2021,Feb,18,Thursday,16:00,AUD,Markit Services PMI Flash,med,,
-30,2021,Feb,18,Thursday,16:00,AUD,AIG Manufacturing Index,med,,
-31,2021,Feb,18,Thursday,16:00,AUD,Markit Composite PMI Flash,low,,
-32,2021,Feb,18,Thursday,17:30,JPY,Inflation Rate Ex-Food and Energy YoY,low,,
-33,2021,Feb,18,Thursday,17:30,JPY,Inflation Rate MoM,low,,
-34,2021,Feb,18,Thursday,17:30,JPY,Core Inflation Rate YoY,med,,
-35,2021,Feb,18,Thursday,17:30,JPY,Inflation Rate YoY,high,,
-36,2021,Feb,18,Thursday,18:01,GBP,Gfk Consumer Confidence,high,,
-37,2021,Feb,18,Thursday,18:30,AUD,Retail Sales MoM Prel,med,,
-38,2021,Feb,18,Thursday,18:30,AUD,Westpac Leading Index MoM,low,,
-39,2021,Feb,18,Thursday,18:30,AUD,Wage Price Index YoY,low,,
-40,2021,Feb,18,Thursday,18:30,AUD,Wage Price Index QoQ,high,,
-41,2021,Feb,18,Thursday,18:30,JPY,Jibun Bank Manufacturing PMI Flash,med,,
-42,2021,Feb,18,Thursday,18:30,JPY,Jibun Bank Composite PMI Flash,low,,
-43,2021,Feb,18,Thursday,18:30,JPY,Jibun Bank Services PMI Flash,med,,
+17,2021,Feb,17,Wednesday,04:40,EUR,German 30-Year Bund Auction,low,,
+18,2021,Feb,17,Wednesday,06:00,USD,MBA Mortgage Applications,low,,
+19,2021,Feb,17,Wednesday,06:00,USD,MBA 30-Year Mortgage Rate,low,,
+20,2021,Feb,17,Wednesday,07:30,USD,PPI YoY,low,,
+21,2021,Feb,17,Wednesday,07:30,USD,PPI MoM,high,,
+22,2021,Feb,17,Wednesday,07:30,USD,Core PPI,med,,
+23,2021,Feb,17,Wednesday,07:30,USD,Core PPI YoY,low,,
+24,2021,Feb,17,Wednesday,07:30,USD,Retail Sales YoY,low,,
+25,2021,Feb,17,Wednesday,07:30,USD,Retail Sales Ex Autos MoM,med,,
+26,2021,Feb,17,Wednesday,07:30,USD,Retail Sales MoM,high,,
+27,2021,Feb,17,Wednesday,07:30,CAD,Inflation Rate MoM,med,,
+28,2021,Feb,17,Wednesday,07:30,CAD,Core Inflation Rate YoY,med,,
+29,2021,Feb,17,Wednesday,07:30,CAD,Inflation Rate YoY,high,,
+30,2021,Feb,17,Wednesday,08:15,USD,Capacity Utilization Rate,low,,
+31,2021,Feb,17,Wednesday,08:15,USD,Manufacturing Production YoY,low,,
+32,2021,Feb,17,Wednesday,08:15,USD,Industrial Production YoY,med,,
+33,2021,Feb,17,Wednesday,08:15,USD,Industrial Production,med,,
+34,2021,Feb,17,Wednesday,08:15,USD,Manufacturing Production MoM,low,,
+35,2021,Feb,17,Wednesday,09:00,USD,Business Inventories MoM,med,,
+36,2021,Feb,17,Wednesday,09:00,USD,NAHB Housing Market Index,med,,
+37,2021,Feb,17,Wednesday,10:30,USD,105-Day Bill Auction,low,,
+38,2021,Feb,17,Wednesday,10:30,USD,154-Day Bill Auction,low,,
+39,2021,Feb,17,Wednesday,12:00,USD,20-Year Bond Auction,low,,
+40,2021,Feb,17,Wednesday,13:00,USD,FOMC Minutes,med,,
+41,2021,Feb,17,Wednesday,15:30,USD,API Crude Oil Stock Change,med,,
+42,2021,Feb,17,Wednesday,17:50,JPY,Stock Investment by Foreigners,low,,
+43,2021,Feb,17,Wednesday,17:50,JPY,Foreign Bond Investment,low,,
+44,2021,Feb,17,Wednesday,18:30,AUD,Part Time Employment Chg,med,,
+45,2021,Feb,17,Wednesday,18:30,AUD,Participation Rate,low,,
+46,2021,Feb,17,Wednesday,18:30,AUD,Full Time Employment Chg,med,,
+47,2021,Feb,17,Wednesday,18:30,AUD,Unemployment Rate,med,,
+48,2021,Feb,17,Wednesday,18:30,AUD,Employment Change,med,,
+0,2021,Feb,18,Thursday,04:00,EUR,French 5-Year BTAN Auction,low,,
+1,2021,Feb,18,Thursday,04:00,EUR,French 3-Year BTAN Auction,low,,
+2,2021,Feb,18,Thursday,07:30,USD,Housing Starts MoM,med,,
+3,2021,Feb,18,Thursday,07:30,USD,Building Permits MoM,med,,
+4,2021,Feb,18,Thursday,07:30,USD,Building Permits,med,,
+5,2021,Feb,18,Thursday,07:30,USD,Housing Starts,med,,
+6,2021,Feb,18,Thursday,07:30,USD,Continuing Jobless Claims,low,,
+7,2021,Feb,18,Thursday,07:30,USD,Jobless Claims 4-week Average,med,,
+8,2021,Feb,18,Thursday,07:30,USD,Initial Jobless Claims,med,,
+9,2021,Feb,18,Thursday,07:30,USD,Import Prices YoY,med,,
+10,2021,Feb,18,Thursday,07:30,USD,Export Prices YoY,med,,
+11,2021,Feb,18,Thursday,07:30,USD,Export Prices MoM,med,,
+12,2021,Feb,18,Thursday,07:30,USD,Import Prices MoM,med,,
+13,2021,Feb,18,Thursday,07:30,CAD,ADP Employment Change,med,,
+14,2021,Feb,18,Thursday,07:30,CAD,New Housing Price Index MoM,med,,
+15,2021,Feb,18,Thursday,07:30,CAD,New Housing Price Index YoY,med,,
+16,2021,Feb,18,Thursday,07:30,USD,Philadelphia Fed Manufacturing Index,med,,
+17,2021,Feb,18,Thursday,09:00,NZD,Global Dairy Trade Price Index,low,,
+18,2021,Feb,18,Thursday,09:00,EUR,Consumer Confidence Flash,med,,
+19,2021,Feb,18,Thursday,09:30,USD,EIA Natural Gas Stocks Change,low,,
+20,2021,Feb,18,Thursday,10:00,USD,EIA Heating Oil Stocks Change,low,,
+21,2021,Feb,18,Thursday,10:00,USD,EIA Refinery Crude Runs Change,low,,
+22,2021,Feb,18,Thursday,10:00,USD,EIA Gasoline Stocks Change,med,,
+23,2021,Feb,18,Thursday,10:00,USD,EIA Crude Oil Imports Change,low,,
+24,2021,Feb,18,Thursday,10:00,USD,EIA Cushing Crude Oil Stocks Change,med,,
+25,2021,Feb,18,Thursday,10:00,USD,EIA Crude Oil Stocks Change,med,,
+26,2021,Feb,18,Thursday,10:00,USD,EIA Distillate Stocks Change,med,,
+27,2021,Feb,18,Thursday,10:00,USD,EIA Gasoline Production Change,low,,
+28,2021,Feb,18,Thursday,10:00,USD,EIA Distillate Fuel Production Change,low,,
+29,2021,Feb,18,Thursday,10:30,USD,8-Week Bill Auction,low,,
+30,2021,Feb,18,Thursday,10:30,USD,4-Week Bill Auction,low,,
+31,2021,Feb,18,Thursday,12:00,USD,30-Year TIPS Auction,low,,
+32,2021,Feb,18,Thursday,15:45,NZD,PPI Input QoQ,low,,0.6%
+33,2021,Feb,18,Thursday,15:45,NZD,PPI Output QoQ,low,,-0.3%
+34,2021,Feb,18,Thursday,16:00,AUD,Markit Services PMI Flash,med,,
+35,2021,Feb,18,Thursday,16:00,AUD,AIG Manufacturing Index,med,,
+36,2021,Feb,18,Thursday,16:00,AUD,Markit Composite PMI Flash,low,,
+37,2021,Feb,18,Thursday,17:30,JPY,Inflation Rate Ex-Food and Energy YoY,low,,
+38,2021,Feb,18,Thursday,17:30,JPY,Inflation Rate MoM,low,,
+39,2021,Feb,18,Thursday,17:30,JPY,Core Inflation Rate YoY,med,,
+40,2021,Feb,18,Thursday,17:30,JPY,Inflation Rate YoY,high,,
+41,2021,Feb,18,Thursday,18:01,GBP,Gfk Consumer Confidence,high,,
+42,2021,Feb,18,Thursday,18:30,AUD,Retail Sales MoM Prel,med,,
+43,2021,Feb,18,Thursday,18:30,AUD,Westpac Leading Index MoM,low,,
+44,2021,Feb,18,Thursday,18:30,AUD,Wage Price Index YoY,low,,
+45,2021,Feb,18,Thursday,18:30,AUD,Wage Price Index QoQ,high,,
+46,2021,Feb,18,Thursday,18:30,JPY,Jibun Bank Manufacturing PMI Flash,med,,
+47,2021,Feb,18,Thursday,18:30,JPY,Jibun Bank Composite PMI Flash,low,,
+48,2021,Feb,18,Thursday,18:30,JPY,Jibun Bank Services PMI Flash,med,,
 0,2021,Feb,19,Friday,01:00,EUR,German PPI YoY,low,,
 1,2021,Feb,19,Friday,01:00,EUR,German PPI MoM,med,,
 2,2021,Feb,19,Friday,01:00,CHF,Balance of Trade,med,,
@@ -1117,17 +1179,18 @@
 0,2021,Feb,22,Monday,03:00,EUR,German Ifo Current Conditions,low,,
 1,2021,Feb,22,Monday,03:00,EUR,German Ifo Expectations,low,,
 2,2021,Feb,22,Monday,03:00,EUR,German Ifo Business Climate,high,,
-3,2021,Feb,22,Monday,07:30,USD,Chicago Fed National Activity Index,med,,
-4,2021,Feb,22,Monday,08:00,EUR,French 3-Month BTF Auction,low,,
-5,2021,Feb,22,Monday,08:00,EUR,French 6-Month BTF Auction,low,,
-6,2021,Feb,22,Monday,08:00,EUR,French 12-Month BTF Auction,low,,
-7,2021,Feb,22,Monday,09:00,USD,CB Leading Index MoM,low,,
-8,2021,Feb,22,Monday,09:30,USD,Dallas Fed Manufacturing Index,med,,
-9,2021,Feb,22,Monday,10:30,USD,3-Month Bill Auction,low,,
-10,2021,Feb,22,Monday,10:30,USD,6-Month Bill Auction,low,,
-11,2021,Feb,22,Monday,15:45,NZD,Retail Sales YoY,low,,8.3%
-12,2021,Feb,22,Monday,15:45,NZD,Retail Sales QoQ,low,,28.0%
-13,2021,Feb,22,Monday,19:30,CNY,Chinese House Price Index YoY,med,,
+3,2021,Feb,22,Monday,04:40,EUR,German 12-Month Bubill Auction,low,,
+4,2021,Feb,22,Monday,07:30,USD,Chicago Fed National Activity Index,med,,
+5,2021,Feb,22,Monday,08:00,EUR,French 3-Month BTF Auction,low,,
+6,2021,Feb,22,Monday,08:00,EUR,French 6-Month BTF Auction,low,,
+7,2021,Feb,22,Monday,08:00,EUR,French 12-Month BTF Auction,low,,
+8,2021,Feb,22,Monday,09:00,USD,CB Leading Index MoM,low,,
+9,2021,Feb,22,Monday,09:30,USD,Dallas Fed Manufacturing Index,med,,
+10,2021,Feb,22,Monday,10:30,USD,3-Month Bill Auction,low,,
+11,2021,Feb,22,Monday,10:30,USD,6-Month Bill Auction,low,,
+12,2021,Feb,22,Monday,15:45,NZD,Retail Sales YoY,low,,8.3%
+13,2021,Feb,22,Monday,15:45,NZD,Retail Sales QoQ,low,,28.0%
+14,2021,Feb,22,Monday,19:30,CNY,Chinese House Price Index YoY,med,,
 0,2021,Feb,23,Tuesday,01:00,GBP,Employment Change,med,,
 1,2021,Feb,23,Tuesday,01:00,GBP,Labour Productivity QoQ Prel,low,,
 2,2021,Feb,23,Tuesday,01:00,GBP,Average Earnings excl. Bonus,med,1.5%,
@@ -1137,40 +1200,49 @@
 6,2021,Feb,23,Tuesday,04:00,EUR,Inflation Rate MoM Final,low,,
 7,2021,Feb,23,Tuesday,04:00,EUR,Core Inflation Rate YoY Final,med,,
 8,2021,Feb,23,Tuesday,04:00,EUR,Inflation Rate YoY Final,med,,
-9,2021,Feb,23,Tuesday,07:55,USD,Redbook YoY,low,,
-10,2021,Feb,23,Tuesday,07:55,USD,Redbook MoM,low,,
-11,2021,Feb,23,Tuesday,08:00,USD,House Price Index MoM,low,,
-12,2021,Feb,23,Tuesday,08:00,USD,House Price Index YoY,low,,
-13,2021,Feb,23,Tuesday,08:00,USD,S&P/Case-Shiller Home Price MoM,med,,
-14,2021,Feb,23,Tuesday,08:00,USD,S&P/Case-Shiller Home Price YoY,med,,
-15,2021,Feb,23,Tuesday,09:00,USD,Richmond Fed Manufacturing Index,low,,
-16,2021,Feb,23,Tuesday,09:00,USD,CB Consumer Confidence,high,,
-17,2021,Feb,23,Tuesday,10:30,USD,8-Week Bill Auction,low,,
+9,2021,Feb,23,Tuesday,04:45,GBP,30-Year Treasury Gilt Auction,low,,
+10,2021,Feb,23,Tuesday,07:55,USD,Redbook YoY,low,,
+11,2021,Feb,23,Tuesday,07:55,USD,Redbook MoM,low,,
+12,2021,Feb,23,Tuesday,08:00,USD,House Price Index MoM,low,,
+13,2021,Feb,23,Tuesday,08:00,USD,House Price Index YoY,low,,
+14,2021,Feb,23,Tuesday,08:00,USD,S&P/Case-Shiller Home Price MoM,med,,
+15,2021,Feb,23,Tuesday,08:00,USD,S&P/Case-Shiller Home Price YoY,med,,
+16,2021,Feb,23,Tuesday,09:00,USD,Richmond Fed Manufacturing Index,low,,
+17,2021,Feb,23,Tuesday,09:00,USD,CB Consumer Confidence,high,,
 18,2021,Feb,23,Tuesday,10:30,USD,4-Week Bill Auction,low,,
-19,2021,Feb,23,Tuesday,15:30,USD,API Crude Oil Stock Change,med,,
-20,2021,Feb,23,Tuesday,18:30,AUD,Construction Work Done QoQ,med,,-2.6%
-21,2021,Feb,23,Tuesday,19:00,NZD,Interest Rate Decision,high,0.25%,0.25%
-22,2021,Feb,23,Tuesday,20:00,NZD,RBNZ Press Conference,med,,
+19,2021,Feb,23,Tuesday,10:30,USD,119-Day Bill Auction,low,,
+20,2021,Feb,23,Tuesday,10:30,USD,42-Day Bill Auction,low,,
+21,2021,Feb,23,Tuesday,12:00,USD,2-Year Note Auction,low,,
+22,2021,Feb,23,Tuesday,12:00,USD,52-Week Bill Auction,low,,
+23,2021,Feb,23,Tuesday,15:30,USD,API Crude Oil Stock Change,med,,
+24,2021,Feb,23,Tuesday,18:30,AUD,Construction Work Done QoQ,med,,-2.6%
+25,2021,Feb,23,Tuesday,19:00,NZD,Interest Rate Decision,high,0.25%,0.25%
+26,2021,Feb,23,Tuesday,20:00,NZD,RBNZ Press Conference,med,,
 0,2021,Feb,24,Wednesday,01:00,EUR,German GDP w.d.a.,med,,-4.0%
 1,2021,Feb,24,Wednesday,01:00,EUR,German GDP Growth Rate QoQ Final,med,,8.5%
 2,2021,Feb,24,Wednesday,01:45,EUR,French Business Climate Indicator,low,,
 3,2021,Feb,24,Wednesday,01:45,EUR,French Business Confidence,med,,
-4,2021,Feb,24,Wednesday,06:00,USD,MBA Mortgage Applications,low,,
-5,2021,Feb,24,Wednesday,06:00,USD,MBA 30-Year Mortgage Rate,low,,
-6,2021,Feb,24,Wednesday,09:00,USD,New Home Sales MoM,med,,
-7,2021,Feb,24,Wednesday,09:00,USD,New Home Sales,med,,
-8,2021,Feb,24,Wednesday,09:30,USD,EIA Refinery Crude Runs Change,low,,
-9,2021,Feb,24,Wednesday,09:30,USD,EIA Heating Oil Stocks Change,low,,
-10,2021,Feb,24,Wednesday,09:30,USD,EIA Gasoline Stocks Change,med,,
-11,2021,Feb,24,Wednesday,09:30,USD,EIA Crude Oil Imports Change,low,,
-12,2021,Feb,24,Wednesday,09:30,USD,EIA Cushing Crude Oil Stocks Change,med,,
-13,2021,Feb,24,Wednesday,09:30,USD,EIA Crude Oil Stocks Change,med,,
-14,2021,Feb,24,Wednesday,09:30,USD,EIA Distillate Stocks Change,med,,
-15,2021,Feb,24,Wednesday,09:30,USD,EIA Gasoline Production Change,low,,
-16,2021,Feb,24,Wednesday,09:30,USD,EIA Distillate Fuel Production Change,low,,
-17,2021,Feb,24,Wednesday,18:30,AUD,Private Capital Expenditure QoQ,low,,-3.0%
-18,2021,Feb,24,Wednesday,23:00,JPY,Leading Indicators Index,low,,
-19,2021,Feb,24,Wednesday,23:00,JPY,Coincident Index Final,low,,
+4,2021,Feb,24,Wednesday,04:40,EUR,German 10-Year Bund Auction,low,,
+5,2021,Feb,24,Wednesday,06:00,USD,MBA Mortgage Applications,low,,
+6,2021,Feb,24,Wednesday,06:00,USD,MBA 30-Year Mortgage Rate,low,,
+7,2021,Feb,24,Wednesday,09:00,USD,New Home Sales MoM,med,,
+8,2021,Feb,24,Wednesday,09:00,USD,New Home Sales,med,,
+9,2021,Feb,24,Wednesday,09:30,USD,EIA Refinery Crude Runs Change,low,,
+10,2021,Feb,24,Wednesday,09:30,USD,EIA Heating Oil Stocks Change,low,,
+11,2021,Feb,24,Wednesday,09:30,USD,EIA Gasoline Stocks Change,med,,
+12,2021,Feb,24,Wednesday,09:30,USD,EIA Crude Oil Imports Change,low,,
+13,2021,Feb,24,Wednesday,09:30,USD,EIA Cushing Crude Oil Stocks Change,med,,
+14,2021,Feb,24,Wednesday,09:30,USD,EIA Crude Oil Stocks Change,med,,
+15,2021,Feb,24,Wednesday,09:30,USD,EIA Distillate Stocks Change,med,,
+16,2021,Feb,24,Wednesday,09:30,USD,EIA Gasoline Production Change,low,,
+17,2021,Feb,24,Wednesday,09:30,USD,EIA Distillate Fuel Production Change,low,,
+18,2021,Feb,24,Wednesday,10:30,USD,105-Day Bill Auction,low,,
+19,2021,Feb,24,Wednesday,10:30,USD,154-Day Bill Auction,low,,
+20,2021,Feb,24,Wednesday,12:00,USD,5-Year Note Auction,low,,
+21,2021,Feb,24,Wednesday,12:00,USD,2-Year FRN Auction,low,,
+22,2021,Feb,24,Wednesday,18:30,AUD,Private Capital Expenditure QoQ,low,,-3.0%
+23,2021,Feb,24,Wednesday,23:00,JPY,Leading Indicators Index,low,,
+24,2021,Feb,24,Wednesday,23:00,JPY,Coincident Index Final,low,,
 0,2021,Feb,25,Thursday,01:00,EUR,German GfK Consumer Confidence,high,,
 1,2021,Feb,25,Thursday,01:30,CHF,Non Farm Payrolls,low,,5.14M*
 2,2021,Feb,25,Thursday,01:45,EUR,French Consumer Confidence,low,,
@@ -1198,19 +1270,22 @@
 24,2021,Feb,25,Thursday,09:00,USD,Pending Home Sales YoY,med,,
 25,2021,Feb,25,Thursday,09:30,USD,EIA Natural Gas Stocks Change,low,,
 26,2021,Feb,25,Thursday,10:00,USD,Kansas Fed Manufacturing Index,low,,
-27,2021,Feb,25,Thursday,15:45,NZD,Imports,low,,
-28,2021,Feb,25,Thursday,15:45,NZD,Exports,low,,
-29,2021,Feb,25,Thursday,15:45,NZD,Balance of Trade,med,,
-30,2021,Feb,25,Thursday,17:30,JPY,Tokyo CPI YoY,low,,
-31,2021,Feb,25,Thursday,17:30,JPY,Core CPI,low,,-0.9%
-32,2021,Feb,25,Thursday,17:50,JPY,Stock Investment by Foreigners,low,,
-33,2021,Feb,25,Thursday,17:50,JPY,Foreign Bond Investment,low,,
-34,2021,Feb,25,Thursday,17:50,JPY,Industrial Production YoY Prel,low,,
-35,2021,Feb,25,Thursday,17:50,JPY,Industrial Production MoM Prel,med,7.1%,
-36,2021,Feb,25,Thursday,18:30,AUD,Private Sector Credit MoM,low,,
-37,2021,Feb,25,Thursday,18:30,AUD,Private Sector Credit YoY,low,,
-38,2021,Feb,25,Thursday,23:00,JPY,Housing Starts YoY,med,,
-39,2021,Feb,25,Thursday,23:00,JPY,Construction Orders YoY,low,,
+27,2021,Feb,25,Thursday,10:30,USD,8-Week Bill Auction,low,,
+28,2021,Feb,25,Thursday,10:30,USD,4-Week Bill Auction,low,,
+29,2021,Feb,25,Thursday,12:00,USD,7-Year Note Auction,low,,
+30,2021,Feb,25,Thursday,15:45,NZD,Imports,low,,
+31,2021,Feb,25,Thursday,15:45,NZD,Exports,low,,
+32,2021,Feb,25,Thursday,15:45,NZD,Balance of Trade,med,,
+33,2021,Feb,25,Thursday,17:30,JPY,Tokyo CPI YoY,low,,
+34,2021,Feb,25,Thursday,17:30,JPY,Core CPI,low,,-0.9%
+35,2021,Feb,25,Thursday,17:50,JPY,Stock Investment by Foreigners,low,,
+36,2021,Feb,25,Thursday,17:50,JPY,Foreign Bond Investment,low,,
+37,2021,Feb,25,Thursday,17:50,JPY,Industrial Production YoY Prel,low,,
+38,2021,Feb,25,Thursday,17:50,JPY,Industrial Production MoM Prel,med,7.1%,
+39,2021,Feb,25,Thursday,18:30,AUD,Private Sector Credit MoM,low,,
+40,2021,Feb,25,Thursday,18:30,AUD,Private Sector Credit YoY,low,,
+41,2021,Feb,25,Thursday,23:00,JPY,Housing Starts YoY,med,,
+42,2021,Feb,25,Thursday,23:00,JPY,Construction Orders YoY,low,,
 0,2021,Feb,26,Friday,01:00,EUR,German Germany Import Price Index,low,,
 1,2021,Feb,26,Friday,01:00,EUR,German Import Prices MoM,low,,
 2,2021,Feb,26,Friday,01:45,EUR,French Household Consumption MoM,low,,
@@ -1228,7 +1303,7 @@
 14,2021,Feb,26,Friday,07:30,USD,Core Personal Consumption Expenditure,med,,
 15,2021,Feb,26,Friday,07:30,USD,Wholesale Inventories MoM Adv,med,,
 16,2021,Feb,26,Friday,07:30,USD,Goods Trade Balance Adv,med,,
-17,2021,Feb,26,Friday,07:30,CAD,PPI MoM,low,,
+17,2021,Feb,26,Friday,07:30,CAD,PPI MoM,low,,-0.6%
 18,2021,Feb,26,Friday,07:30,CAD,PPI YoY,low,,
 19,2021,Feb,26,Friday,07:30,CAD,Raw Materials Prices YoY,low,,
 20,2021,Feb,26,Friday,07:30,CAD,Raw Materials Prices MoM,low,,
@@ -1299,6 +1374,7 @@
 47,2021,Mar,1,Monday,18:30,AUD,Company Gross Profits QoQ,low,,3.2%
 48,2021,Mar,1,Monday,18:30,AUD,Building Permits MoM Prel,med,,
 49,2021,Mar,1,Monday,18:30,AUD,Current Account,low,,10.0B
+50,2021,Mar,1,Monday,21:45,JPY,10-Year JGB Auction,low,,
 0,2021,Mar,2,Tuesday,01:00,EUR,German Wholesale Price Index,med,,
 1,2021,Mar,2,Tuesday,01:00,EUR,German Retail Sales MoM,med,,
 2,2021,Mar,2,Tuesday,01:00,EUR,German Retail Sales YoY,med,,
@@ -1308,25 +1384,27 @@
 6,2021,Mar,2,Tuesday,04:00,EUR,Inflation Rate YoY Flash,med,,
 7,2021,Mar,2,Tuesday,04:00,EUR,Core Inflation Rate YoY Flash,med,,
 8,2021,Mar,2,Tuesday,04:00,EUR,Inflation Rate MoM Flash,med,,
-9,2021,Mar,2,Tuesday,07:30,CAD,GDP Implicit Price QoQ,low,,2.6%
-10,2021,Mar,2,Tuesday,07:30,CAD,GDP MoM,med,,
-11,2021,Mar,2,Tuesday,07:30,CAD,GDP Growth Rate QoQ,med,,8.9%
-12,2021,Mar,2,Tuesday,07:30,CAD,GDP Growth Rate Annualized,med,3.5%,40.5%
-13,2021,Mar,2,Tuesday,07:55,USD,Redbook YoY,low,,
-14,2021,Mar,2,Tuesday,07:55,USD,Redbook MoM,low,,
-15,2021,Mar,2,Tuesday,08:30,NZD,Global Dairy Trade Price Index,low,,
-16,2021,Mar,2,Tuesday,09:00,USD,IBD/TIPP Economic Optimism,med,,
-17,2021,Mar,2,Tuesday,10:30,USD,8-Week Bill Auction,low,,
+9,2021,Mar,2,Tuesday,04:45,GBP,5-Year Treasury Gilt Auction,low,,
+10,2021,Mar,2,Tuesday,07:30,CAD,GDP Implicit Price QoQ,low,,2.6%
+11,2021,Mar,2,Tuesday,07:30,CAD,GDP MoM,med,,
+12,2021,Mar,2,Tuesday,07:30,CAD,GDP Growth Rate QoQ,med,,8.9%
+13,2021,Mar,2,Tuesday,07:30,CAD,GDP Growth Rate Annualized,med,3.5%,40.5%
+14,2021,Mar,2,Tuesday,07:55,USD,Redbook YoY,low,,
+15,2021,Mar,2,Tuesday,07:55,USD,Redbook MoM,low,,
+16,2021,Mar,2,Tuesday,08:30,NZD,Global Dairy Trade Price Index,low,,
+17,2021,Mar,2,Tuesday,09:00,USD,IBD/TIPP Economic Optimism,med,,
 18,2021,Mar,2,Tuesday,10:30,USD,4-Week Bill Auction,low,,
-19,2021,Mar,2,Tuesday,15:30,USD,API Crude Oil Stock Change,med,,
-20,2021,Mar,2,Tuesday,15:45,NZD,Building Permits MoM,low,,
-21,2021,Mar,2,Tuesday,16:00,AUD,Markit Services PMI Final,med,,
-22,2021,Mar,2,Tuesday,16:00,AUD,Markit Composite PMI Final,low,,
-23,2021,Mar,2,Tuesday,18:30,JPY,Jibun Bank Services PMI Final,med,,
-24,2021,Mar,2,Tuesday,18:30,JPY,Jibun Bank Composite PMI Final,low,,
-25,2021,Mar,2,Tuesday,18:30,AUD,RBA Chart Pack,low,,
-26,2021,Mar,2,Tuesday,19:45,CNY,Chinese Caixin Composite PMI,low,,
-27,2021,Mar,2,Tuesday,19:45,CNY,Chinese Caixin Services PMI,med,,
+19,2021,Mar,2,Tuesday,10:30,USD,119-Day Bill Auction,low,,
+20,2021,Mar,2,Tuesday,10:30,USD,42-Day Bill Auction,low,,
+21,2021,Mar,2,Tuesday,15:30,USD,API Crude Oil Stock Change,med,,
+22,2021,Mar,2,Tuesday,15:45,NZD,Building Permits MoM,low,,
+23,2021,Mar,2,Tuesday,16:00,AUD,Markit Services PMI Final,med,,
+24,2021,Mar,2,Tuesday,16:00,AUD,Markit Composite PMI Final,low,,
+25,2021,Mar,2,Tuesday,18:30,JPY,Jibun Bank Services PMI Final,med,,
+26,2021,Mar,2,Tuesday,18:30,JPY,Jibun Bank Composite PMI Final,low,,
+27,2021,Mar,2,Tuesday,18:30,AUD,RBA Chart Pack,low,,
+28,2021,Mar,2,Tuesday,19:45,CNY,Chinese Caixin Composite PMI,low,,
+29,2021,Mar,2,Tuesday,19:45,CNY,Chinese Caixin Services PMI,med,,
 0,2021,Mar,3,Wednesday,00:45,CHF,GDP Growth Rate YoY,low,,
 1,2021,Mar,3,Wednesday,00:45,CHF,GDP Growth Rate QoQ,low,,7.2%
 2,2021,Mar,3,Wednesday,01:45,EUR,French Budget Balance,low,,
@@ -1362,19 +1440,22 @@
 32,2021,Mar,3,Wednesday,09:30,USD,EIA Distillate Stocks Change,med,,
 33,2021,Mar,3,Wednesday,09:30,USD,EIA Gasoline Production Change,low,,
 34,2021,Mar,3,Wednesday,09:30,USD,EIA Distillate Fuel Production Change,low,,
-35,2021,Mar,3,Wednesday,15:30,AUD,Ai Group Construction Index,low,,
-36,2021,Mar,3,Wednesday,17:50,JPY,Stock Investment by Foreigners,low,,
-37,2021,Mar,3,Wednesday,17:50,JPY,Foreign Bond Investment,low,,
-38,2021,Mar,3,Wednesday,18:30,AUD,GDP Final Consumption QoQ,low,,5.9%
-39,2021,Mar,3,Wednesday,18:30,AUD,GDP Deflator QoQ,low,,0.4%
-40,2021,Mar,3,Wednesday,18:30,AUD,GDP Capital Expenditure QoQ,low,,-0.1%
-41,2021,Mar,3,Wednesday,18:30,AUD,GDP Growth Rate QoQ,med,,3.3%
-42,2021,Mar,3,Wednesday,18:30,AUD,GDP Growth Rate YoY,med,-2.5%,-3.8%
-43,2021,Mar,3,Wednesday,18:30,AUD,Exports MoM,low,,
-44,2021,Mar,3,Wednesday,18:30,AUD,Imports MoM,low,,
-45,2021,Mar,3,Wednesday,18:30,AUD,Balance of Trade,high,,
-46,2021,Mar,3,Wednesday,18:30,AUD,Retail Sales MoM Final,med,,
-47,2021,Mar,3,Wednesday,23:00,JPY,Consumer Confidence,high,,
+35,2021,Mar,3,Wednesday,10:30,USD,105-Day Bill Auction,low,,
+36,2021,Mar,3,Wednesday,10:30,USD,154-Day Bill Auction,low,,
+37,2021,Mar,3,Wednesday,15:30,AUD,Ai Group Construction Index,low,,
+38,2021,Mar,3,Wednesday,17:50,JPY,Stock Investment by Foreigners,low,,
+39,2021,Mar,3,Wednesday,17:50,JPY,Foreign Bond Investment,low,,
+40,2021,Mar,3,Wednesday,18:30,AUD,GDP Final Consumption QoQ,low,,5.9%
+41,2021,Mar,3,Wednesday,18:30,AUD,GDP Deflator QoQ,low,,0.4%
+42,2021,Mar,3,Wednesday,18:30,AUD,GDP Capital Expenditure QoQ,low,,-0.1%
+43,2021,Mar,3,Wednesday,18:30,AUD,GDP Growth Rate QoQ,med,,3.3%
+44,2021,Mar,3,Wednesday,18:30,AUD,GDP Growth Rate YoY,med,-2.5%,-3.8%
+45,2021,Mar,3,Wednesday,18:30,AUD,Exports MoM,low,,
+46,2021,Mar,3,Wednesday,18:30,AUD,Imports MoM,low,,
+47,2021,Mar,3,Wednesday,18:30,AUD,Balance of Trade,high,,
+48,2021,Mar,3,Wednesday,18:30,AUD,Retail Sales MoM Final,med,,
+49,2021,Mar,3,Wednesday,21:45,JPY,30-Year JGB Auction,low,,
+50,2021,Mar,3,Wednesday,23:00,JPY,Consumer Confidence,high,,
 0,2021,Mar,4,Thursday,01:30,CHF,Inflation Rate MoM,low,,
 1,2021,Mar,4,Thursday,01:30,CHF,Inflation Rate YoY,med,,
 2,2021,Mar,4,Thursday,02:30,EUR,Construction PMI,low,,
@@ -1387,16 +1468,20 @@
 9,2021,Mar,4,Thursday,04:00,EUR,Unemployment Rate,med,9.1%,
 10,2021,Mar,4,Thursday,04:00,EUR,French Retail Sales YoY,low,,
 11,2021,Mar,4,Thursday,04:00,EUR,French Retail Sales MoM,low,,
-12,2021,Mar,4,Thursday,06:30,USD,Challenger Job Cuts,low,,
-13,2021,Mar,4,Thursday,07:30,CAD,Labor Productivity QoQ,low,,-10.3%
-14,2021,Mar,4,Thursday,07:30,USD,Unit Labor Costs,med,,-6.6%
-15,2021,Mar,4,Thursday,07:30,USD,Nonfarm Productivity QoQ Final,med,,4.6%
-16,2021,Mar,4,Thursday,07:30,USD,Continuing Jobless Claims,low,,
-17,2021,Mar,4,Thursday,07:30,USD,Jobless Claims 4-week Average,med,,
-18,2021,Mar,4,Thursday,07:30,USD,Initial Jobless Claims,med,,
-19,2021,Mar,4,Thursday,09:00,USD,Factory Orders ex Transportation,low,,
-20,2021,Mar,4,Thursday,09:00,USD,Factory Orders MoM,med,,
-21,2021,Mar,4,Thursday,09:30,USD,EIA Natural Gas Stocks Change,low,,
+12,2021,Mar,4,Thursday,04:00,EUR,French 10-Year OAT Auction,low,,
+13,2021,Mar,4,Thursday,04:45,GBP,10-Year Treasury Gilt Auction,low,,
+14,2021,Mar,4,Thursday,06:30,USD,Challenger Job Cuts,low,,
+15,2021,Mar,4,Thursday,07:30,CAD,Labor Productivity QoQ,low,,-10.3%
+16,2021,Mar,4,Thursday,07:30,USD,Unit Labor Costs,med,,-6.6%
+17,2021,Mar,4,Thursday,07:30,USD,Nonfarm Productivity QoQ Final,med,,4.6%
+18,2021,Mar,4,Thursday,07:30,USD,Continuing Jobless Claims,low,,
+19,2021,Mar,4,Thursday,07:30,USD,Jobless Claims 4-week Average,med,,
+20,2021,Mar,4,Thursday,07:30,USD,Initial Jobless Claims,med,,
+21,2021,Mar,4,Thursday,09:00,USD,Factory Orders ex Transportation,low,,
+22,2021,Mar,4,Thursday,09:00,USD,Factory Orders MoM,med,,
+23,2021,Mar,4,Thursday,09:30,USD,EIA Natural Gas Stocks Change,low,,
+24,2021,Mar,4,Thursday,10:30,USD,8-Week Bill Auction,low,,
+25,2021,Mar,4,Thursday,10:30,USD,4-Week Bill Auction,low,,
 0,2021,Mar,5,Friday,01:00,EUR,German Factory Orders MoM,med,,
 1,2021,Mar,5,Friday,01:45,EUR,French Current Account,low,,
 2,2021,Mar,5,Friday,01:45,EUR,French Balance of Trade,med,,
@@ -1462,46 +1547,52 @@
 10,2021,Mar,9,Tuesday,05:00,USD,NFIB Business Optimism Index,low,,
 11,2021,Mar,9,Tuesday,07:55,USD,Redbook MoM,low,,
 12,2021,Mar,9,Tuesday,07:55,USD,Redbook YoY,low,,
-13,2021,Mar,9,Tuesday,10:30,USD,8-Week Bill Auction,low,,
-14,2021,Mar,9,Tuesday,10:30,USD,4-Week Bill Auction,low,,
-15,2021,Mar,9,Tuesday,15:30,USD,API Crude Oil Stock Change,med,,
-16,2021,Mar,9,Tuesday,15:45,NZD,Manufacturing Sales YoY,low,,3.1%
-17,2021,Mar,9,Tuesday,15:45,NZD,Electronic Retail Card Spending YoY,low,,
-18,2021,Mar,9,Tuesday,15:45,NZD,Electronic Card Retail Sales,low,,
-19,2021,Mar,9,Tuesday,18:30,AUD,Building Permits MoM Final,med,,
-20,2021,Mar,9,Tuesday,19:00,AUD,NAB Business Confidence,high,,
-21,2021,Mar,9,Tuesday,19:30,CNY,Chinese PPI YoY,med,,
-22,2021,Mar,9,Tuesday,19:30,CNY,Chinese Inflation Rate MoM,med,,
-23,2021,Mar,9,Tuesday,19:30,CNY,Chinese Inflation Rate YoY,med,,
+13,2021,Mar,9,Tuesday,10:30,USD,4-Week Bill Auction,low,,
+14,2021,Mar,9,Tuesday,10:30,USD,119-Day Bill Auction,low,,
+15,2021,Mar,9,Tuesday,10:30,USD,42-Day Bill Auction,low,,
+16,2021,Mar,9,Tuesday,12:00,USD,3-Year Note Auction,low,,
+17,2021,Mar,9,Tuesday,15:30,USD,API Crude Oil Stock Change,med,,
+18,2021,Mar,9,Tuesday,15:45,NZD,Manufacturing Sales YoY,low,,3.1%
+19,2021,Mar,9,Tuesday,15:45,NZD,Electronic Retail Card Spending YoY,low,,
+20,2021,Mar,9,Tuesday,15:45,NZD,Electronic Card Retail Sales,low,,
+21,2021,Mar,9,Tuesday,18:30,AUD,Building Permits MoM Final,med,,
+22,2021,Mar,9,Tuesday,19:00,AUD,NAB Business Confidence,high,,
+23,2021,Mar,9,Tuesday,19:30,CNY,Chinese PPI YoY,med,,
+24,2021,Mar,9,Tuesday,19:30,CNY,Chinese Inflation Rate MoM,med,,
+25,2021,Mar,9,Tuesday,19:30,CNY,Chinese Inflation Rate YoY,med,,
 0,2021,Mar,10,Wednesday,00:00,JPY,Machine Tool Orders YoY,low,,
 1,2021,Mar,10,Wednesday,00:30,EUR,French Private Non Farm Payrolls QoQ Final,low,,1.6%
 2,2021,Mar,10,Wednesday,00:30,EUR,French Non Farm Payrolls QoQ,low,,1.6%
 3,2021,Mar,10,Wednesday,01:45,EUR,French Industrial Production MoM,med,,
-4,2021,Mar,10,Wednesday,06:00,USD,MBA Mortgage Applications,low,,
-5,2021,Mar,10,Wednesday,06:00,USD,MBA 30-Year Mortgage Rate,low,,
-6,2021,Mar,10,Wednesday,07:30,USD,Inflation Rate MoM,med,,
-7,2021,Mar,10,Wednesday,07:30,USD,Core Inflation Rate MoM,med,,
-8,2021,Mar,10,Wednesday,07:30,USD,Core Inflation Rate YoY,high,,
-9,2021,Mar,10,Wednesday,07:30,USD,Inflation Rate YoY,high,,
-10,2021,Mar,10,Wednesday,09:00,CAD,BoC Interest Rate Decision,med,,
-11,2021,Mar,10,Wednesday,09:30,USD,EIA Refinery Crude Runs Change,low,,
-12,2021,Mar,10,Wednesday,09:30,USD,EIA Heating Oil Stocks Change,low,,
-13,2021,Mar,10,Wednesday,09:30,USD,EIA Gasoline Stocks Change,med,,
-14,2021,Mar,10,Wednesday,09:30,USD,EIA Crude Oil Imports Change,low,,
-15,2021,Mar,10,Wednesday,09:30,USD,EIA Cushing Crude Oil Stocks Change,med,,
-16,2021,Mar,10,Wednesday,09:30,USD,EIA Crude Oil Stocks Change,med,,
-17,2021,Mar,10,Wednesday,09:30,USD,EIA Distillate Stocks Change,med,,
-18,2021,Mar,10,Wednesday,09:30,USD,EIA Gasoline Production Change,low,,
-19,2021,Mar,10,Wednesday,09:30,USD,EIA Distillate Fuel Production Change,low,,
-20,2021,Mar,10,Wednesday,13:00,USD,Monthly Budget Statement,med,,
-21,2021,Mar,10,Wednesday,15:45,NZD,Food Price Index,low,,
-22,2021,Mar,10,Wednesday,17:30,AUD,Westpac Consumer Confidence Change,high,,
-23,2021,Mar,10,Wednesday,17:30,AUD,Westpac Consumer Confidence Index,high,,
-24,2021,Mar,10,Wednesday,17:50,JPY,Stock Investment by Foreigners,low,,
-25,2021,Mar,10,Wednesday,17:50,JPY,Foreign Bond Investment,low,,
-26,2021,Mar,10,Wednesday,17:50,JPY,PPI YoY,low,,
-27,2021,Mar,10,Wednesday,17:50,JPY,PPI MoM,low,,
-28,2021,Mar,10,Wednesday,18:30,AUD,Investment Lending for Homes,med,,
+4,2021,Mar,10,Wednesday,04:40,EUR,German 5-Year Bobl Auction,low,,
+5,2021,Mar,10,Wednesday,06:00,USD,MBA Mortgage Applications,low,,
+6,2021,Mar,10,Wednesday,06:00,USD,MBA 30-Year Mortgage Rate,low,,
+7,2021,Mar,10,Wednesday,07:30,USD,Inflation Rate MoM,med,,
+8,2021,Mar,10,Wednesday,07:30,USD,Core Inflation Rate MoM,med,,
+9,2021,Mar,10,Wednesday,07:30,USD,Core Inflation Rate YoY,high,,
+10,2021,Mar,10,Wednesday,07:30,USD,Inflation Rate YoY,high,,
+11,2021,Mar,10,Wednesday,09:00,CAD,BoC Interest Rate Decision,med,,
+12,2021,Mar,10,Wednesday,09:30,USD,EIA Refinery Crude Runs Change,low,,
+13,2021,Mar,10,Wednesday,09:30,USD,EIA Heating Oil Stocks Change,low,,
+14,2021,Mar,10,Wednesday,09:30,USD,EIA Gasoline Stocks Change,med,,
+15,2021,Mar,10,Wednesday,09:30,USD,EIA Crude Oil Imports Change,low,,
+16,2021,Mar,10,Wednesday,09:30,USD,EIA Cushing Crude Oil Stocks Change,med,,
+17,2021,Mar,10,Wednesday,09:30,USD,EIA Crude Oil Stocks Change,med,,
+18,2021,Mar,10,Wednesday,09:30,USD,EIA Distillate Stocks Change,med,,
+19,2021,Mar,10,Wednesday,09:30,USD,EIA Gasoline Production Change,low,,
+20,2021,Mar,10,Wednesday,09:30,USD,EIA Distillate Fuel Production Change,low,,
+21,2021,Mar,10,Wednesday,10:30,USD,105-Day Bill Auction,low,,
+22,2021,Mar,10,Wednesday,10:30,USD,154-Day Bill Auction,low,,
+23,2021,Mar,10,Wednesday,12:00,USD,10-Year Note Auction,low,,
+24,2021,Mar,10,Wednesday,13:00,USD,Monthly Budget Statement,med,,
+25,2021,Mar,10,Wednesday,15:45,NZD,Food Price Index,low,,
+26,2021,Mar,10,Wednesday,17:30,AUD,Westpac Consumer Confidence Change,high,,
+27,2021,Mar,10,Wednesday,17:30,AUD,Westpac Consumer Confidence Index,high,,
+28,2021,Mar,10,Wednesday,17:50,JPY,Stock Investment by Foreigners,low,,
+29,2021,Mar,10,Wednesday,17:50,JPY,Foreign Bond Investment,low,,
+30,2021,Mar,10,Wednesday,17:50,JPY,PPI YoY,low,,
+31,2021,Mar,10,Wednesday,17:50,JPY,PPI MoM,low,,
+32,2021,Mar,10,Wednesday,18:30,AUD,Investment Lending for Homes,med,,
 0,2021,Mar,11,Thursday,All Day,CNY,Chinese New Loans,med,,
 1,2021,Mar,11,Thursday,All Day,CNY,Chinese Outstanding Loan Growth YoY,low,,
 2,2021,Mar,11,Thursday,All Day,CNY,Chinese M2 Money Supply,low,,
@@ -1515,8 +1606,11 @@
 10,2021,Mar,11,Thursday,07:30,USD,Initial Jobless Claims,med,,
 11,2021,Mar,11,Thursday,09:00,USD,JOLTs Job Openings,med,,
 12,2021,Mar,11,Thursday,09:30,USD,EIA Natural Gas Stocks Change,low,,
-13,2021,Mar,11,Thursday,17:50,JPY,BSI Large Manufacturing QoQ,low,,
-14,2021,Mar,11,Thursday,18:00,AUD,Consumer Inflation Expectations,low,,
+13,2021,Mar,11,Thursday,10:30,USD,8-Week Bill Auction,low,,
+14,2021,Mar,11,Thursday,10:30,USD,4-Week Bill Auction,low,,
+15,2021,Mar,11,Thursday,12:00,USD,30-Year Bond Auction,med,,
+16,2021,Mar,11,Thursday,17:50,JPY,BSI Large Manufacturing QoQ,low,,
+17,2021,Mar,11,Thursday,18:00,AUD,Consumer Inflation Expectations,low,,
 0,2021,Mar,12,Friday,All Day,CNY,Chinese Vehicle Sales YoY,low,,
 1,2021,Mar,12,Friday,01:00,EUR,German Harmonised Inflation Rate YoY Final,low,,
 2,2021,Mar,12,Friday,01:00,EUR,German Harmonised Inflation Rate MoM Final,low,,
@@ -1595,97 +1689,108 @@
 4,2021,Mar,16,Tuesday,05:00,EUR,ZEW Economic Sentiment Index,med,,
 5,2021,Mar,16,Tuesday,05:00,EUR,German ZEW Current Conditions,med,,
 6,2021,Mar,16,Tuesday,05:00,EUR,German ZEW Economic Sentiment Index,med,,
-7,2021,Mar,16,Tuesday,07:30,CAD,Foreign Securities Purchases by Canadians,low,,
-8,2021,Mar,16,Tuesday,07:30,CAD,Foreign Securities Purchases,low,,
-9,2021,Mar,16,Tuesday,07:30,USD,Retail Sales MoM,high,,
-10,2021,Mar,16,Tuesday,07:30,USD,Retail Sales YoY,low,,
-11,2021,Mar,16,Tuesday,07:30,USD,Retail Sales Ex Autos MoM,med,,
-12,2021,Mar,16,Tuesday,07:30,USD,Export Prices YoY,med,,
-13,2021,Mar,16,Tuesday,07:30,USD,Import Prices YoY,med,,
-14,2021,Mar,16,Tuesday,07:30,USD,Export Prices MoM,med,,
-15,2021,Mar,16,Tuesday,07:30,USD,Import Prices MoM,med,,
-16,2021,Mar,16,Tuesday,08:15,USD,Capacity Utilization Rate,low,,
-17,2021,Mar,16,Tuesday,08:15,USD,Manufacturing Production YoY,low,,
-18,2021,Mar,16,Tuesday,08:15,USD,Industrial Production YoY,med,,
-19,2021,Mar,16,Tuesday,08:15,USD,Industrial Production,med,,
-20,2021,Mar,16,Tuesday,08:15,USD,Manufacturing Production MoM,low,,
-21,2021,Mar,16,Tuesday,08:55,USD,Redbook YoY,low,,
-22,2021,Mar,16,Tuesday,08:55,USD,Redbook MoM,low,,
-23,2021,Mar,16,Tuesday,09:00,USD,NAHB Housing Market Index,med,,
-24,2021,Mar,16,Tuesday,09:00,USD,Business Inventories MoM,med,,
-25,2021,Mar,16,Tuesday,09:30,NZD,Global Dairy Trade Price Index,low,,
-26,2021,Mar,16,Tuesday,11:30,USD,8-Week Bill Auction,low,,
-27,2021,Mar,16,Tuesday,11:30,USD,4-Week Bill Auction,low,,
-28,2021,Mar,16,Tuesday,15:00,NZD,Westpac Consumer Confidence,low,,106.0
-29,2021,Mar,16,Tuesday,16:30,USD,API Crude Oil Stock Change,med,,
-30,2021,Mar,16,Tuesday,16:45,NZD,Current Account,med,,-3.52B
-31,2021,Mar,16,Tuesday,18:00,JPY,Reuters Tankan Index,low,,
-32,2021,Mar,16,Tuesday,18:50,JPY,Imports YoY,low,,
-33,2021,Mar,16,Tuesday,18:50,JPY,Exports YoY,med,,
-34,2021,Mar,16,Tuesday,18:50,JPY,Balance of Trade,high,,
-35,2021,Mar,16,Tuesday,19:30,AUD,House Price Index YoY,low,,4.5%
-36,2021,Mar,16,Tuesday,19:30,AUD,House Price Index QoQ,low,,0.8%
+7,2021,Mar,16,Tuesday,05:40,EUR,German 2-Year Schatz Auction,low,,
+8,2021,Mar,16,Tuesday,07:30,CAD,Foreign Securities Purchases by Canadians,low,,
+9,2021,Mar,16,Tuesday,07:30,CAD,Foreign Securities Purchases,low,,
+10,2021,Mar,16,Tuesday,07:30,USD,Retail Sales MoM,high,,
+11,2021,Mar,16,Tuesday,07:30,USD,Retail Sales YoY,low,,
+12,2021,Mar,16,Tuesday,07:30,USD,Retail Sales Ex Autos MoM,med,,
+13,2021,Mar,16,Tuesday,07:30,USD,Export Prices YoY,med,,
+14,2021,Mar,16,Tuesday,07:30,USD,Import Prices YoY,med,,
+15,2021,Mar,16,Tuesday,07:30,USD,Export Prices MoM,med,,
+16,2021,Mar,16,Tuesday,07:30,USD,Import Prices MoM,med,,
+17,2021,Mar,16,Tuesday,08:15,USD,Capacity Utilization Rate,low,,
+18,2021,Mar,16,Tuesday,08:15,USD,Manufacturing Production YoY,low,,
+19,2021,Mar,16,Tuesday,08:15,USD,Industrial Production YoY,med,,
+20,2021,Mar,16,Tuesday,08:15,USD,Industrial Production,med,,
+21,2021,Mar,16,Tuesday,08:15,USD,Manufacturing Production MoM,low,,
+22,2021,Mar,16,Tuesday,08:55,USD,Redbook YoY,low,,
+23,2021,Mar,16,Tuesday,08:55,USD,Redbook MoM,low,,
+24,2021,Mar,16,Tuesday,09:00,USD,NAHB Housing Market Index,med,,
+25,2021,Mar,16,Tuesday,09:00,USD,Business Inventories MoM,med,,
+26,2021,Mar,16,Tuesday,09:30,NZD,Global Dairy Trade Price Index,low,,
+27,2021,Mar,16,Tuesday,10:30,USD,119-Day Bill Auction,low,,
+28,2021,Mar,16,Tuesday,10:30,USD,42-Day Bill Auction,low,,
+29,2021,Mar,16,Tuesday,11:30,USD,4-Week Bill Auction,low,,
+30,2021,Mar,16,Tuesday,12:00,USD,20-Year Bond Auction,low,,
+31,2021,Mar,16,Tuesday,15:00,NZD,Westpac Consumer Confidence,low,,106.0
+32,2021,Mar,16,Tuesday,16:30,USD,API Crude Oil Stock Change,med,,
+33,2021,Mar,16,Tuesday,16:45,NZD,Current Account,med,,-3.52B
+34,2021,Mar,16,Tuesday,18:00,JPY,Reuters Tankan Index,low,,
+35,2021,Mar,16,Tuesday,18:50,JPY,Imports YoY,low,,
+36,2021,Mar,16,Tuesday,18:50,JPY,Exports YoY,med,,
+37,2021,Mar,16,Tuesday,18:50,JPY,Balance of Trade,high,,
+38,2021,Mar,16,Tuesday,19:30,AUD,House Price Index YoY,low,,4.5%
+39,2021,Mar,16,Tuesday,19:30,AUD,House Price Index QoQ,low,,0.8%
 0,2021,Mar,17,Wednesday,05:00,EUR,Inflation Rate YoY Final,med,,
 1,2021,Mar,17,Wednesday,05:00,EUR,Core Inflation Rate YoY Final,med,,
 2,2021,Mar,17,Wednesday,05:00,EUR,Inflation Rate MoM Final,low,,
 3,2021,Mar,17,Wednesday,05:00,EUR,Construction Output YoY,med,,
-4,2021,Mar,17,Wednesday,07:00,USD,MBA Mortgage Applications,low,,
-5,2021,Mar,17,Wednesday,07:00,USD,MBA 30-Year Mortgage Rate,low,,
-6,2021,Mar,17,Wednesday,07:30,CAD,Inflation Rate MoM,med,,
-7,2021,Mar,17,Wednesday,07:30,CAD,Core Inflation Rate YoY,med,,
-8,2021,Mar,17,Wednesday,07:30,CAD,Inflation Rate YoY,high,,
-9,2021,Mar,17,Wednesday,07:30,USD,Building Permits MoM,med,,
-10,2021,Mar,17,Wednesday,07:30,USD,Housing Starts MoM,med,,
-11,2021,Mar,17,Wednesday,07:30,USD,Building Permits,med,,
-12,2021,Mar,17,Wednesday,07:30,USD,Housing Starts,med,,
-13,2021,Mar,17,Wednesday,10:30,USD,EIA Heating Oil Stocks Change,low,,
-14,2021,Mar,17,Wednesday,10:30,USD,EIA Gasoline Stocks Change,med,,
-15,2021,Mar,17,Wednesday,10:30,USD,EIA Refinery Crude Runs Change,low,,
-16,2021,Mar,17,Wednesday,10:30,USD,EIA Crude Oil Imports Change,low,,
-17,2021,Mar,17,Wednesday,10:30,USD,EIA Cushing Crude Oil Stocks Change,med,,
-18,2021,Mar,17,Wednesday,10:30,USD,EIA Crude Oil Stocks Change,med,,
-19,2021,Mar,17,Wednesday,10:30,USD,EIA Distillate Stocks Change,med,,
-20,2021,Mar,17,Wednesday,10:30,USD,EIA Gasoline Production Change,low,,
-21,2021,Mar,17,Wednesday,10:30,USD,EIA Distillate Fuel Production Change,low,,
-22,2021,Mar,17,Wednesday,13:00,USD,Federal Funds Rate,med,0.25%,
-23,2021,Mar,17,Wednesday,13:00,USD,FOMC Economic Projections,med,,
-24,2021,Mar,17,Wednesday,13:30,USD,Fed Press Conference,med,,
-25,2021,Mar,17,Wednesday,16:45,NZD,GDP Growth Rate YoY,med,0.3%,0.4%
-26,2021,Mar,17,Wednesday,16:45,NZD,GDP Growth Rate QoQ,med,0.1%,14.0%
-27,2021,Mar,17,Wednesday,18:50,JPY,Stock Investment by Foreigners,low,,
-28,2021,Mar,17,Wednesday,18:50,JPY,Foreign Bond Investment,low,,
-29,2021,Mar,17,Wednesday,19:30,AUD,Westpac Leading Index MoM,low,,
-30,2021,Mar,17,Wednesday,19:30,AUD,Part Time Employment Chg,med,,
-31,2021,Mar,17,Wednesday,19:30,AUD,Participation Rate,low,,
-32,2021,Mar,17,Wednesday,19:30,AUD,Full Time Employment Chg,med,,
-33,2021,Mar,17,Wednesday,19:30,AUD,Unemployment Rate,med,,
-34,2021,Mar,17,Wednesday,19:30,AUD,Employment Change,med,,
+4,2021,Mar,17,Wednesday,05:40,EUR,German 30-Year Bund Auction,low,,
+5,2021,Mar,17,Wednesday,07:00,USD,MBA Mortgage Applications,low,,
+6,2021,Mar,17,Wednesday,07:00,USD,MBA 30-Year Mortgage Rate,low,,
+7,2021,Mar,17,Wednesday,07:30,CAD,Inflation Rate MoM,med,,
+8,2021,Mar,17,Wednesday,07:30,CAD,Core Inflation Rate YoY,med,,
+9,2021,Mar,17,Wednesday,07:30,CAD,Inflation Rate YoY,high,,
+10,2021,Mar,17,Wednesday,07:30,USD,Building Permits MoM,med,,
+11,2021,Mar,17,Wednesday,07:30,USD,Housing Starts MoM,med,,
+12,2021,Mar,17,Wednesday,07:30,USD,Building Permits,med,,
+13,2021,Mar,17,Wednesday,07:30,USD,Housing Starts,med,,
+14,2021,Mar,17,Wednesday,10:30,USD,EIA Heating Oil Stocks Change,low,,
+15,2021,Mar,17,Wednesday,10:30,USD,EIA Gasoline Stocks Change,med,,
+16,2021,Mar,17,Wednesday,10:30,USD,EIA Refinery Crude Runs Change,low,,
+17,2021,Mar,17,Wednesday,10:30,USD,EIA Crude Oil Imports Change,low,,
+18,2021,Mar,17,Wednesday,10:30,USD,EIA Cushing Crude Oil Stocks Change,med,,
+19,2021,Mar,17,Wednesday,10:30,USD,EIA Crude Oil Stocks Change,med,,
+20,2021,Mar,17,Wednesday,10:30,USD,EIA Distillate Stocks Change,med,,
+21,2021,Mar,17,Wednesday,10:30,USD,EIA Gasoline Production Change,low,,
+22,2021,Mar,17,Wednesday,10:30,USD,EIA Distillate Fuel Production Change,low,,
+23,2021,Mar,17,Wednesday,10:30,USD,105-Day Bill Auction,low,,
+24,2021,Mar,17,Wednesday,10:30,USD,154-Day Bill Auction,low,,
+25,2021,Mar,17,Wednesday,13:00,USD,Federal Funds Rate,med,0.25%,
+26,2021,Mar,17,Wednesday,13:00,USD,FOMC Economic Projections,med,,
+27,2021,Mar,17,Wednesday,13:30,USD,Fed Press Conference,med,,
+28,2021,Mar,17,Wednesday,16:45,NZD,GDP Growth Rate YoY,med,0.3%,0.4%
+29,2021,Mar,17,Wednesday,16:45,NZD,GDP Growth Rate QoQ,med,0.1%,14.0%
+30,2021,Mar,17,Wednesday,18:50,JPY,Stock Investment by Foreigners,low,,
+31,2021,Mar,17,Wednesday,18:50,JPY,Foreign Bond Investment,low,,
+32,2021,Mar,17,Wednesday,19:30,AUD,Westpac Leading Index MoM,low,,
+33,2021,Mar,17,Wednesday,19:30,AUD,Part Time Employment Chg,med,,
+34,2021,Mar,17,Wednesday,19:30,AUD,Participation Rate,low,,
+35,2021,Mar,17,Wednesday,19:30,AUD,Full Time Employment Chg,med,,
+36,2021,Mar,17,Wednesday,19:30,AUD,Unemployment Rate,med,,
+37,2021,Mar,17,Wednesday,19:30,AUD,Employment Change,med,,
 0,2021,Mar,18,Thursday,05:00,EUR,Trade Balance,med,,
 1,2021,Mar,18,Thursday,05:00,EUR,Labour Cost Index YoY,low,,1.6%
 2,2021,Mar,18,Thursday,05:00,EUR,Wage Growth YoY,low,,2.2%
-3,2021,Mar,18,Thursday,07:00,GBP,Official Bank Rate,med,,
-4,2021,Mar,18,Thursday,07:00,GBP,BoE MPC Vote Cut,med,,
-5,2021,Mar,18,Thursday,07:00,GBP,BoE MPC Vote Unchanged,med,,
-6,2021,Mar,18,Thursday,07:00,GBP,BoE MPC Vote Hike,med,,
-7,2021,Mar,18,Thursday,07:00,GBP,MPC Meeting Minutes,med,,
-8,2021,Mar,18,Thursday,07:00,GBP,BoE Quantitative Easing,med,,
-9,2021,Mar,18,Thursday,07:30,CAD,New Housing Price Index MoM,med,,
-10,2021,Mar,18,Thursday,07:30,CAD,New Housing Price Index YoY,med,,
-11,2021,Mar,18,Thursday,07:30,USD,Philadelphia Fed Manufacturing Index,med,,
-12,2021,Mar,18,Thursday,07:30,CAD,ADP Employment Change,med,,
-13,2021,Mar,18,Thursday,08:30,USD,Continuing Jobless Claims,low,,
-14,2021,Mar,18,Thursday,08:30,USD,Jobless Claims 4-week Average,med,,
-15,2021,Mar,18,Thursday,08:30,USD,Initial Jobless Claims,med,,
-16,2021,Mar,18,Thursday,09:00,USD,CB Leading Index MoM,low,,
-17,2021,Mar,18,Thursday,10:30,USD,EIA Natural Gas Stocks Change,low,,
-18,2021,Mar,18,Thursday,18:30,JPY,Inflation Rate Ex-Food and Energy YoY,low,,
-19,2021,Mar,18,Thursday,18:30,JPY,Inflation Rate YoY,high,,
-20,2021,Mar,18,Thursday,18:30,JPY,Inflation Rate MoM,low,,
-21,2021,Mar,18,Thursday,18:30,JPY,Core Inflation Rate YoY,med,,
-22,2021,Mar,18,Thursday,19:01,GBP,Gfk Consumer Confidence,high,,
-23,2021,Mar,18,Thursday,19:30,AUD,Retail Sales MoM Prel,med,,
-24,2021,Mar,18,Thursday,21:00,NZD,Credit Card Spending YoY,low,,
-25,2021,Mar,18,Thursday,22:00,JPY,BoJ Interest Rate Decision,med,-0.1%,
+3,2021,Mar,18,Thursday,05:00,EUR,French 5-Year BTAN Auction,low,,
+4,2021,Mar,18,Thursday,05:00,EUR,French 3-Year BTAN Auction,low,,
+5,2021,Mar,18,Thursday,07:00,GBP,Official Bank Rate,med,,
+6,2021,Mar,18,Thursday,07:00,GBP,BoE MPC Vote Cut,med,,
+7,2021,Mar,18,Thursday,07:00,GBP,BoE MPC Vote Unchanged,med,,
+8,2021,Mar,18,Thursday,07:00,GBP,BoE MPC Vote Hike,med,,
+9,2021,Mar,18,Thursday,07:00,GBP,MPC Meeting Minutes,med,,
+10,2021,Mar,18,Thursday,07:00,GBP,BoE Quantitative Easing,med,,
+11,2021,Mar,18,Thursday,07:30,CAD,New Housing Price Index MoM,med,,
+12,2021,Mar,18,Thursday,07:30,CAD,New Housing Price Index YoY,med,,
+13,2021,Mar,18,Thursday,07:30,USD,Philadelphia Fed Manufacturing Index,med,,
+14,2021,Mar,18,Thursday,07:30,CAD,ADP Employment Change,med,,
+15,2021,Mar,18,Thursday,08:30,USD,Continuing Jobless Claims,low,,
+16,2021,Mar,18,Thursday,08:30,USD,Jobless Claims 4-week Average,med,,
+17,2021,Mar,18,Thursday,08:30,USD,Initial Jobless Claims,med,,
+18,2021,Mar,18,Thursday,09:00,USD,CB Leading Index MoM,low,,
+19,2021,Mar,18,Thursday,10:30,USD,8-Week Bill Auction,low,,
+20,2021,Mar,18,Thursday,10:30,USD,EIA Natural Gas Stocks Change,low,,
+21,2021,Mar,18,Thursday,10:30,USD,4-Week Bill Auction,low,,
+22,2021,Mar,18,Thursday,12:00,USD,10-Year TIPS Auction,low,,
+23,2021,Mar,18,Thursday,18:30,JPY,Inflation Rate Ex-Food and Energy YoY,low,,
+24,2021,Mar,18,Thursday,18:30,JPY,Inflation Rate YoY,high,,
+25,2021,Mar,18,Thursday,18:30,JPY,Inflation Rate MoM,low,,
+26,2021,Mar,18,Thursday,18:30,JPY,Core Inflation Rate YoY,med,,
+27,2021,Mar,18,Thursday,19:01,GBP,Gfk Consumer Confidence,high,,
+28,2021,Mar,18,Thursday,19:30,AUD,Retail Sales MoM Prel,med,,
+29,2021,Mar,18,Thursday,21:00,NZD,Credit Card Spending YoY,low,,
+30,2021,Mar,18,Thursday,22:00,JPY,BoJ Interest Rate Decision,med,-0.1%,
 0,2021,Mar,19,Friday,02:00,EUR,German PPI YoY,low,,
 1,2021,Mar,19,Friday,02:00,EUR,German PPI MoM,med,,
 2,2021,Mar,19,Friday,02:00,CHF,Balance of Trade,med,,
@@ -1699,38 +1804,43 @@
 1,2021,Mar,21,Sunday,20:30,CNY,Chinese Loan Prime Rate 5Y,med,,
 0,2021,Mar,22,Monday,03:00,CHF,Current Account,med,,9.0B
 1,2021,Mar,22,Monday,04:00,EUR,Current Account,low,,
-2,2021,Mar,22,Monday,07:30,USD,Chicago Fed National Activity Index,med,,
-3,2021,Mar,22,Monday,09:00,EUR,French 12-Month BTF Auction,low,,
-4,2021,Mar,22,Monday,09:00,EUR,French 3-Month BTF Auction,low,,
-5,2021,Mar,22,Monday,09:00,EUR,French 6-Month BTF Auction,low,,
-6,2021,Mar,22,Monday,09:00,USD,Existing Home Sales MoM,med,,
-7,2021,Mar,22,Monday,09:00,USD,Existing Home Sales,med,,
-8,2021,Mar,22,Monday,11:30,USD,3-Month Bill Auction,low,,
-9,2021,Mar,22,Monday,11:30,USD,6-Month Bill Auction,low,,
+2,2021,Mar,22,Monday,05:40,EUR,German 12-Month Bubill Auction,low,,
+3,2021,Mar,22,Monday,07:30,USD,Chicago Fed National Activity Index,med,,
+4,2021,Mar,22,Monday,09:00,EUR,French 12-Month BTF Auction,low,,
+5,2021,Mar,22,Monday,09:00,EUR,French 3-Month BTF Auction,low,,
+6,2021,Mar,22,Monday,09:00,EUR,French 6-Month BTF Auction,low,,
+7,2021,Mar,22,Monday,09:00,USD,Existing Home Sales MoM,med,,
+8,2021,Mar,22,Monday,09:00,USD,Existing Home Sales,med,,
+9,2021,Mar,22,Monday,11:30,USD,3-Month Bill Auction,low,,
+10,2021,Mar,22,Monday,11:30,USD,6-Month Bill Auction,low,,
 0,2021,Mar,23,Tuesday,02:00,GBP,Average Earnings excl. Bonus,med,,
 1,2021,Mar,23,Tuesday,02:00,GBP,Average Earnings Index,med,,
 2,2021,Mar,23,Tuesday,02:00,GBP,Unemployment Rate,med,,
 3,2021,Mar,23,Tuesday,02:00,GBP,Claimant Count Change,high,,
 4,2021,Mar,23,Tuesday,02:00,GBP,Employment Change,med,,
-5,2021,Mar,23,Tuesday,07:30,USD,Current Account,med,,-178.5B
-6,2021,Mar,23,Tuesday,08:55,USD,Redbook MoM,low,,
-7,2021,Mar,23,Tuesday,08:55,USD,Redbook YoY,low,,
-8,2021,Mar,23,Tuesday,09:00,USD,Richmond Fed Manufacturing Index,low,,
-9,2021,Mar,23,Tuesday,09:00,USD,New Home Sales MoM,med,,
-10,2021,Mar,23,Tuesday,09:00,USD,New Home Sales,med,,
-11,2021,Mar,23,Tuesday,11:30,USD,8-Week Bill Auction,low,,
-12,2021,Mar,23,Tuesday,11:30,USD,4-Week Bill Auction,low,,
-13,2021,Mar,23,Tuesday,16:30,USD,API Crude Oil Stock Change,med,,
-14,2021,Mar,23,Tuesday,16:45,NZD,Exports,low,,
-15,2021,Mar,23,Tuesday,16:45,NZD,Imports,low,,
-16,2021,Mar,23,Tuesday,16:45,NZD,Balance of Trade,med,,
-17,2021,Mar,23,Tuesday,17:00,AUD,AIG Manufacturing Index,med,,
-18,2021,Mar,23,Tuesday,17:00,AUD,Markit Services PMI Flash,med,,
-19,2021,Mar,23,Tuesday,17:00,AUD,Markit Composite PMI Flash,low,,
-20,2021,Mar,23,Tuesday,18:50,JPY,BoJ Monetary Policy Meeting Minutes,med,,
-21,2021,Mar,23,Tuesday,19:30,JPY,Jibun Bank Services PMI Flash,med,,
-22,2021,Mar,23,Tuesday,19:30,JPY,Jibun Bank Composite PMI Flash,low,,
-23,2021,Mar,23,Tuesday,19:30,JPY,Jibun Bank Manufacturing PMI Flash,med,,
+5,2021,Mar,23,Tuesday,05:45,GBP,30-Year Treasury Gilt Auction,low,,
+6,2021,Mar,23,Tuesday,07:30,USD,Current Account,med,,-178.5B
+7,2021,Mar,23,Tuesday,08:55,USD,Redbook MoM,low,,
+8,2021,Mar,23,Tuesday,08:55,USD,Redbook YoY,low,,
+9,2021,Mar,23,Tuesday,09:00,USD,Richmond Fed Manufacturing Index,low,,
+10,2021,Mar,23,Tuesday,09:00,USD,New Home Sales MoM,med,,
+11,2021,Mar,23,Tuesday,09:00,USD,New Home Sales,med,,
+12,2021,Mar,23,Tuesday,10:30,USD,119-Day Bill Auction,low,,
+13,2021,Mar,23,Tuesday,10:30,USD,42-Day Bill Auction,low,,
+14,2021,Mar,23,Tuesday,11:30,USD,4-Week Bill Auction,low,,
+15,2021,Mar,23,Tuesday,12:00,USD,2-Year Note Auction,low,,
+16,2021,Mar,23,Tuesday,12:00,USD,52-Week Bill Auction,low,,
+17,2021,Mar,23,Tuesday,16:30,USD,API Crude Oil Stock Change,med,,
+18,2021,Mar,23,Tuesday,16:45,NZD,Exports,low,,
+19,2021,Mar,23,Tuesday,16:45,NZD,Imports,low,,
+20,2021,Mar,23,Tuesday,16:45,NZD,Balance of Trade,med,,
+21,2021,Mar,23,Tuesday,17:00,AUD,AIG Manufacturing Index,med,,
+22,2021,Mar,23,Tuesday,17:00,AUD,Markit Services PMI Flash,med,,
+23,2021,Mar,23,Tuesday,17:00,AUD,Markit Composite PMI Flash,low,,
+24,2021,Mar,23,Tuesday,18:50,JPY,BoJ Monetary Policy Meeting Minutes,med,,
+25,2021,Mar,23,Tuesday,19:30,JPY,Jibun Bank Services PMI Flash,med,,
+26,2021,Mar,23,Tuesday,19:30,JPY,Jibun Bank Composite PMI Flash,low,,
+27,2021,Mar,23,Tuesday,19:30,JPY,Jibun Bank Manufacturing PMI Flash,med,,
 0,2021,Mar,24,Wednesday,00:00,JPY,Leading Indicators Index,low,,
 1,2021,Mar,24,Wednesday,00:00,JPY,Coincident Index Final,low,,
 2,2021,Mar,24,Wednesday,03:00,EUR,ECB Non-Monetary Policy Meeting,med,,
@@ -1758,27 +1868,32 @@
 24,2021,Mar,24,Wednesday,04:30,GBP,Inflation Rate YoY,high,,
 25,2021,Mar,24,Wednesday,04:30,GBP,Retail Price Index YoY,low,,
 26,2021,Mar,24,Wednesday,04:30,GBP,Retail Price Index MoM,low,,
-27,2021,Mar,24,Wednesday,06:00,GBP,CBI Industrial Trends Orders,med,,
-28,2021,Mar,24,Wednesday,07:00,USD,MBA Mortgage Applications,low,,
-29,2021,Mar,24,Wednesday,07:00,USD,MBA 30-Year Mortgage Rate,low,,
-30,2021,Mar,24,Wednesday,07:30,USD,Durable Goods Orders ex Defense MoM,low,,
-31,2021,Mar,24,Wednesday,07:30,USD,Core Durable Goods Orders,med,,
-32,2021,Mar,24,Wednesday,07:30,USD,Durable Goods Orders,high,,
-33,2021,Mar,24,Wednesday,08:45,USD,Markit Composite PMI Flash,med,,
-34,2021,Mar,24,Wednesday,08:45,USD,Markit Services PMI Flash,med,,
-35,2021,Mar,24,Wednesday,08:45,USD,Manufacturing PMI,med,,
-36,2021,Mar,24,Wednesday,10:00,EUR,Consumer Confidence Flash,med,,
-37,2021,Mar,24,Wednesday,10:30,USD,EIA Heating Oil Stocks Change,low,,
-38,2021,Mar,24,Wednesday,10:30,USD,EIA Gasoline Stocks Change,med,,
-39,2021,Mar,24,Wednesday,10:30,USD,EIA Refinery Crude Runs Change,low,,
-40,2021,Mar,24,Wednesday,10:30,USD,EIA Crude Oil Imports Change,low,,
-41,2021,Mar,24,Wednesday,10:30,USD,EIA Cushing Crude Oil Stocks Change,med,,
-42,2021,Mar,24,Wednesday,10:30,USD,EIA Crude Oil Stocks Change,med,,
-43,2021,Mar,24,Wednesday,10:30,USD,EIA Distillate Stocks Change,med,,
-44,2021,Mar,24,Wednesday,10:30,USD,EIA Gasoline Production Change,low,,
-45,2021,Mar,24,Wednesday,10:30,USD,EIA Distillate Fuel Production Change,low,,
-46,2021,Mar,24,Wednesday,18:50,JPY,Stock Investment by Foreigners,low,,
-47,2021,Mar,24,Wednesday,18:50,JPY,Foreign Bond Investment,low,,
+27,2021,Mar,24,Wednesday,05:40,EUR,German 10-Year Bund Auction,low,,
+28,2021,Mar,24,Wednesday,06:00,GBP,CBI Industrial Trends Orders,med,,
+29,2021,Mar,24,Wednesday,07:00,USD,MBA Mortgage Applications,low,,
+30,2021,Mar,24,Wednesday,07:00,USD,MBA 30-Year Mortgage Rate,low,,
+31,2021,Mar,24,Wednesday,07:30,USD,Durable Goods Orders ex Defense MoM,low,,
+32,2021,Mar,24,Wednesday,07:30,USD,Core Durable Goods Orders,med,,
+33,2021,Mar,24,Wednesday,07:30,USD,Durable Goods Orders,high,,
+34,2021,Mar,24,Wednesday,08:45,USD,Markit Composite PMI Flash,med,,
+35,2021,Mar,24,Wednesday,08:45,USD,Markit Services PMI Flash,med,,
+36,2021,Mar,24,Wednesday,08:45,USD,Manufacturing PMI,med,,
+37,2021,Mar,24,Wednesday,10:00,EUR,Consumer Confidence Flash,med,,
+38,2021,Mar,24,Wednesday,10:30,USD,EIA Heating Oil Stocks Change,low,,
+39,2021,Mar,24,Wednesday,10:30,USD,EIA Gasoline Stocks Change,med,,
+40,2021,Mar,24,Wednesday,10:30,USD,EIA Refinery Crude Runs Change,low,,
+41,2021,Mar,24,Wednesday,10:30,USD,EIA Crude Oil Imports Change,low,,
+42,2021,Mar,24,Wednesday,10:30,USD,EIA Cushing Crude Oil Stocks Change,med,,
+43,2021,Mar,24,Wednesday,10:30,USD,EIA Crude Oil Stocks Change,med,,
+44,2021,Mar,24,Wednesday,10:30,USD,EIA Distillate Stocks Change,med,,
+45,2021,Mar,24,Wednesday,10:30,USD,EIA Gasoline Production Change,low,,
+46,2021,Mar,24,Wednesday,10:30,USD,EIA Distillate Fuel Production Change,low,,
+47,2021,Mar,24,Wednesday,10:30,USD,105-Day Bill Auction,low,,
+48,2021,Mar,24,Wednesday,10:30,USD,154-Day Bill Auction,low,,
+49,2021,Mar,24,Wednesday,12:00,USD,5-Year Note Auction,low,,
+50,2021,Mar,24,Wednesday,12:00,USD,2-Year FRN Auction,low,,
+51,2021,Mar,24,Wednesday,18:50,JPY,Stock Investment by Foreigners,low,,
+52,2021,Mar,24,Wednesday,18:50,JPY,Foreign Bond Investment,low,,
 0,2021,Mar,25,Thursday,02:00,EUR,German GfK Consumer Confidence,high,,
 1,2021,Mar,25,Thursday,03:00,EUR,ECB General Council Meeting,med,,
 2,2021,Mar,25,Thursday,03:30,CHF,SNB Interest Rate Decision,med,-0.75%,-0.75%
@@ -1798,9 +1913,12 @@
 16,2021,Mar,25,Thursday,08:30,USD,Jobless Claims 4-week Average,med,,
 17,2021,Mar,25,Thursday,08:30,USD,Initial Jobless Claims,med,,
 18,2021,Mar,25,Thursday,10:00,USD,Kansas Fed Manufacturing Index,low,,
-19,2021,Mar,25,Thursday,10:30,USD,EIA Natural Gas Stocks Change,low,,
-20,2021,Mar,25,Thursday,18:30,JPY,Tokyo CPI YoY,low,,
-21,2021,Mar,25,Thursday,18:30,JPY,Core CPI,low,,
+19,2021,Mar,25,Thursday,10:30,USD,8-Week Bill Auction,low,,
+20,2021,Mar,25,Thursday,10:30,USD,EIA Natural Gas Stocks Change,low,,
+21,2021,Mar,25,Thursday,10:30,USD,4-Week Bill Auction,low,,
+22,2021,Mar,25,Thursday,12:00,USD,7-Year Note Auction,low,,
+23,2021,Mar,25,Thursday,18:30,JPY,Tokyo CPI YoY,low,,
+24,2021,Mar,25,Thursday,18:30,JPY,Core CPI,low,,
 0,2021,Mar,26,Friday,02:00,GBP,Retail Sales MoM,med,,
 1,2021,Mar,26,Friday,02:00,GBP,Retail Sales YoY,med,,
 2,2021,Mar,26,Friday,02:00,GBP,Core Retail Sales,low,,
