@@ -10,6 +10,9 @@ Our project will produce a robo advisor for Individual Investors to predict the 
 6. The tool will provide retail forex investors with buy/sell/neutral recommendation for EUR/USD, GPB/USD & USD/JPY
 
 ### Based on the economic calendar forecasts that highly impact the currency pair (EUR/USD, GBP/USD, USD/JPY), can we provide Buy/Sell/Neutral recommendations within 4 weeks of upcoming news events?
+
+![](https://github.com/lchristij/Project-01/blob/main/images/trading_view_historical.png)
+
 We establish that economic announcements have a significant impact on currency volatility and the ecomonic calendar available to Individual Retail Investors includes a Forecasted Consensus of the upcoming announcement vs. the Previous Consensus. We successfully perform our fundamental analysis via an algorithm to provide a Buy/Sell/Neutral recommendation based upon any difference (positive or negative) in that Forecast vs. Previous Consenses. The results provide a recommendation for each in which we net the positive and negative recommendations to produce our own summary recommendation for the period. Depending on the current market and economic conditions, this period can either change rapidly (daily/weekly) or maintain its recommendation for an extended period (weeks/months). This is evident in the links to the following graphs and plots:
 
 
