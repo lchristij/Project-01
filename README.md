@@ -4,9 +4,9 @@ Our project will produce a robo advisor for Individual Investors to predict the 
 ## Data Sets, Packages and Visualization:
 1. https://www.babypips.com/economic-calendar?timezone=America%2FChicago&week=2020-W51 - news events and consensus data related to forex pairs dating back to 2007 in chronological order consisting of 9 columns and several rows. The data is html based and will be scraped from website.
 2. https://rapidapi.com/alphavantage/api/alpha-vantage - pricing data provided in multiple formats such as csv, etc. for EUR/USD, GBP/USD, USD/JPY currency pairs from 2001-2021.
-3. https://app.alpaca.markets/paper/dashboard/overview - pricing data provided in multiple formats such as json, etc. for the following ETFs: FXE, FXY, FXG from 2016-2021.
+3. https://app.alpaca.markets/paper/dashboard/overview - pricing data provided in multiple formats such as json, etc. for the selected currency pairs from 2016-2021.
 4. Packages planned for use are: beautifulsoup, numpy, MCForecastTools_fp, datetime, holoviews, panel, hvplot, & pathlib
-5. Visualization frequency of plotted monte carlos simulation will be provided for directional strategy on ETFs (assuming Long positions only for initial analysis)***
+5. Visualization frequency of plotted monte carlos simulation will be provided for directional strategy on the currency pairs
 6. The tool will provide retail forex investors with buy/sell/neutral recommendation for EUR/USD, GPB/USD & USD/JPY
 
 ### Based on the economic calendar forecasts that highly impact the currency pair (EUR/USD, GBP/USD, USD/JPY), can we provide Buy/Sell/Neutral recommendations within 4 weeks of upcoming news events?
