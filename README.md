@@ -30,10 +30,13 @@ Great Britain Pound Line Chart:
 
 Provided the above assumptions, we were able to produce a confidence interval of the performance of all three currency pairs (EUR/USD, GPB/USD, USD/JPY). This Monte Carlo prediction on the returns that captures both the Long and Short impacts in the 8 week holding periods over 5 years. This was actually a slightly better performance than 4 week holding periods over 5 years. There may be additional peformance improvements for shorter durations such as daily or intraday, but that was beyond the scope of the MVP. The following plots and graphs illustrate our analysis to date:
 
+Stats for EUR/USD, GBP/USD, USD/JPY:
 ![](https://github.com/lchristij/Project-01/blob/main/images/MC_lower_upper.png)
 
+Monte Carlo Line Plot:
 ![](https://github.com/lchristij/Project-01/blob/main/images/monte_carlo.png)
 
+Monte Carlo Histogram:
 ![](https://github.com/lchristij/Project-01/blob/main/images/histo_graph.png)
 
 ### Can we iteratively improve the confidence interval of our recommendations through additional Time Series Analysis, NLP, and Machine Learning?
