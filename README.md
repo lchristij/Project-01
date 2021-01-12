@@ -10,12 +10,19 @@ Our project will produce a robo advisor for Individual Investors to predict the 
 6. The tool will provide retail forex investors with buy/sell/neutral recommendation for EUR/USD, GPB/USD & USD/JPY
 
 ### Based on the economic calendar forecasts that highly impact the currency pair (EUR/USD, GBP/USD, USD/JPY), can we provide Buy/Sell/Neutral recommendations within 4 weeks of upcoming news events?
-We know that economic announcments have a significant impact on currency volatility and the ecomonic calendar available to Individual Retail Investors includes a Forecasted Consensus of the upcoming announcement vs. the Previous Consensus. We perform our fundamental analysis to provide a Buy/Sell/Neutral recommendation based upon any difference in that Forecast vs. Previous Consenses.***
+We establish that economic announcements have a significant impact on currency volatility and the ecomonic calendar available to Individual Retail Investors includes a Forecasted Consensus of the upcoming announcement vs. the Previous Consensus. We successfully perform our fundamental analysis via an algorithm to provide a Buy/Sell/Neutral recommendation based upon any difference (positive or negative) in that Forecast vs. Previous Consenses. The results provide a recommendation for each in which we net the positive and negative recommendations to produce our own summary recommendation for the period. Depending on the current market and economic conditions, this period can either change rapidly (daily/weekly) or maintain its recommendation for an extended period (weeks/months). This is evident in the links to the following graphs and plots:
 
-Relevant Plots/Graphs
+
+
 
 #### Given an initial investment amount of $10,000 and assuming recurring 8 week holding periods over 5 years, with what confidence can we produce an expected return for the investor over that holding period?
-Short Description + Relevant Plots/Graphs
+Provided the above assumptions, we were able to produce a confidence interval of the performance of all three currency pairs (EUR/USD, GPB/USD, USD/JPY). This Monte Carlo prediction on the returns that captures both the Long and Short impacts in the 8 week holding periods over 5 years. This was actually a slightly better performance than 4 week holding periods over 5 years. There may be additional peformance improvements for shorter durations such as daily or intraday, but that was beyond the scope of the MVP. The following plots and graphs illustrate our analysis to date:
+
+
+
 
 ##### Can we iteratively improve the confidence interval of our recommendations through additional Time Series Analysis, NLP, and Machine Learning?
+We identified several areas for improvement through our development process. The first was to create a Natural Language Processor to identify which economics news events had a positve vs. a negative directional impact on the specific currency. We also recognized that both time series analysis and machine learning could be utilized to provide our own Forecast consensus numbers prior to having to wait for the Forecasts from Babypips to be published. Finally, we realized the historic volatility could be best captured with specifically timed Long/Short recommendations/actions to maximize profit over the same holding periods. This can be achieved through multiple accounts or a non FIFO based trading account to allow for multidirectional trading at the same time. By implementing all of the above with an additional 2 weeks for development, we could drastically improve our recommendation accuracy to provide significant improvement in overall performance, most likely through an automated algorithmic trading bot. Looking forward to those potential features in Project 2!
+
+
 Short Description + Relevant Plots/Graphs
