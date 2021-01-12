@@ -15,13 +15,13 @@ We establish that economic announcements have a significant impact on currency v
 https://github.com/lchristij/Project-01/blob/main/images/
 
 
-#### Given an initial investment amount of $10,000 and assuming recurring 8 week holding periods over 5 years, with what confidence can we produce an expected return for the investor over that holding period?
+### Given an initial investment amount of $10,000 and assuming recurring 8 week holding periods over 5 years, with what confidence can we produce an expected return for the investor over that holding period?
 Provided the above assumptions, we were able to produce a confidence interval of the performance of all three currency pairs (EUR/USD, GPB/USD, USD/JPY). This Monte Carlo prediction on the returns that captures both the Long and Short impacts in the 8 week holding periods over 5 years. This was actually a slightly better performance than 4 week holding periods over 5 years. There may be additional peformance improvements for shorter durations such as daily or intraday, but that was beyond the scope of the MVP. The following plots and graphs illustrate our analysis to date:
 
 
 
 
-##### Can we iteratively improve the confidence interval of our recommendations through additional Time Series Analysis, NLP, and Machine Learning?
+### Can we iteratively improve the confidence interval of our recommendations through additional Time Series Analysis, NLP, and Machine Learning?
 We identified several areas for improvement through our development process. The first was to create a Natural Language Processor to identify which economics news events had a positve vs. a negative directional impact on the specific currency. We also recognized that both time series analysis and machine learning could be utilized to provide our own Forecast consensus numbers prior to having to wait for the Forecasts from Babypips to be published. Finally, we realized the historic volatility could be best captured with specifically timed Long/Short recommendations/actions to maximize profit over the same holding periods. This can be achieved through multiple accounts or a non FIFO based trading account to allow for multidirectional trading at the same time. By implementing all of the above with an additional 2 weeks for development, we could drastically improve our recommendation accuracy to provide significant improvement in overall performance, most likely through an automated algorithmic trading bot. Looking forward to those potential features in Project 2!
 
 
